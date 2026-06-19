@@ -1,0 +1,269 @@
+[
+  {
+    "text": "Title: Masked agents, tear gas, and raids: the tactics used in Trump's deportation drive News Scource: BBC Political leaning: Center News type: Broadcast Transcript Published Date: 2 November 2025 Source Link: https://www.bbc.com/news/videos/c6299nrj76yo\n\n[00:01]-&gt;[00:33]\n\nExtraordinary scenes have been playing\n\nOut in ordinary places across the United\n\nStates in recent months.\n\nTear gas and odor been parked.\n\nWait, you guys came to the school and to\n\nDo this?\n\n&gt;&gt; You have a warrant?\n\nWhat we're seeing is the result of a key\n\nCampaign promise from Donald Trump.\n\nOn Day one I will launch the largest\n\nDeportation program in American history.\n\nImmigration and Customs Enforcement,\n\nOtherwise known as ICE, is the main\n\nAgency implementing his plan to deport\n\n[00:30]-&gt;[01:01]\n\nMillions of undocumented immigrants.\n\nBut other departments are also involved,\n\nIncluding Border Patrol.\n\n[Music]These agents are usually stationed along\n\nAmerica's land borders, but they're\n\nIncreasingly being seen making arrests\n\nIn US cities.\n\nThis is a whole of\n\nGovernment effort.\n\nWe have never seen\n\nAnything like this in the United States\n\nOf America.\n\nThis is an unprecedented\n\nEffort to reduce the immigrant\n\nPopulation in the country.\n\nThe Trump Administration has reportedly set ICE a\n\n[00:58]-&gt;[01:28]\n\nGoal of 3,000 arrests a day.\n\nThey're Still some way off that, but the\n\nAgency's average monthly arrests under\n\nPresident Trump are about three times as\n\nHigh as under President Biden over the\n\nSame period last year.\n\nTrump says anyone who has entered the",
+    "section_title": "",
+    "content_types": [
+      "paragraph"
+    ],
+    "start_line": 0,
+    "end_line": 80,
+    "chunk_id": "117d13d8c3310299",
+    "title": "Trump's Deportation Drive Tactics",
+    "summary": "The Trump administration's deportation drive involves tactics like tear gas, raids, and a goal of 3,000 arrests a day, implemented by ICE and Border Patrol.",
+    "keywords": [
+      "deportation drive",
+      "trump administration",
+      "ice",
+      "border patrol",
+      "arrests",
+      "tear gas",
+      "raids"
+    ],
+    "entities": [
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      },
+      {
+        "name": "ICE",
+        "type": "ORG"
+      },
+      {
+        "name": "Border Patrol",
+        "type": "ORG"
+      },
+      {
+        "name": "United States",
+        "type": "LOC"
+      },
+      {
+        "name": "BBC",
+        "type": "ORG"
+      }
+    ],
+    "questions": [
+      "What are the tactics used in Trump's deportation drive?",
+      "How many arrests does the Trump administration aim to make daily?",
+      "What role do ICE and Border Patrol play in the deportation drive?"
+    ],
+    "key": "deportation drive tactics",
+    "related_keys": [
+      "immigration policy",
+      "trump administration immigration"
+    ],
+    "position_index": 0,
+    "previous_chunk_id": "",
+    "next_chunk_id": "325ba7538af3b85a",
+    "token_count": 362,
+    "source": "DC7__Center__Broadcast.html",
+    "event_id": "DC7",
+    "political_perspective": "Center",
+    "doc_type": "Broadcast"
+  },
+  {
+    "text": "Country illegally is a potential target.\n\nFormer ICE officials, like John Sandweg,\n\nWho headed the agency under Barack\n\nObama, say previous administrations\n\nPrioritized arresting those with a\n\nCriminal record.\n\nIt'd be much more\n\nTargeted surgical strike.\n\n[01:28]-&gt;[01:59]\n\nNot nearly as Flashy, much lower profile, and far less\n\nControversial.\n\nOf course, what we're\n\nWhat has happened here though is the\n\nAdministration didn't like that\n\nApproach.\n\nAnd the reason they didn't\n\nLike that approach is it doesn't result\n\nIn large numbers of arrests.\n\nAnd what This has resulted in is a shift in\n\nTactics away from these more targeted\n\nApproaches, but just mass arrests of\n\nPeople.\n\nBBC Verify has gathered more\n\nThan 70 videos shared on social media of\n\nThe current crackdown across several\n\nCities since June.\n\nAnd we found three tactics being widely\n\n[01:56]-&gt;[02:27]\n\nUsed under Trump this term.\n\nAgents concealing their identities.\n\nWhat Law enforcement agency are you with?\n\nPeople being arrested outside\n\nImmigration courts and other previously\n\nProtected places.\n\n[Music]And the use of weapons normally\n\nAssociated with controlling riots, like\n\nTear gas, on civilians.\n\n&gt;&gt; Do you see The most widespread tactic we've seen is\n\nOfficers hiding their faces.\n\nIn more Than 80% of the videos we analyzed, some\n\nOf the officers involved are wearing\n\n[02:25]-&gt;[02:56]\n\nFace coverings.\n\nIn seven videos, some agents are seen in\n\nPlain clothing with no clear law\n\nEnforcement ID on display.\n\nThey also Often use unmarked vehicles.\n\nImmigration agents have operated",
+    "section_title": "",
+    "content_types": [
+      "paragraph"
+    ],
+    "start_line": 82,
+    "end_line": 176,
+    "chunk_id": "325ba7538af3b85a",
+    "title": "Trump Administration's Deportation Tactics Shift",
+    "summary": "The Trump administration's deportation drive has shifted from targeted approaches to mass arrests, with tactics like concealing identities, arresting outside immigration courts, and using tear gas on civilians.",
+    "keywords": [
+      "deportation drive",
+      "mass arrests",
+      "targeted approaches",
+      "concealing identities",
+      "tear gas",
+      "immigration courts"
+    ],
+    "entities": [
+      {
+        "name": "John Sandweg",
+        "type": "PERSON"
+      },
+      {
+        "name": "Barack Obama",
+        "type": "PERSON"
+      },
+      {
+        "name": "ICE",
+        "type": "ORG"
+      },
+      {
+        "name": "Border Patrol",
+        "type": "ORG"
+      }
+    ],
+    "questions": [
+      "What are the Trump administration's deportation tactics?",
+      "How has the Trump administration's deportation drive changed from previous administrations?",
+      "What tactics are being used by immigration agents under the Trump administration?"
+    ],
+    "key": "deportation drive tactics",
+    "related_keys": [
+      "deportation drive tactics"
+    ],
+    "position_index": 1,
+    "previous_chunk_id": "117d13d8c3310299",
+    "next_chunk_id": "a7c61e4d221f37da",
+    "token_count": 359,
+    "source": "DC7__Center__Broadcast.html",
+    "event_id": "DC7",
+    "political_perspective": "Center",
+    "doc_type": "Broadcast"
+  },
+  {
+    "text": "Undercover in the past.\n\nBut the widespread use of face coverings\n\nIs new, according to Deborah Flyshaker,\n\nWho was the acting chief of staff at ICE\n\nUnder President Biden.\n\nMasking Is not something I've ever seen done\n\nBefore.\n\n[02:53]-&gt;[03:23]\n\nUm, these are people we trust to carry\n\nGuns on behalf of the federal\n\nGovernment.\n\nBy being masked and by\n\nFailing to identify yourself, I think\n\nThat it is it is making the situation\n\nMore dangerous and putting people at\n\nRisk.\n\nThe Trump administration says it's\n\nNecessary for the protection of the\n\nAgents.\n\nThey report officers and their families\n\nAre being threatened online, and that\n\nThey are facing a more than a 1,000%\n\nIncrease in assaults, although we can't\n\nIndependently verify this figure.\n\n[03:23]-&gt;[03:54]\n\nI'm Going to answer the mask question.\n\nOh, I'm sorry if people are offended by them\n\nWearing masks, but I'm not going to let\n\nMy officers and agents go out there and\n\nPut their lives on the line and their\n\nFamily on the line because people don't\n\nLike what immigration enforcement is.\n\nThe second tactical shift is where the\n\nArrests are taking place.\n\nBefore Trump Entered office at the start of this\n\nYear, certain locations were typically\n\nOut of bounds for immigration\n\nEnforcement.\n\nBut now we're seeing\n\nFederal agents in hospitals.\n\n[03:50]-&gt;[04:20]\n\nAnd they patrol immigration courthouses.\n\nWhen people are coming to court, it's\n\nBecause they want to be following the\n\nProcess and trying to gain lawful status\n\nIn the United States.\n\nIt's also because If they don't come to court, they can be",
+    "section_title": "",
+    "content_types": [
+      "paragraph"
+    ],
+    "start_line": 178,
+    "end_line": 270,
+    "chunk_id": "a7c61e4d221f37da",
+    "title": "Immigration Enforcement Tactics Shift",
+    "summary": "The Trump administration's immigration enforcement tactics have shifted from targeted approaches to mass arrests, with new tactics like concealing identities and using tear gas on civilians.",
+    "keywords": [
+      "immigration enforcement",
+      "mass arrests",
+      "deportation drive",
+      "face coverings",
+      "ICE"
+    ],
+    "entities": [
+      {
+        "name": "Deborah Flyshaker",
+        "type": "PERSON"
+      },
+      {
+        "name": "ICE",
+        "type": "ORG"
+      }
+    ],
+    "questions": [
+      "What are the new immigration enforcement tactics?",
+      "Why are immigration agents wearing face coverings?",
+      "Where are immigration agents making arrests?"
+    ],
+    "key": "deportation drive tactics",
+    "related_keys": [
+      "deportation drive tactics"
+    ],
+    "position_index": 2,
+    "previous_chunk_id": "325ba7538af3b85a",
+    "next_chunk_id": "1cb3e6f30bc27a4d",
+    "token_count": 375,
+    "source": "DC7__Center__Broadcast.html",
+    "event_id": "DC7",
+    "political_perspective": "Center",
+    "doc_type": "Broadcast"
+  },
+  {
+    "text": "Ordered removed in their absence.\n\nSo, It's a catch-22.\n\nWe verified several Videos of arrests taking place at 26\n\n[04:18]-&gt;[04:49]\n\nFederal Plaza in New York.\n\nThe Immigration courthouse here has become\n\nThe epicenter of the crackdown in the\n\nCity.\n\nThis incident there went viral.\n\nA woman Whose husband had just been detained\n\nConfronts an agent And is thrown to the ground.\n\n[Laughter]The officer was temporarily suspended as\n\nA result.\n\nThe third tactic we've analyzed is the\n\nUse of tear gas and other chemical\n\n[04:47]-&gt;[05:18]\n\nIrritants by officers.\n\nWe verified footage of them being used\n\nIn eight different incidents.\n\nThis is a raid in Los Angeles targeting\n\nSuspected illegal immigrants trying to\n\nPick up construction jobs.\n\nOne agent Points pepper spray at someone filming.\n\nAnother deploys what appears to be a\n\nTear gas canister.\n\nTear gas has also been deployed against\n\nCivilians protesting the crackdown,\n\nIncluding in these incidents, which\n\n[05:15]-&gt;[05:49]\n\nHappened in Chicago in October.\n\nEarlier in the month, a judge in the\n\nCity told agents to stop using such\n\nWeapons on protesters who pose no\n\nImmediate threat, and has raised\n\nConcerns that they still appear to be\n\nDoing so.\n\nDr.\n\nRohini Haar has studied the dangers\n\nOf deploying tear gas in civilian\n\nSettings.\n\nIt's an indiscriminate weapon,\n\nAnd so you can't really target that\n\nTowards an individual that's posing a\n\nThreat or is causing harm.\n\nIt will hit Everybody in the area.\n\nIt appears that They're using it excessively and\n\n[05:47]-&gt;[06:18]",
+    "section_title": "",
+    "content_types": [
+      "paragraph"
+    ],
+    "start_line": 272,
+    "end_line": 364,
+    "chunk_id": "1cb3e6f30bc27a4d",
+    "title": "Immigration Enforcement Tactics Escalate",
+    "summary": "The Trump administration's immigration enforcement tactics have shifted from targeted approaches to mass arrests, with new tactics like concealing identities and using tear gas on civilians. This chunk focuses on the use of tear gas and other chemical irritants by officers.",
+    "keywords": [
+      "immigration enforcement",
+      "mass arrests",
+      "tear gas",
+      "chemical irritants",
+      "immigration crackdown"
+    ],
+    "entities": [
+      {
+        "name": "Dr. Rohini Haar",
+        "type": "PERSON"
+      },
+      {
+        "name": "Federal Plaza",
+        "type": "LOC"
+      },
+      {
+        "name": "Los Angeles",
+        "type": "LOC"
+      },
+      {
+        "name": "Chicago",
+        "type": "LOC"
+      }
+    ],
+    "questions": [
+      "What are the new immigration enforcement tactics used by the Trump administration?",
+      "How is tear gas being used by immigration officers?",
+      "What are the concerns about the use of tear gas on civilians?"
+    ],
+    "key": "tear gas use",
+    "related_keys": [
+      "deportation drive tactics"
+    ],
+    "position_index": 3,
+    "previous_chunk_id": "a7c61e4d221f37da",
+    "next_chunk_id": "4ada2ea174e249d4",
+    "token_count": 372,
+    "source": "DC7__Center__Broadcast.html",
+    "event_id": "DC7",
+    "political_perspective": "Center",
+    "doc_type": "Broadcast"
+  },
+  {
+    "text": "Unnecessarily and Quite disproportionately to what the\n\nThreat is that's being posed.\n\nThe Department of Homeland Security says\n\nFar-left protesters have interrupted\n\nTheir work.\n\nAnd they've published video\n\nShowing people throwing objects towards\n\nAgents.\n\nCongress basically handed ICE a\n\nBlank check.\n\nAnything they want to do\n\nNow, they can afford to do.\n\nI think that What we've seen largely up to this point\n\nHas been the opening act, and we're\n\nAbout to get into the the meat of the\n\nPerformance.\n\nImmigration raids and the\n\n[06:16]-&gt;[06:35]\n\nProtest against them show no signs of\n\nSlowing.\n\nRecruitment drives to further\n\nBolster ICE's ranks are well underway.\n\nThat's part of a $75 billion package\n\nApproved for the agency over the next\n\nFour years.\n\nThis will make it the\n\nHighest-funded law enforcement body in\n\nThe US by far.",
+    "section_title": "",
+    "content_types": [
+      "paragraph"
+    ],
+    "start_line": 366,
+    "end_line": 420,
+    "chunk_id": "4ada2ea174e249d4",
+    "title": "ICE Funding and Enforcement Tactics",
+    "summary": "The Department of Homeland Security has published video showing protesters throwing objects at agents, and Congress has approved a $75 billion package for ICE over the next four years, making it the highest-funded law enforcement body in the US.",
+    "keywords": [
+      "ICE funding",
+      "enforcement tactics",
+      "tear gas use",
+      "immigration raids",
+      "recruitment drives"
+    ],
+    "entities": [
+      {
+        "name": "Department of Homeland Security",
+        "type": "ORG"
+      },
+      {
+        "name": "ICE",
+        "type": "ORG"
+      },
+      {
+        "name": "US",
+        "type": "LOC"
+      }
+    ],
+    "questions": [
+      "What is the current funding status of ICE?",
+      "How are ICE's enforcement tactics changing?",
+      "What is the impact of the $75 billion package on ICE's operations?"
+    ],
+    "key": "recruitment drives",
+    "related_keys": [
+      "deportation drive tactics",
+      "tear gas use"
+    ],
+    "position_index": 4,
+    "previous_chunk_id": "1cb3e6f30bc27a4d",
+    "next_chunk_id": "",
+    "token_count": 192,
+    "source": "DC7__Center__Broadcast.html",
+    "event_id": "DC7",
+    "political_perspective": "Center",
+    "doc_type": "Broadcast"
+  }
+]

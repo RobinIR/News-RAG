@@ -1,0 +1,16 @@
+flask==3.0.0
+flask-cors==3.0.10
+python-dotenv==1.2.2
+beautifulsoup4>=4.12.0
+lxml==6.1.1
+markdown-it-py==4.2.0
+markdownify==1.2.2
+mdkeychunker @ git+https://github.com/bhavik-mangla/MDKeyChunker.git@e3e1b867a089f2607f6f4d6b0a6dff6ea7251085
+openai==2.37.0
+chromadb==1.5.9
+docling==2.94.0
+docling-core==2.76.0
+docling-ibm-models==3.13.2
+docling-parse==5.11.0
+docling-slim==2.94.0
+trafilatura==2.1.0

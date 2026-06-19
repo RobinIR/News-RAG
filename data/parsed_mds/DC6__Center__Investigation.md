@@ -1,0 +1,105 @@
+Title: Can Trump Deport People to Any Country That Will Take Them ? News Scource: The New Yorker Political leaning: Center News type: Investigation Report/Long Analysis Published Date: July 16, 2025 Source Link: https://www.newyorker.com/news/q-and-a/can-trump-deport-people-to-any-country-that-will-take-them#rid=7a9bd692-6baf-4d10-87ca-049fdd485c3e&amp;q=deportations
+
+Can Trump Deport People to Any Country That Will Take Them?
+
+A Yale Law professor on the Administration's third-country deportation powers-and why the Supreme Court allowed it to send eight men to a prison in South Sudan.
+
+By Isaac Chotiner
+
+July 16, 2025
+
+Earlier this month, the Trump Administration deported eight migrants to South Sudan, a country beset by conflict and extreme hunger. Only one of the men, who have all been convicted of violent crimes, is from South Sudan, and their families have reportedly not heard from them since their arrival in that country. The Supreme Court allowed their deportations to proceed, which has raised concerns from human-rights organizations that the Administration would begin deporting more people to third countries where they could be at risk of violence and torture. And indeed, last week, U.S. Immigration and Customs Enforcement released internal guidance explaining that when a foreign country has offered "credible diplomatic assurances" about keeping detainees from being tortured, deportations can move forward.
+
+I recently spoke by phone with Cristina Rodríguez, a professor at Yale Law School who specializes in immigration law and the separation of powers. During our conversation, which has been edited for length and clarity, we discussed why these latest deportations are uniquely concerning, whether the Supreme Court is likely to step in once again and make a broader ruling on third-country removals, and how the courts should deal with an Administration that can't be trusted.
+
+As of now, what is legally stopping the Trump Administration from picking up non-citizens off the street, and sending them to any country that they want to, including countries that they're not from?
+
+The first thing that's stopping them from doing that is the requirement that before someone is ordered removed, they get due process. I don't think anything that the Supreme Court, or any other court, for that matter, has done has eliminated that basic protection, though the devil is certainly in the details with respect to what amounts to due process.
+
+The question is whether the statute that governs third-country removals is still playing any kind of role in the way the Administration goes about determining whether to send people to a third country. That statute makes third-country removals a matter of last resort. There are other efforts that the Administration is supposed to make before removing someone to a country that they don't have citizenship in, or haven't lived in before, or have not designated as a place to which they'd like to be removed.
+
+There's so little that we know about what the Administration has negotiated with these countries that are third-country-removal locations that it's hard to say whether they're attempting to abide by the limits placed in the statute, or whether they're circumventing them and just deciding to do whatever is easiest, and remove people to these third-country locations.
+
+O.K., a two-part question then: What is the statute, and what should they be doing according to it? And secondly, what does "due process" mean in this context? Not what does it mean to the Trump Administration but what should it mean in this context?
+
+The statute is 8 U.S.C., Section 1231 (b). It's a provision of the Immigration and Nationality Act that lists the different countries that qualify as third countries to which an Administration can remove someone. So there is no prohibition on sending people to a third country if they can't be sent back to their countries of origin. The statute starts out by listing the places to which the government could remove someone, which include the country from which the alien was admitted to the United States, the country in which they last resided, the country where they were born. And then it says that if removing someone to any of those places is "impracticable, inadvisable, or impossible," then the government can remove someone to another country that will accept them.
+
+That has been done in the past, but it is rare that the government will remove someone to a third country to which the person has no connection whatsoever. Not to mention that it's unheard of to remove someone to a prison in a foreign country to which they have no connection, or to a war zone. So that's what Congress contemplated on the theory that someone should be removed to a place to which they have a connection, but removal has to be effectuated at some point if those countries will not accept the non-citizen.
+
+In this context, what "due process of law" ought to mean is that before someone is ordered removed to a place to which they have no connection, they ought to have notice of that fact, and then the opportunity to make a claim that such removal would violate rights that they hold under the immigration laws. Those rights include the right not to be sent to a place where there's a possibility or likelihood that they will be tortured or subject to cruel, inhuman, or degrading treatment, and not to be removed to a country where they might be subject to persecution, which legally is a different concept.
+
+So the second one would be sending a Uyghur to China, say, even if they weren't from China?
+
+Exactly.
+
+The Administration seems to be claiming that they are going to get assurances from these third countries that these prisoners will be treated well. Clearly, there's absolutely no reason to trust anything they say about this, but I assume this might be the type of thing that courts-and especially this Supreme Court-would give deference to.
+
+The first thing I would say is that we should not talk about this in terms of transfers of prisoners. As far as I know, some of the people who have been removed or who the government seeks to remove to third countries are people who have served their sentences in the United States, and are therefore eligible for removal, and probably ought to be removed, but they are no longer prisoners in the conventional sense. The idea of removing someone to a prison for further punishment is very concerning.
+
+Sorry, yes, that's a good point. I didn't mean to use language that had any sort of valence to it. I just meant anyone that they were removing.
+
+Right. The reason, though, I think it is important to emphasize is because of things like the removals under the Alien Enemies Act to a Salvadoran prison. It wasn't just a removal to El Salvador; it was people who had not been convicted of anything sent to a prison under an agreement by the United States.
+
+As for South Sudan, some media coverage has said that officials in South Sudan have custody of the people who were removed there. Do we know if they're in prison? Do we know if they're living at large with some kind of status to work and move about? We don't know.
+
+But you're absolutely right that there are serious limits to what courts will be able to do when the government decides to move people to a third country, because they will not want to peer behind the negotiations that the government has had with other countries. They certainly might wish to scrutinize them because this Administration has made a number of misrepresentations before courts, and does not seem to want to justify itself.
+
+If the countries to which people are being removed are countries that the United States itself warns are unsafe, that might warrant scrutiny as well. If there is a basic claim that the Administration has negotiated diplomatically that there will be fair treatment, or that the countries are willing to take them, I'm not sure that the courts can stop them, short of requiring the procedures of notice and opportunity to be heard, to make claims about fear of torture, and the like.
+
+We know that these deportees to South Sudan had served time for crimes in American prison, but there's nothing stopping the Administration from picking someone up who didn't commit any crime in America other than crossing the border, and sending them to South Sudan, correct?
+
+No, there is not. I think that there is a chance that the Administration is developing this strategy in a concerted way, and it is a way to insure that even people who through normal immigration proceedings are ordered not to be removed, because they fear persecution in their countries of origin, can nonetheless be removed to a third country. It might be that the Administration is negotiating deals with other countries. We know that it did with El Salvador to accelerate removals. There are countries that won't take their nationals back.
+
+But even putting aside people with fear of persecution, what's to stop the Administration from just taking any border crosser from Mexico and sending them to South Sudan?
+
+I'm not sure that there is anything stopping them-other than the statute, which makes that a last resort and requires the Administration to go through efforts to remove people to the other types of countries listed in the statute, and convention. This is not a strategy that the United States government has used to any significant extent, especially to the extent where they're removing people to war zones like South Sudan or Sudan, or to prisons, as they did with El Salvador.
+
+What has the Supreme Court said so far about this?
+
+The Supreme Court has not really said anything, except that it stayed an injunction that a lower court issued which prevented the Administration from removing people to third countries without notice and opportunity to be heard. But we don't know why. In that decision, on the so-called emergency docket, the Court offered no explanation. We only have a nineteen-page dissent by Justice Sonia Sotomayor that gives us some sense of why there are legal problems with what the Court has done.
+
+So we don't know the Court's rationale. I expect they might've been persuaded by the government's argument, which is that the people whom the government slated to remove to Libya and then South Sudan are people who've already been ordered removed from the United States. When the Supreme Court said back in April that you can't remove someone without due process, they were referring to the initial determination about whether someone can be deported. All the people at issue have been ordered deported. Presumably they received due process when they were determined to be removable. As far as we know, there is no reason to think they didn't.
+
+So maybe the Court is distinguishing between the proceedings that determined they were removable, where notice and an opportunity to be heard would have been required, and the subsequent efforts by the government to remove them to a third country, where the Court seems to be suggesting little if any process is due, including the opportunity to raise claims under the anti-torture statute. The government is arguing that interfering with removal once removal has been ordered is interfering with the government's power to conduct external relations and the foreign affairs of the United States.
+
+What is Sotomayor saying in response?
+
+Justice Sotomayor is saying a couple of things. No. 1, she's saying that the Court has given extraordinary relief by intervening to stay the injunction, and that that kind of extraordinary equitable relief really should only extend to people who come to the process with clean hands. She's suggesting that the government is not coming to the process with clean hands. They violated the district-court order before the Court stayed that order and are, in effect, being disingenuous about their reasons.
+
+She is also saying that the decision to remove someone to a country that is a third country to which they have no connection, without giving them a chance to claim or make the claim that they would be subject to torture or death, is a violation of their statutory rights, and potentially to their constitutional rights to due process, and that the Court ought to have explained itself in doing that.
+
+I assume you have some sympathy with that point of view?
+
+I do have some sympathy with that point of view. I think the process that the district court required was relatively minimal, and the convention against torture is part of domestic law. It's not just an international convention to which the United States acceded. Giving someone the opportunity to make those claims when they're being sent to a war zone seems pretty basic.
+
+I do think it's also important to understand that, irrespective of the legal claims, the idea is that the government would start sending people to places where they can effectively get lost, where people cannot find them anymore, where they have no status, where they have no connection, is a cruel way to operate a system of removals. There are many things short of doing that that the United States could do in order to insure the removal of "the worst of the worst," as the Administration puts it.
+
+Earlier you said it was rare to send someone to a country where they didn't have a connection, but are there some similarities here to enforced disappearances during the war on terror, when the United States government would take people and send them to prisons in foreign countries?
+
+First, I would say that most if not all of the people who were captured and then detained in the way that you're describing were found on active battlefields. The Administration at the time, the Bush Administration, did define that pretty broadly. But that is very different from detaining someone who is on U.S. soil outside of the theatre of war. That's only the first way to think about it. There was a great deal of litigation during those years about what authority the government had to detain people, and where they had to send them.
+
+I think the key point is that at a certain point, the political pressure around the discovery that the United States was housing or hosting black sites in different parts of the world, including even in Eastern Europe, led the Bush Administration to bring those detainees to Guantánamo, which then precipitated years of litigation about whether their detention there was lawful, and what types of process those individuals were owed.
+
+One point of comparison that I do think is helpful as a precedent is that there were people who were detained at Guantánamo who could not be returned to their countries of origin. The best example were a group of Uyghurs that the Administration-actually both the Bush and the Obama Administrations-determined could not be returned to China for fear of persecution, but holding them at Guantánamo ultimately became untenable.
+
+Courts put pressure on the Administration to deal with those people. The Obama Administration eventually negotiated agreements with third countries, including Myanmar and Palau, to relocate those detainees. Importantly, they were relocated to places that were not war zones. As I understand it, the transitions of those people who are relocated have been rocky. It's not easy to integrate into a country to which you have no connection, but that is the kind of negotiation and compromise that occurred during the war on terror for people who the Administration could not return to their countries of origin, but no longer wanted to or could detain in U.S. custody.
+
+I assume it was done by following the statute you mentioned earlier, and that their removals to countries like Palau happened in part because these people could not be sent to the category of country listed in the statute, correct?
+
+That's right. One thing that we really ought to know, or people ought to find out, and that the government should be forthcoming about is what exactly are the contents of their deliberations over the removal of these people, and what efforts have they made to send them to places that aren't South Sudan or Libya, which are clearly not safe places to send anybody. Then, what is the content of the agreements they made with those countries?
+
+The fact that the Administration had to backtrack from sending people to Libya, including because reports of migrants being sent there caused unrest among rival factions, suggests that maybe these are not carefully crafted agreements.
+
+Oh, you think so? Not carefully crafted agreements?
+
+Right, it's just removing people from the country and then saying, "We no longer have custody or responsibility."
+
+What are you now looking for, going forward? What are the issues that you think are going to come up as, I assume, the Administration starts trying to do this more often? And what do you think the Supreme Court, if it does have to decide, will have to decide?
+
+I would like to see what happens in the district courts if people continue to raise claims that might eventually make their way to the Supreme Court for a decision on the merits, or a clear decision about why the Court thinks that it's lawful to remove someone to a third country without letting them raise claims of potential torture. I also would like to see whether this is a strategy that the Administration is actually going to use more generally, and whether it's going to apply not to people who have been convicted of terrible offenses and have been ordered removed but as a strategy to accelerate deportations of people who might have withholding claims, and therefore can't be sent back to their countries of origin. Typically, those people, like Kilmar Abrego Garcia, end up paroled into the United States, and might even be authorized to work in the United States.
+
+Is the Administration going to change the practice and use third-country removals in order to accelerate those deportations as well? It seems like movement was already under way to try to accelerate the removals of people for whom there were these obstacles. There was a guidance issued, in March of this year, that's suggestive of that. Whether they're actually going to use that as a strategy or whether this is enforcement theatre, I think is the big question.
+
+"Enforcement theatre"?
+
+Whether this particular case and their attempts to send a group of people to Libya or South Sudan is just like the use of the Alien Enemies Act-i.e., an egregious use of questionable authority designed to make it seem like the Administration is being tough, but is not actually a strategy that's going to become more widespread. I think that is something we don't know yet. ♦

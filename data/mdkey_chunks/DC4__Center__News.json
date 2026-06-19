@@ -1,0 +1,121 @@
+[
+  {
+    "text": "Title: Majority Of Americans Disapprove Of How ICE Operates, New Survey Shows News Source: Forbes Political Leaning: Center News Type: News Published Date: 09 January 2026 Source Link: www.forbes.com/sites/mikestunson/2026/01/09/majority-of-americans-disapprove-of-how-ice-operates-new-survey-shows/ Topic: Deportation Campaign Topline\n\nA majority of Americans said they do not approve of the way Immigration and Customs Enforcement officers are handling their jobs, according to a poll carried out the same day Renee Good was shot in the head and killed by an ICE officer in Minnesota.\n\nKey Facts\n\nIn the poll, in which YouGov surveyed 2,686 American adults, 40% of people said they \"strongly disapprove\" and another 12% said they \"somewhat disapprove\" of the actions by ICE.\n\nJust 24% strongly approved and 15% somewhat approved, according to the poll, which showed 10% of people were unsure of their response.\n\nThe respondents were also asked about tactics by ICE, with 51% of people saying the federal agency's officers were being \"too forceful.\"\n\nYouGov found 27% of people believed ICE's tactics were \"about right,\" whereas 10% felt they weren't being forceful enough.\n\nKey Background",
+    "section_title": "",
+    "content_types": [
+      "paragraph"
+    ],
+    "start_line": 0,
+    "end_line": 14,
+    "chunk_id": "0c8e4c6e45ab4b41",
+    "title": "ICE Disapproval Poll Results",
+    "summary": "A majority of Americans disapprove of ICE's actions, with 40% strongly disapproving and 12% somewhat disapproving. The poll also found that 51% of people believe ICE's tactics are too forceful.",
+    "keywords": [
+      "ICE",
+      "disapproval",
+      "poll",
+      "tactics",
+      "forceful"
+    ],
+    "entities": [
+      {
+        "name": "Immigration and Customs Enforcement",
+        "type": "ORG"
+      },
+      {
+        "name": "Renee Good",
+        "type": "PERSON"
+      },
+      {
+        "name": "YouGov",
+        "type": "ORG"
+      }
+    ],
+    "questions": [
+      "What percentage of Americans disapprove of ICE's actions?",
+      "Do Americans believe ICE's tactics are too forceful?",
+      "What percentage of people strongly disapprove of ICE's actions?"
+    ],
+    "key": "ice disapproval",
+    "related_keys": [
+      "deportation campaign"
+    ],
+    "position_index": 0,
+    "previous_chunk_id": "",
+    "next_chunk_id": "7a1044a90cfecb58",
+    "token_count": 279,
+    "source": "DC4__Center__News.html",
+    "event_id": "DC4",
+    "political_perspective": "Center",
+    "doc_type": "News"
+  },
+  {
+    "text": "The YouGov poll falls in line with a Pew Research survey from August, which showed 53% of Americans said the Donald Trump administration was doing \"too much\" on deportations, with 50% disapproving of the president's immigration approach. Similarly, 57% of people surveyed by Quinnipiac University in July said they disapproved of how ICE was enforcing immigration laws.\n\nCrucial Quote\n\n\"ICE has done nothing but inject terror, chaos and cruelty into our communities,\" Rep. Maxine Dexter, D-Ore., said after two people were shot by federal agents in Oregon on Thursday. \"Trump's immigration machine is using violence to control our communities-straight out of the authoritarian playbook.\"\n\nContra\n\nSen. Eric Schmitt, R-Mo., called the treatment of ICE \"really destructive\" one month before Good was shot: \"When we villainize ICE agents who have family members, who are husbands, who are mothers, who are simply enforcing the laws that Congress has passed over the years. This is insane, the condoning of people blocking off vehicles from enforcing the law, these ICE agents. This is a powder keg. It's a powder keg.\"\n\nFurther Reading\n\nRenee Good's Wife Says of ICE Shooting: 'We Had Whistle. They Had Guns' (Forbes)\n\n62% Of Americans Disapprove Of Trump's Immigration Policies, New Survey Shows (Forbes)\n\nOnly 33% of Americans Support Venezuela Attack That Captured Maduro, Poll Finds (Forbes)",
+    "section_title": "",
+    "content_types": [
+      "paragraph"
+    ],
+    "start_line": 16,
+    "end_line": 32,
+    "chunk_id": "7a1044a90cfecb58",
+    "title": "ICE Enforcement Criticism Continues",
+    "summary": "A recent YouGov poll aligns with previous surveys, showing widespread disapproval of ICE's actions and tactics. Key figures, including Rep. Maxine Dexter and Sen. Eric Schmitt, weigh in on the issue.",
+    "keywords": [
+      "ice enforcement",
+      "disapproval",
+      "maxine dexter",
+      "eric schmitt"
+    ],
+    "entities": [
+      {
+        "name": "Rep. Maxine Dexter",
+        "type": "PERSON"
+      },
+      {
+        "name": "Sen. Eric Schmitt",
+        "type": "PERSON"
+      },
+      {
+        "name": "ICE",
+        "type": "ORG"
+      },
+      {
+        "name": "YouGov",
+        "type": "ORG"
+      },
+      {
+        "name": "Pew Research",
+        "type": "ORG"
+      },
+      {
+        "name": "Quinnipiac University",
+        "type": "ORG"
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      },
+      {
+        "name": "Oregon",
+        "type": "LOC"
+      }
+    ],
+    "questions": [
+      "What is the current level of disapproval for ICE's actions?",
+      "How do key figures like Rep. Maxine Dexter and Sen. Eric Schmitt view ICE's enforcement tactics?",
+      "What is the significance of the YouGov poll in relation to previous surveys?"
+    ],
+    "key": "ice enforcement criticism",
+    "related_keys": [
+      "ice disapproval"
+    ],
+    "position_index": 1,
+    "previous_chunk_id": "0c8e4c6e45ab4b41",
+    "next_chunk_id": "",
+    "token_count": 308,
+    "source": "DC4__Center__News.html",
+    "event_id": "DC4",
+    "political_perspective": "Center",
+    "doc_type": "News"
+  }
+]

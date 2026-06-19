@@ -1,4 +1,4 @@
-# RAGBench — Political News Cross-Document Retrieval System
+# Political News Cross-Document Retrieval System
 
 Flask-based research dashboard for the thesis:
 **"Evaluating RAG for Cross-Document Political News Retrieval"**
