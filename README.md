@@ -56,7 +56,7 @@ python news_scrap.py
 Run the news pipeline:
 
 ```bash
-python news_pipeline.py
+python news_pipeline_v2.py
 ```
 
 ---

@@ -1,5 +1,3 @@
-Title: Masked agents, tear gas, and raids: the tactics used in Trump's deportation drive News Scource: BBC Political leaning: Center News type: Broadcast Transcript Published Date: 2 November 2025 Source Link: https://www.bbc.com/news/videos/c6299nrj76yo
-
 [00:01]-&gt;[00:33]
 
 Extraordinary scenes have been playing

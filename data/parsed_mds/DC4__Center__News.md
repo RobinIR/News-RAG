@@ -1,4 +1,4 @@
-Title: Majority Of Americans Disapprove Of How ICE Operates, New Survey Shows News Source: Forbes Political Leaning: Center News Type: News Published Date: 09 January 2026 Source Link: www.forbes.com/sites/mikestunson/2026/01/09/majority-of-americans-disapprove-of-how-ice-operates-new-survey-shows/ Topic: Deportation Campaign Topline
+Topline
 
 A majority of Americans said they do not approve of the way Immigration and Customs Enforcement officers are handling their jobs, according to a poll carried out the same day Renee Good was shot in the head and killed by an ICE officer in Minnesota.
 
