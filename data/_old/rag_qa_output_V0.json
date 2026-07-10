@@ -1,0 +1,203 @@
+[
+  {
+    "question_id": "QA_DC1_fa46150d",
+    "event_id": "DC",
+    "question": "What concerns are raised about the treatment of civilians during immigration enforcement activities?",
+    "rag_answer": "The reports say ICE agents often use excessive or unjustified force – pepper‑spraying, tasers, breaking windows and even pulling people out of cars – against members of the public who are merely observing or protesting [2][3].  Observers also note that agents act with little or no accountability, with the administration defending actions such as shooting a mother in the face and allowing “masked, mostly anonymous” officers to operate without discipline [1][3].  In addition, immigration detention facilities are described as inhumane, especially for children, who are held in private‑run centers under conditions that critics call “aberrant” and “family‑unfriendly” [6][7].",
+    "answered_documents": [
+      "DC3__Left__News.json",
+      "DC6__Left__BroadcastOrInterview.json",
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "answered_doc_types": [
+      "News",
+      "BroadcastOrInterview"
+    ],
+    "answered_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [
+      "a99a7f8d14ab576a",
+      "02c7bc8df252dc1b",
+      "99448a657e493997",
+      "7f3cd474d61b692f",
+      "84cc15c259e5c652",
+      "895181186868e014",
+      "6bbe90ce9003901e",
+      "c5304e88ad88a533"
+    ],
+    "retrieval_distances": [
+      0.52625,
+      0.52635,
+      0.52635,
+      0.53902,
+      0.53912,
+      0.55735,
+      0.55745,
+      0.55745
+    ],
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct",
+    "gt_answer": "There are several concerns, including the fatal shooting of a civilian during an enforcement operation, the prolonged detention of families and very young children in immigration facilities, and the use of militarized tactics, intimidation, and force against communities during enforcement actions.",
+    "gt_required_documents": [
+      "DC1__Left__News.html",
+      "DC4__Left__BroadcastOrInterview.html",
+      "DC7__Left__Commentary.html"
+    ],
+    "gt_required_doc_types": [
+      "News",
+      "BroadcastOrInterview",
+      "Commentary"
+    ],
+    "gt_required_political_perspectives": [
+      "Left"
+    ],
+    "gt_minimum_hops": 2,
+    "question_type": "Attribution",
+    "reasoning_type": "MultiHop"
+  },
+  {
+    "question_id": "QA_DC2_ma45690",
+    "event_id": "DC",
+    "question": "What document did CBP initially send to Congress instead of the legally required in-custody death report after Alex Pretti's shooting?",
+    "rag_answer": "CBP first sent Congress a self‑drafted “self‑Q&A” – a set of agency‑written questions and answers – rather than the legally required in‑custody death notification report. [1]",
+    "answered_documents": [
+      "DC1__Left__News.json"
+    ],
+    "answered_doc_types": [
+      "News"
+    ],
+    "answered_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [
+      "95e0334b46100b1f",
+      "7f535df41e0ce607",
+      "4ff5fcf6e9073ead",
+      "4a813b867be82788",
+      "662106d2e8562609"
+    ],
+    "retrieval_distances": [
+      0.2093,
+      0.2094,
+      0.2764,
+      0.2765,
+      0.46524
+    ],
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct",
+    "gt_answer": "CBP first sent Congress a self-generated question-and-answer document, in which it repeatedly deferred answering many of its own questions, before later submitting the required in-custody death report.",
+    "gt_required_documents": [
+      "DC1__Left__News.html"
+    ],
+    "gt_required_doc_types": [
+      "News"
+    ],
+    "gt_required_political_perspectives": [
+      "Left"
+    ],
+    "gt_minimum_hops": 1,
+    "question_type": "Attribution",
+    "reasoning_type": "SingleHop"
+  },
+  {
+    "question_id": "QA_DC3_fq45690t",
+    "event_id": "DC",
+    "question": "According to the broadcast, approximately how many babies and toddlers were detained by ICE after Donald Trump returned to office, and how did this compare with the previous administration?",
+    "rag_answer": "The broadcast said that roughly 500 babies and toddlers have been held in ICE detention since Donald Trump returned to the White House, averaging about 25 children under age 3 per day. That is about a ten‑fold rise over the previous administration, when fewer than 3 babies and toddlers were held on an average day [1].",
+    "answered_documents": [
+      "DC4__Left__BroadcastOrInterview.json",
+      "DC9__Left__Commentary.json"
+    ],
+    "answered_doc_types": [
+      "BroadcastOrInterview",
+      "Commentary"
+    ],
+    "answered_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [
+      "2bc1bc1b0cb5ace7",
+      "75259d57eda8017d",
+      "245cfcb93115c572",
+      "6bbe90ce9003901e",
+      "895181186868e014",
+      "c5304e88ad88a533",
+      "bc4e75a0c36e6c98",
+      "cb31c98d26b3d9db"
+    ],
+    "retrieval_distances": [
+      0.33492,
+      0.33502,
+      0.46849,
+      0.46859,
+      0.48071,
+      0.48081,
+      0.48793,
+      0.48803
+    ],
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct",
+    "gt_answer": "More than 500 babies and toddlers were detained. Between January 2025 and March of that year, about 25 children aged three and under were detained on an average day, roughly ten times the average under the Biden administration, when fewer than three were detained daily.",
+    "gt_required_documents": [
+      "DC4__Left__BroadcastOrInterview.html"
+    ],
+    "gt_required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "gt_required_political_perspectives": [
+      "Left"
+    ],
+    "gt_minimum_hops": 1,
+    "question_type": "Attribution",
+    "reasoning_type": "SingleHop"
+  },
+  {
+    "question_id": "QA_DC4_da45690f",
+    "event_id": "DC1",
+    "question": "What document did CBP initially send to Congress instead of the legally required in-custody death report after Alex Pretti's shooting?",
+    "rag_answer": "CBP initially sent Congress a self‑drafted “self‑Q&A” – a set of agency‑written questions and answers – rather than the legally required in‑custody death notification report. [1]",
+    "answered_documents": [
+      "DC1__Left__News.json"
+    ],
+    "answered_doc_types": [
+      "News"
+    ],
+    "answered_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [
+      "95e0334b46100b1f",
+      "7f535df41e0ce607",
+      "4ff5fcf6e9073ead",
+      "4a813b867be82788",
+      "662106d2e8562609"
+    ],
+    "retrieval_distances": [
+      0.20929,
+      0.20939,
+      0.27641,
+      0.27651,
+      0.46525
+    ],
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct",
+    "gt_answer": "CBP first sent Congress a self-generated question-and-answer document, in which it repeatedly deferred answering many of its own questions, before later submitting the required in-custody death report.",
+    "gt_required_documents": [
+      "DC1__Left__News.html"
+    ],
+    "gt_required_doc_types": [
+      "News"
+    ],
+    "gt_required_political_perspectives": [
+      "Left"
+    ],
+    "gt_minimum_hops": 1,
+    "question_type": "Attribution",
+    "reasoning_type": "SingleHop"
+  }
+]

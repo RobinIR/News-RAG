@@ -28,11 +28,6 @@ Pipeline
       e. Trim each passage to token budget  (FLAW 5)
       f. Inject left/right neighbours  (FLAW 6)
       g. Derive answered_documents from chunk metadata — NOT from gt_qa
-         (.html sources are filtered out here — see derive_answered_metadata —
-          since chunking/retrieval/neighbour-lookup all run on the .json
-          chunk files; reporting the sibling .html filename too was
-          redundant and made it look like the RAG had "read" a file it
-          never actually touched)
       h. Generate answer with configurable LLM  (FLAW 7 / annotator != retriever)
 5.  Save to data/rag_qa_output.json
 
@@ -207,14 +202,8 @@ def load_chunk_index(chunks_dir: str) -> dict[str, dict]:
 
     total = 0
     for jf in json_files:
-        try:
-            with open(jf, encoding="utf-8") as fh:
-                data = json.load(fh)
-        except (json.JSONDecodeError, OSError) as exc:
-            # Don't let one malformed chunk file kill the whole run —
-            # skip it and keep going, but say so loudly.
-            print(f"  [WARN] could not read {jf.name!r}: {exc} — skipping")
-            continue
+        with open(jf, encoding="utf-8") as fh:
+            data = json.load(fh)
 
         raw_chunks = data if isinstance(data, list) else data.get("chunks", [])
 
@@ -363,16 +352,8 @@ def _build_prompt(question: str, context_chunks: list[dict]) -> str:
     lines = [
         "You are a factual news Q&A assistant.",
         "Answer the question using ONLY the evidence passages provided below.",
-        "Do not use any outside knowledge, training data, or assumptions about "
-        "the topic — treat the passages as the entire world you know.",
-        "If the passages do not contain sufficient information to answer, "
-        "respond with exactly: 'Insufficient context'. Do not guess or fill "
-        "gaps with plausible-sounding information.",
-        "If passages disagree or present different perspectives, say so "
-        "explicitly instead of silently picking one side.",
-        "Only cite a passage number, e.g. [1], if you actually used that "
-        "passage — never invent a citation.",
-        "Be concise (2-5 sentences).",
+        "If the passages do not contain sufficient information, respond with: 'Insufficient context'.",
+        "Be concise (2-5 sentences). Cite passage numbers [1], [2], … where helpful.",
         "",
         f"Question: {question}",
         "",
@@ -420,17 +401,9 @@ def _call_anthropic(prompt: str) -> str:
     import anthropic
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     resp = client.messages.create(
-        model       = QA_LLM_MODEL,
-        max_tokens  = 512,
-        temperature = 0.1,   # match the chatai path — low temperature reduces
-                              # free-associating beyond the retrieved passages
-        system      = (
-            "You are a strict, grounded document Q&A assistant. Only use "
-            "information contained in the user-supplied evidence passages. "
-            "Never rely on outside/world knowledge, and never invent facts, "
-            "sources, or citation numbers."
-        ),
-        messages    = [{"role": "user", "content": prompt}],
+        model      = QA_LLM_MODEL,
+        max_tokens = 512,
+        messages   = [{"role": "user", "content": prompt}],
     )
     return resp.content[0].text.strip()
 
@@ -450,15 +423,6 @@ def derive_answered_metadata(context_chunks: list[dict]) -> tuple[list, list, li
     Extract the unique source filenames, doc_types, and political perspectives
     from the retrieved chunks.  These are the RAG's own claimed provenance —
     not the gold standard — for evaluation against gt_qa fields.
-
-    NOTE: only the .json chunk file is reported as "source".
-    Retrieval, chunking, and neighbour-lookup all operate on the .json
-    chunk files (see load_chunk_index / retrieve_context) — the RAG never
-    actually reads the sibling .html file. Previously both extensions
-    showed up in `answered_documents` for the same document
-    (e.g. "DC3__Left__News.html" AND "DC3__Left__News.json"), which
-    over-reported provenance. The block below is left in place (commented)
-    to show what was removed and why.
     """
     docs = []
     for c in context_chunks:
@@ -471,8 +435,8 @@ def derive_answered_metadata(context_chunks: list[dict]) -> tuple[list, list, li
         if src.lower().endswith(".html"):
             continue  # skip: .json is the only file actually read
         docs.append(src)
-
-    docs  = _dedupe_preserve_order(docs)
+    
+    docs  = _dedupe_preserve_order([c["source"] for c in context_chunks if c.get("source")])
     types = _dedupe_preserve_order([c["doc_type"] for c in context_chunks if c.get("doc_type")])
     persp = _dedupe_preserve_order([c["political_perspective"] for c in context_chunks if c.get("political_perspective")])
     return docs, types, persp

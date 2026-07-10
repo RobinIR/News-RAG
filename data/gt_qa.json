@@ -1,52 +1,12 @@
 [
     {
-        "question_id": "QA_DC1_fa46150d",
-        "question_type": "Attribution",
-        "reasoning_type": "MultiHop",
-        "event_id": "DC",
-        "question": "What concerns are raised about the treatment of civilians during immigration enforcement activities?",
-        "required_documents": [
-            "DC1__Left__News.html",
-            "DC4__Left__BroadcastOrInterview.html",
-            "DC7__Left__Commentary.html"
-        ],
-        "required_doc_types": [
-            "News",
-            "BroadcastOrInterview",
-            "Commentary"
-        ],
-        "required_political_perspectives": [
-            "Left"
-        ],
-        "minimun_hops": 2,
-        "answer": "There are several concerns, including the fatal shooting of a civilian during an enforcement operation, the prolonged detention of families and very young children in immigration facilities, and the use of militarized tactics, intimidation, and force against communities during enforcement actions."
-    },
-    {
-        "question_id": "QA_DC2_ma45690",
-        "question_type": "Attribution",
-        "reasoning_type": "SingleHop",
-        "event_id": "DC",
-        "question": "What document did CBP initially send to Congress instead of the legally required in-custody death report after Alex Pretti's shooting?",
-        "required_documents": [
-            "DC1__Left__News.html"
-        ],
-        "required_doc_types": [
-            "News"
-        ],
-        "required_political_perspectives": [
-            "Left"
-        ],
-        "minimun_hops": 1,
-        "answer": "CBP first sent Congress a self-generated question-and-answer document, in which it repeatedly deferred answering many of its own questions, before later submitting the required in-custody death report."
-    },
-    {
-        "question_id": "QA_DC3_fq45690t",
-        "question_type": "Attribution",
+        "question_id": "QA_DC1",
+        "question_type": "Factual",
         "reasoning_type": "SingleHop",
         "event_id": "DC",
         "question": "According to the broadcast, approximately how many babies and toddlers were detained by ICE after Donald Trump returned to office, and how did this compare with the previous administration?",
         "required_documents": [
-           "DC4__Left__BroadcastOrInterview.html"
+            "DC4__Left__BroadcastOrInterview.html"
         ],
         "required_doc_types": [
             "BroadcastOrInterview"
@@ -55,11 +15,11 @@
             "Left"
         ],
         "minimun_hops": 1,
-        "answer": "More than 500 babies and toddlers were detained. Between January 2025 and March of that year, about 25 children aged three and under were detained on an average day, roughly ten times the average under the Biden administration, when fewer than three were detained daily.",
+        "answer": "More than 500 babies and toddlers were detained. Between January 2025 and March of that year, about 25 children aged three and under were detained on an average day, roughly ten times the average under the Biden administration, when fewer than three were detained daily."
     },
     {
-        "question_id": "QA_DC4_da45690f",
-        "question_type": "Attribution",
+        "question_id": "QA_DC2",
+        "question_type": "Factual",
         "reasoning_type": "SingleHop",
         "event_id": "DC1",
         "question": "What document did CBP initially send to Congress instead of the legally required in-custody death report after Alex Pretti's shooting?",
@@ -75,4 +35,158 @@
         "minimun_hops": 1,
         "answer": "CBP first sent Congress a self-generated question-and-answer document, in which it repeatedly deferred answering many of its own questions, before later submitting the required in-custody death report."
     },
+    {
+        "question_id": "QA_DC3",
+        "question_type": "Factual",
+        "reasoning_type": "SingleHop",
+        "event_id": "DC",
+        "question": "According to Mother Jones, what tactics did ICE recruitment ads reportedly use to attract new agents during the $100 million recruitment push?",
+        "required_documents": [
+            "DC8__Left__Commentary.html"
+        ],
+        "required_doc_types": [
+            "Commentary"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 1,
+        "answer": "Recruitment ads were targeted at male-dominated spaces associated with violence, such as gun shows, military bases, local law enforcement, UFC events, and people browsing tactical gear. The ads used frontier and heroic-quest imagery, framed the work as defending the homeland against \"foreign invaders,\" and used racist dog-whistle language such as warning that \"the enemies are at the gates\" and urging recruits to \"destroy the flood,\" including one DHS ad phrase lifted from a white supremacist song."
+    },
+    {
+        "question_id": "QA_DC4",
+        "question_type": "Factual",
+        "reasoning_type": "SingleHop",
+        "event_id": "DC",
+        "question": "How did the reported number of babies and toddlers detained by ICE compare to detention rates under the Biden administration?",
+        "required_documents": [
+            "DC4__Left__BroadcastOrInterview.html"
+        ],
+        "required_doc_types": [
+            "BroadcastOrInterview"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 1,
+        "answer": "The Marshall Project and MS Now reporting found that ICE held an average of about 25 children age three and under in custody per day between January 2025 and March of that year, roughly ten times higher than under Biden, when fewer than three babies and toddlers were held on an average day. Overall, about 500 babies and toddlers had been detained under the new administration."
+    },
+    {
+        "question_id": "QA_DC5",
+        "question_type": "Factual",
+        "reasoning_type": "SingleHop",
+        "event_id": "DC",
+        "question": "Who is Liam Ramos and what happened to him according to the Mother Jones commentary?",
+        "required_documents": [
+            "DC9__Left__Commentary.html"
+        ],
+        "required_doc_types": [
+            "Commentary"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 1,
+        "answer": "Liam Ramos is a 5-year-old boy from Minnesota who was detained by ICE while wearing a Spider-Man backpack, photographed with a masked agent gripping his backpack as though he were a flight risk. School officials reported that federal agents tried to use him as \"bait\" by persuading him to knock on his own front door to see if other family members could be apprehended inside. Liam and his father were expected to be sent to an immigration detention center near San Antonio."
+    },
+    {
+        "question_id": "QA_DC6",
+        "question_type": "Reasoning",
+        "reasoning_type": "MultiHop",
+        "event_id": "DC",
+        "question": "How do the deaths of Alex Pretti and Renee Good connect, and what accountability gap between CBP and ICE does this reveal?",
+        "required_documents": [
+            "DC1__Left__News.html",
+            "DC3__Left__News.html"
+        ],
+        "required_doc_types": [
+            "News"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 2,
+        "answer": "Both Renee Good, a mother of three shot by ICE agent Jonathan Ross, and Alex Pretti, a US citizen shot by CBP officers, were killed by federal immigration agents in Minneapolis during the same enforcement surge, fueling anti-ICE protests and renewed calls to abolish ICE. However, the two cases expose an accountability gap: CBP is legally required to send a death-in-custody report to Congress within 72 hours, whereas ICE is not held to that standard after President Trump rescinded a Biden executive order requiring reporting on use-of-force incidents, which is one reason new information on Ross's shooting of Good has been much harder to obtain than information on Pretti's death."
+    },
+    {
+        "question_id": "QA_DC7",
+        "question_type": "Reasoning",
+        "reasoning_type": "MultiHop",
+        "event_id": "DC",
+        "question": "What explanations do commentators and interviewees give for why federal immigration agents in Minneapolis have acted violently with apparent impunity?",
+        "required_documents": [
+            "DC3__Left__News.html",
+            "DC7__Left__Commentary.html",
+            "DC8__Left__Commentary.html"
+        ],
+        "required_doc_types": [
+            "News",
+            "Commentary"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 3,
+        "answer": "Several explanations recur across these sources. Adam Serwer argues the violence reflects an ideological worldview that treats people who disagree with Trump as undeserving of constitutional rights, while historian Adam Goodman notes that agencies whose budgets depend on apprehensions and deportations have an institutional imperative to act aggressively and are rarely held accountable, especially since masked agents can hide their identities without oversight. Mother Jones commentary connects the violence to a recruitment strategy that deliberately selected violence-prone recruits and framed the mission as a heroic, gendered defense of the nation, arguing that men given unaccountable power will abuse it. A separate Mother Jones piece adds that paramilitary costuming and gear are used deliberately to manufacture a wartime psychology among agents, making them see communities as enemies to be dominated rather than people to be policed."
+    },
+    {
+        "question_id": "QA_DC8",
+        "question_type": "Reasoning",
+        "reasoning_type": "MultiHop",
+        "event_id": "DC",
+        "question": "What evidence is presented that immigration enforcement in Minnesota has affected US citizens rather than only undocumented immigrants?",
+        "required_documents": [
+            "DC3__Left__News.html",
+            "DC6__Left__BroadcastOrInterview.html"
+        ],
+        "required_doc_types": [
+            "News",
+            "BroadcastOrInterview"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 2,
+        "answer": "Reporter Jon Collins described US citizens, including a Target employee named Johnny Garcia and members of the Somali American community (most of whom are citizens), being stopped, tackled, or intimidated by agents, and noted that agents used facial scanners and license-plate data to identify and follow bystanders like Noah and Judy Levy to their home. Alex Pretti himself, killed by CBP, was a US citizen. On MS Now, panelists cited a poll showing 61% of respondents disapproved of Trump's handling of immigration, attributing the drop partly to voters' discomfort with citizens being stopped, asked to show papers, or arrested for merely appearing to be undocumented immigrants."
+    },
+    {
+        "question_id": "QA_DC9",
+        "question_type": "Reasoning",
+        "reasoning_type": "MultiHop",
+        "event_id": "DC",
+        "question": "What political and legal responses to the violence in Minneapolis are described, and how do they differ in approach?",
+        "required_documents": [
+            "DC3__Left__News.html",
+            "DC6__Left__BroadcastOrInterview.html"
+        ],
+        "required_doc_types": [
+            "News",
+            "BroadcastOrInterview"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 2,
+        "answer": "Rep. Delia Ramirez introduced the \"DHS Use of Force Oversight Act\" to codify a use-of-force and de-escalation policy for DHS agents, while Reps. Ramirez and Seth Magaziner separately proposed legislation requiring DHS to track use of force and report fatalities or hospitalizations within 24 hours. On the executive side, Minnesota Gov. Tim Walz mobilized the National Guard and state officials took the administration to court over enforcement actions in Minneapolis, while President Trump threatened to invoke the Insurrection Act to send active-duty troops into the city, a move legal analysts noted would let him effectively take over as the city's police chief since local officials had not lost control of a rebellion, the act's normal threshold."
+    },
+    {
+        "question_id": "QA_DC10",
+        "question_type": "Reasoning",
+        "reasoning_type": "MultiHop",
+        "event_id": "DC",
+        "question": "How do sources describe the harm inflicted on children through immigration enforcement and detention, and who is held responsible?",
+        "required_documents": [
+            "DC4__Left__BroadcastOrInterview.html",
+            "DC9__Left__Commentary.html"
+        ],
+        "required_doc_types": [
+            "BroadcastOrInterview",
+            "Commentary"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 2,
+        "answer": "Reporting describes children suffering direct trauma from enforcement and detention: a one-year-old boy named Amir was held for 118 days at the Dilley family detention center in unsanitary conditions with inadequate food, while advocates and Physicians for Human Rights described such family separation and detention as government-sanctioned child abuse and torture. Separately, a 5-year-old boy, Liam Ramos, was detained in Minnesota and allegedly used by agents as \"bait\" to lure other family members. Both accounts place responsibility on the Trump administration's expansion of detention, with critics noting that Republicans in Congress continue funding these facilities including for-profit contractors like CoreCivic, while Democrats are criticized for not pushing hard enough to shut such facilities down."
+    }
 ]
