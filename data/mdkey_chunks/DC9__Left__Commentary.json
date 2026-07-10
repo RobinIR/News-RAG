@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "source": "DC9__Left__Commentary.html",
+    "political_leaning": "Left",
+    "news_type": "Commentary",
+    "news_source": "Mother Jones",
+    "topic": "Deportation Campaign",
+    "published_date": "23 January 2026",
+    "title": "They Want to Tell You a Kid With a Spider-Man Backpack Is Evil",
+    "source_link": "https://www.motherjones.com/politics/2026/01/liam-ramos-ice-photos-detention/"
+  },
+  "chunks": [
+    {
+      "text": "Anyone with a child in the spitting-distance age of a preschooler is likely to be familiar with Spidey and His Amazing Friends, the animated TV series that follows grade-school versions of Peter Parker, Miles Morales, and Gwen Stacy as they take on baddies across New York City. Their kiddo fans might even break out in song and try to talk to you about Patrick Stump.\n\nSuch is the intense patronage that Spidey inspires among today's youngest kids, and by extension, their parents, willingly or not. So when news emerged that ICE had detained Liam Ramos, a 5-year-old Minnesota boy, it was the photos that broke me. Here is a literal preschooler wearing a Spider-Man backpack, just like all of our kids, as the hand of a much larger masked ICE agent holds onto his backpack, as if he were a flight risk. An oversized blue hat with bunny ears partially covers his face as he stares ahead blankly. Liam and his father will eventually be sent to an immigration detention center just outside San Antonio, but not before, as school officials reported, federal officers attempted to turn the child into \"bait\" by persuading him to knock on his own front door to see if there were other family members they could apprehend inside. Speaking to federal agents in a closed-door meeting, Vice President JD Vance defended ICE's actions.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 0,
+      "end_line": 2,
+      "chunk_id": "cb31c98d26b3d9db",
+      "title": "ICE Detains 5-Year-Old Boy",
+      "summary": "A 5-year-old Minnesota boy, Liam Ramos, was detained by ICE, sparking outrage over the agency's treatment of a preschooler. The incident has raised concerns about the use of children as 'bait' in immigration raids.",
+      "keywords": [
+        "ICE",
+        "Liam Ramos",
+        "immigration detention",
+        "Spider-Man",
+        "Minnesota"
+      ],
+      "entities": [
+        {
+          "name": "Liam Ramos",
+          "type": "PERSON"
+        },
+        {
+          "name": "ICE",
+          "type": "ORG"
+        },
+        {
+          "name": "Minnesota",
+          "type": "LOC"
+        }
+      ],
+      "questions": [
+        "What happened to Liam Ramos?",
+        "Why was a 5-year-old boy detained by ICE?",
+        "What is the policy behind using children as 'bait' in immigration raids?"
+      ],
+      "key": "immigration detention",
+      "related_keys": [
+        "preschooler",
+        "immigration detention center"
+      ],
+      "position_index": 0,
+      "previous_chunk_id": "",
+      "next_chunk_id": "bc4e75a0c36e6c98",
+      "token_count": 278
+    },
+    {
+      "text": "The flimsy politics of citizenship might seem like the detail that distinguishes Liam's story from the stories of our own kids. But his innocence, like the innocence of all children, is unimpeachable. We know this child: his goodness, his go-to superheroes, his goofy hat. In Minneapolis, Liam is one of at least four children who have been detained in the last month. All of them attend the same school district, where half of the students are Latino. Similarly grotesque incidents involving kids are taking place across the country, including in Portland, Maine, where huge swaths of school populations are no longer attending out of fear of ICE. A recent analysis from the Marshall Project estimated that at least 3,800 kids, including 20 infants, have been detained since President Donald Trump returned to office.\n\nBut, as with so much that has unfolded over the past year, reports of these horrors barely seem to break into our collective consciousness. We read them with disgust and protest in some shape, while the infinite loop of our paralysis ticks on. But excruciating images like Liam's demand more.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 4,
+      "end_line": 6,
+      "chunk_id": "bc4e75a0c36e6c98",
+      "title": "Liam's Immigration Detention Story",
+      "summary": "The detention of a 5-year-old Minnesota boy, Liam Ramos, by ICE has sparked outrage and raised concerns about the use of children as 'bait' in immigration raids.",
+      "keywords": [
+        "immigration detention",
+        "child detention",
+        "ICE raids",
+        "Liam Ramos",
+        "preschooler detention"
+      ],
+      "entities": [
+        {
+          "name": "Liam Ramos",
+          "type": "PERSON"
+        },
+        {
+          "name": "ICE",
+          "type": "ORG"
+        },
+        {
+          "name": "Minnesota",
+          "type": "LOC"
+        }
+      ],
+      "questions": [
+        "What is the story of Liam Ramos and why is it significant?",
+        "How many children have been detained by ICE since President Trump's return to office?",
+        "What is the impact of ICE raids on school populations?"
+      ],
+      "key": "child detention",
+      "related_keys": [
+        "immigration detention"
+      ],
+      "position_index": 1,
+      "previous_chunk_id": "cb31c98d26b3d9db",
+      "next_chunk_id": "5e7f313ffefcf784",
+      "token_count": 225
+    },
+    {
+      "text": "To be clear, one does not need to see a Spider-Man backpack to evince the atrocities at play here. Nor do I need some kind of parenting parallel to understand that this child is like every child. But the power of these optics, their unique ability to clarify with a terrifying precision that these kids could be any one of our own, should puncture some well-fortified defenses. Because something is deeply wrong if we, as a society, cannot agree that an administration that snatches up children, uses them as bait to hunt down others, is morally repulsive.\n\nSo what now? Democrats, occupied with writing angry letters and demanding that mean tweets be taken down, are proving to be feckless. But the people of Minneapolis are resisting in ways that we can all learn from: showing up in the thousands every day to say that enough is enough. Putting down our capitalistic instincts to stage large-scale economic blackouts. Tailing ICE and making it clear that their fascist levels of terror won't go unwitnessed, with the hope that it may not continue to go unpunished.\n\nAs for the rest of us who don't live in Minneapolis, bearing witness to these images of Liam is the least we can do.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 8,
+      "end_line": 12,
+      "chunk_id": "5e7f313ffefcf784",
+      "title": "Liam Ramos Detention Sparks Outrage",
+      "summary": "The detention of a 5-year-old Minnesota boy by ICE has sparked outrage and raised concerns about the use of children as 'bait' in immigration raids. The people of Minneapolis are resisting in ways that we can all learn from.",
+      "keywords": [
+        "immigration detention",
+        "child detention",
+        "ICE raids",
+        "Minneapolis protests",
+        "Liam Ramos"
+      ],
+      "entities": [
+        {
+          "name": "Liam Ramos",
+          "type": "PERSON"
+        },
+        {
+          "name": "ICE",
+          "type": "ORG"
+        },
+        {
+          "name": "Minnesota",
+          "type": "LOC"
+        }
+      ],
+      "questions": [
+        "What is the current situation with the detention of children by ICE?",
+        "How are the people of Minneapolis resisting the ICE raids?",
+        "What can be done to address the use of children as 'bait' in immigration raids?"
+      ],
+      "key": "ice raids",
+      "related_keys": [
+        "immigration detention",
+        "child detention"
+      ],
+      "position_index": 2,
+      "previous_chunk_id": "bc4e75a0c36e6c98",
+      "next_chunk_id": "",
+      "token_count": 249
+    }
+  ]
+}

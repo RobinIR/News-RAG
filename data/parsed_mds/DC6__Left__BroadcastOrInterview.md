@@ -1,0 +1,679 @@
+We begin this morning with the growing
+
+oppotion to President Trump's
+
+immigration crackdown in Minnesota,
+
+11 days after an ICE officer killed Renee Good.
+
+Yesterday.Yesterday.
+
+Tensions flared in Minneapolis
+
+with dueling protests.
+
+On one side was a pro ice demonstration led
+
+by right wing influencer and pardoned January
+
+6th insurrectionists Jake Lang.
+
+But his small crowd was eventually outnumbered
+
+and driven away by several hundred
+
+anti-ice protesters.
+
+Meanwhile,Minnesota Governor Tim Walz
+
+has mobilized
+
+the National Guard which is staging to
+
+support local law enforcement.
+
+And according to the Washington Post,
+
+citing defense officials.
+
+The Pentagon has ordered roughly 1500
+
+active duty soldiers to prepare
+
+for possible deployment in Minnesota.
+
+All of this comes just daysafter President Trump
+
+threatened
+
+to invoke the Insurrection Act
+
+in the state before saying he would
+
+hold off for right now.
+
+Yesterday, in an interview with MSNOW,
+
+Minnesota Congresswoman Ilhan Omar
+
+slammed Trump for toying with that idea
+
+and condemned the Justice Department's
+
+investigation into Governor Walz
+
+and Minneapolis Mayor Jacob Frey.
+
+We have a president that is itching
+
+to, you know,have a riot in this city so
+
+that he can invoke the Insurrection Act.
+
+And that is not something that we WANT,
+
+WE DO NOT WANT THE U .S.
+
+MILITARY IN AMERICAN CITIES.
+
+THERE IS DEFINITELY A WEAPONIZATION
+
+OF GOVERNMENT RESOURCES THAT ARE
+
+HAPPENING BUT IT'S ALSO THAT
+
+RETRIBUTION THAT THE PRESIDENT
+
+SAID HE WAS BRINGING TO MINNESOTA,
+
+THE FACT THAT THE
+
+PRESIDENT THINKS IT IS OKAY FOR
+
+HIM TO TRY TO CHARGE AND BRING
+
+CRIMINAL CHARGES AGAINST THOSE
+
+THAT REPRESENT US IS SOMETHING
+
+THAT MINNESOTANS ARE NOT GOING TO STAND FOR, AND
+
+AMERICANS SHOULDN'T EITHER.
+
+JOINING US NOW,MS NOW WHITE HOUSE REPORTER
+
+LAURA BARON-LOPES,
+
+PAUL BUTLER, FORMER FEDERAL PROSECUTOR,
+
+PROFESSOR AT GEORGETOWN SCHOOL OF LAW IN MS NOW
+
+legal analyst and David Drucker
+
+senior writer at the dispatch
+
+in an MSNOW contributor and author of
+
+In Trump's Shadow.
+
+Laura Paul,David thank you guys so
+
+much for joining us.
+
+Laura I want to start with you
+
+because the White House seems to be
+
+ramping up instead of pulling back right
+
+like usually when things like this happen
+
+whether it's over a raceand you know a police
+
+involved shooting
+
+or whatever the White House seems to think,
+
+starts to think, you know,
+
+maybe we start to like figure out how
+
+to tamper the tension down.
+
+This White House only seems to be ramping up.
+
+I'm going to read from Assistant Secretary
+
+for Public Affairs,
+
+Tricia McLaughlin at the DHS yesterday.
+
+This is the largest DHS operation in history,
+
+won't get into resources or numbers of personnel.
+
+DHS law enforcement have made
+
+over 3 ,000 arrests since Operation
+
+Metro Surge began, including
+
+of murderers, rapists, pedophiles
+
+and gang members, with no proof, obviously.
+
+70 % of illegal aliens, her words, arrested
+
+by ICE nationwide, have been charged with
+
+or convicted of a crime in the U .S.
+
+that last part has been debunked over
+
+and over again about who is getting charged
+
+and arrested.
+
+But this is them ramping up the tensions
+
+when really they have a, some would say,
+
+a duty to calm things down.
+
+No, they've only been escalating over
+
+and over again over the past few weeks.
+
+And I think that what we see
+
+in Minnesota is this perfect pretext
+
+for the president,which is that he has wanted
+
+to target
+
+Somali immigrants for a very long time.
+
+And that's what they They said who they said
+
+they were going to target when they escalated
+
+the number of immigration agents on the ground.
+
+They first went in towards the end
+
+of last year as what they would
+
+have described as a normal,you know, targeting being
+
+surged,
+
+but then after that viral video
+
+from the right-wing influencer
+
+Shirley went crazy in Magosphere,
+
+then they went in even harder
+
+and added about a thousand more
+
+or so immigration agents.
+
+In total, they say that they have
+
+about 3 ,000, according to sources
+
+that I'vetalked to.
+
+There were already about 1 ,000 on the ground
+
+because of people who are stationed there
+
+in the area, in the region, in the Twin Cities.
+
+But still,that is the biggest amount
+
+that we've seen in any citysince they've been starting
+
+these targeted immigration crackdowns.
+
+And now there's a possibility of
+
+like actual military members go.
+
+Yes.
+
+Now that he's threatening the Insurrection Act.
+
+So, and again, this is something like I said,
+
+the pretext.
+
+It's not just that Trump has wanted to
+
+target Somalis.
+
+It's also that we've heard him say over
+
+and over again that he's not happy
+
+with Minnesota because he believes
+
+he won it three times.
+
+He actually lost it three times.
+
+And so it's this perfect storm
+
+of animosities and an immigrant group
+
+that he has wanted to target
+
+since his first administration,
+
+even though he was pushed.
+
+There were people in his first administration
+
+that pushed back on him that time around.
+
+Paul, I think one of the reasons why
+
+the administration is ramping things up is
+
+because he is hellbent,the president is hell-bent
+
+on invoking the Insurrection Act.
+
+We already know that Minnesota officials
+
+have already taken the administration
+
+to court over what's been happening
+
+on the streets of Minneapolis so far,
+
+but put some numbers out here.
+
+The Minneapolis Police Force has about
+
+600 members.
+
+The federal government,Trump's ICE and Border
+
+Patrol
+
+and the likes of Jonathan Ross,
+
+those federal officers.
+
+Total now about 3 ,000.
+
+Now we have reporting that the president,
+
+the Pentagon has sent a readiness order
+
+to 1 ,500 members of the military.
+
+So I just, if he does do this,
+
+invoke the Insurrection Act,
+
+the president,what recourse does the state
+
+of Minnesota have to stop him?
+
+If the INVOKES THE INSURRECTION ACT,
+
+ESSENTIALLY HE WOULD BE THE NEW
+
+POLICE CHIEF OF MINNEAPOLIS AND
+
+PEAK HEADSTERF WOULD BE THE DEPUTY CHIEF.
+
+THE INSURRECTION ACT IS WHEN THE LOCAL
+
+OFFICIALS ARE NOT ABLE TO PUT DOWN A
+
+REBELLION AND IT ALLOWS THE PRESIDENT TO
+
+ACTIVATE ACTIVE DUTY TROOPS
+
+and also federalize the National Guard.
+
+We are nowhere near that.
+
+The problem is that the Insurrection Act
+
+has been invoked so few times by presidents,
+
+30 times in 200
+
+INVOKED WITHOUT THE CONSENTOF A GOVERNOR WAS ON BLOODY
+
+SUNDAY
+
+IN 1964 WHEN ALABAMA STATE
+
+THE FACT THAT IT'S BEEN USED SO
+
+RARELY MEANS THERE HASN'T BEEN
+
+A LOT OF SUPREME COURT REVIEW.
+
+WHAT A LOT OF LEGAL SCHOLARS THINK IS
+
+THAT THE PRESIDENT HAS WIDE DISCRETION TO
+
+DECLARE BOTH A REBELLION AND AN INSURRECTION.
+
+WE SEE THAT THE DEPARTMENT OF
+
+JUSTICE IS TEENING THAT UP BY
+
+DESCRIBING THE PEACEFUL PROTESTERS IN
+
+MINNEAPOLIS AS INSURRECTIONS.
+
+AND TWO THINGS, BLOODY SUNDAY WAS 1965,
+
+AND ALSO THE INSURRECTION ACT
+
+AS WE ALL LOOKED UP,THE PRESIDENT CAN JUST KEEP
+
+IT GOING,
+
+BUT THERE'S NO TIME limiton how long that would go
+
+on.
+
+Paul, I want to stick with you
+
+for a second and dig a little bit
+
+deeper into the Insurrection Act
+
+because obviously we have not
+
+seen Trump utilize it yetbut he has given tangible
+
+meaning
+
+to his threat to deploy the U .S.
+
+military to put down what he has called domestic
+
+terror in the U .S.
+
+I'm thinking about Lafayette Square in 2020
+
+in the wake of the George Floyd protests.
+
+You saw Mark Milley appear with the president
+
+in his battle fatigues.
+
+There was an army helicopter that descended
+
+on a rooftop in Chinatown to frighten
+
+and scare the protesters as a show
+
+of force there were snap trees there were
+
+injured citizens is there anything
+
+from that incident that we should take
+
+to inform what could happen in Minneapolis?
+
+Yes, one that he's rearing to go.
+
+He would love to bringin active duty troops to do
+
+his will,
+
+not just in Minneapolis,but in other cities.
+
+Reportedly, what WHAT STOPPED HIM BEFORE,
+
+DURING THE GEORGE FLOYD UPRISINGS,
+
+WERE THAT PEOPLE AT THE MILITARY AND
+
+THE JUSTICE DEPARTMENT DURING
+
+TRUMP 1 .0 TOLD HIM THAT IT
+
+would not be a good idea,really more for political
+
+reasons than
+
+for legal reasons.
+
+One thing that's different now is we've
+
+had this recent Supreme Court decision
+
+which suggests that he doesn't have
+
+the power to use the National Guard.
+
+THE DECISION, JUSTICE Kavanaugh,
+
+HE CONCURSED WITH A MAJORITY BUT HE HAS
+
+A FOOTNOTE WHERE HE BASICALLY SUGGESTS.
+
+I DON'T KNOW WHY TRUMP IS RELYING ON
+
+HE HAS TO DO IS INVOKING THE
+
+INSURRECTION ACT AND THEN HE CAN
+
+BRING IN BOTH ACTIVE DUTYTROOPS AND THE NATIONAL
+
+GUARD.
+
+DUTY TROOPS AND THE NATIONAL Oh, God.
+
+David, I want to bring you in here.
+
+We won't forget about you because you're virtual.
+
+One of the things that has been clear for weeks,
+
+as this is kind of all shaken
+
+WHAT I'M GOING TO SAY IS THAT
+
+THE AMERICAN PEOPLE ON BOTH SIDES,
+
+ALL SIDES OF THE AISLE ARE,DON'T LIKE WHAT THEY'RE
+
+SEEING IN
+
+THE WAY THE ICE IS OPERATING.
+
+AND EVEN IN THIS AP NORC,NORC poll on Trump's
+
+handling of immigration,
+
+61 % disapprove of his handling on immigration.
+
+Usually this is kind of his best.
+
+This might be his best numbers
+
+because all of his numbers are
+
+IN THE TANK RIGHT NOW,BUT THIS IS USUALLY HIS
+
+BEST NUMBER.
+
+WHEN YOU'RE TALKING TO
+
+REPUBLICANS,IS IT THE VISUALS THAT
+
+THEY'RE SEEING
+
+THAT IS AN ISSUE?
+
+IS IT THE WAY HE'S DOING IT THAT IS CAUSING THEM
+
+PROBLEMS?
+
+BECAUSE I WAS AT THE
+
+THEY WANT THIS TO HAPPEN,BUT IT APPEARS THAT THE WAY
+
+IT'S
+
+HAPPENING SEEMS TO CAUSE SOME
+
+OF THEM SOME CONSTERNATION.
+
+YEAH, EGENE,I THINK IT'S IMPORTANT TO
+
+UNDERSTAND HERE.
+
+IT'S NOT THE AMERICAN PEOPLE or I should say,
+
+voters in the elections that we have focused
+
+on recently, particularly in 2024.
+
+It's not that they've changed their mind
+
+about illegal immigration or border security.
+
+You know,they voted for BORDER
+
+SECURITY AND THEY LIKED
+
+THE IDEA GENERALLY OF THE GOVERNMENT ROUNDING
+
+UP ILLEGAL IMMIGRANTS WHO ARE CRIMINALS AND
+
+DEPORTING THEM AND I WOULD SAY A LOT OF VOTERS,
+
+PARTICULARLY IN THE CONTESTED SWING STATES,
+
+HAVE AND STILL HAVE A PROBLEM WITH THIS IDEA
+
+THAT IT'S OKAY TO BE IN THE COUNTRY ILLEGALLY
+
+WHEN, AND THIS IS HOW VOTERS WILL THINK OF IT,
+
+I HAVE TO FOLLOW ALL THE RULES,
+
+I HAVE TO PAY MY TAXES,I HAVE TO DO ALL THESE
+
+DIFFERENT THINGS AND SO
+
+THERE'S AN ISSUE OF FAIRNESS BUT WHAT A LOT
+
+OF PEOPLE DIDN'T VOTE FOR AND I THINK WE'RE
+
+SEEING THAT IN THE NUMBERS IS THE KIND OF
+
+TACTICS, NUMBER ONE,
+
+THAT THE FEDERAL GOVERNMENT IS EMPLOYING IN
+
+AMERICAN CITIES TO FERRET OUT ILLEGAL
+
+IMMIGRANTS AND DEPORT THEM,THEY DIDN'T VOTE FOR THIS
+
+IDEA
+
+THAT IF YOU LOOK LIKE YOU COULD BE AN ILLEGAL
+
+IMMIGRANT WE'RE JUST GOING TO SNATCH YOU
+
+OFF THE STREET AND DETAIN YOU INDEFINITELY
+
+EVEN IF YOU CLAIM THAT YOU'RE A CITIZEN PEOPLE
+
+DON'T LIKE THE IDEA OF LIVING, YOU KNOW,
+
+IN A SOVIET REPUBLIC WHERE YOU HAVE TO SHOW
+
+YOUR PAPERS
+
+EVERYWHERE YOU GO AND THERE'S THIS BELIEF
+
+REALLY THAT THERE'S A CERTAIN KIND OF DOMESTIC
+
+LAW ENFORCEMENT EVEN TOUGH LAW ENFORCEMENT
+
+THAT WE EXPECT THAT, YOU KNOW,
+
+STICKS WITH THE CONSTITUTION AND THE
+
+FOURTH AMENDMENT, SEARCH WARRANTS,
+
+REASONABLE SUSPICION FOR SEARCH AND SEIZURE,
+
+ALL SORTS OF THINGS AND A SORT OF COMPORTMENT, RIGHT?
+
+THE WAY THAT POLICE OFFICERS ACROSS THE COUNTRY
+
+BY AND LARGE CONDUCT
+
+THAT'S WHY WE'VE SEEN THE NUMBERS,
+
+THE CUSTOMS ENFORCEMENT AGENCY
+
+ISN'T DOING THAT AND THAT'S WHAT THESE
+
+VIDEOS ARE EXPOSING AND I THINK THAT'S
+
+WHY WE'VE WE'VE SEEN THE NUMBERS,
+
+THE PRESIDENT'S NUMBERS ON IMMIGRATION
+
+GO DOWNHILL.
+
+IT'S NOT THAT THEY DISAGREE NOW
+
+AND HAVE CHANGED THEIR MIND ON
+
+THE UNDERLINE IDEA OF BEING DEMANDED TO
+
+BE DEPORTING BORDER ENFORCEMENT AND
+
+DEPORTING ILLEGAL IMMIGRANTS,
+
+PARTICULARLY THOSE WHO WERE CRIMINALS.
+
+BUT THE WAY IT IS BEING DONE AND
+
+BECAUSE IT IS IMPACTING U .S.
+
+CITIZENS WHO ARE BEING U .S.
+
+CITIZENS WHO ARE BEING DEMANDED
+
+TO SHOW PAPERS AND IF NOT ARRESTED
+
+AND ARRESTED IN A SOMEWHAT BRUTAL FASHION,
+
+THIS IS THE PROBLEM THE AMERICAN PEOPLE,
+
+THIS IS THE PROBLEM VOTERS HAVE
+
+AND THIS IS SOMETHING THAT
+
+REPUBLICANS ARE GROWING UNCOMFORTABLE WITH,
+
+YOU KNOW, BUT FOR REPUBLICANS ON CAPITOL HILL,
+
+AS ALWAYS,A DESIRE TO NOT PUBLICLY
+
+DISAGREE
+
+WITH THE PRESIDENT EVEN WHEN THEY
+
+DISAGREE WITH HIM ON THE SUBSTANCE.

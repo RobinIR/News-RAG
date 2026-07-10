@@ -454,7 +454,7 @@ def index_chunks(chunks: list, filename: str, meta: dict, collection) -> int:
         metas.append({
             # --- Corpus-level metadata (from header block, NOT from chunk text) ---
             "source":                filename,
-            "event_id":              meta.get("event_id", "unknown"),
+            # "event_id":              meta.get("event_id", "unknown"),
             "political_leaning": meta.get("political_leaning", "unknown"),
             "news_type":              meta.get("news_type", "unknown"),
             "news_source":                meta.get("news_source", "unknown"),
@@ -552,7 +552,7 @@ def process_file(html_path: str, force: bool = False) -> dict:
     output_json = {
     "metadata": {
         "source": filename,
-        "event_id": meta.get("event_id", "unknown"),
+        # "event_id": meta.get("event_id", "unknown"),
         "political_leaning": meta.get("political_leaning", "unknown"),
         "news_type": meta.get("news_type", "unknown"),
         "news_source": meta.get("news_source", "unknown"),

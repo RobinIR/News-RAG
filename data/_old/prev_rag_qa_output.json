@@ -1,0 +1,4676 @@
+[
+  {
+    "question_id": "QA_DC1_fa46150d",
+    "event_id": "DC1",
+    "question": "What is the US Customs and Border Protection agency's response to the fatal shooting of Alex Pretti?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The agency did not provide a straightforward report on the shooting; instead, under congressional pressure it sent Congress a self‑drafted “question‑and‑answer” document that it created itself and repeatedly declined to answer its own questions. Only after the 72‑hour deadline did CBP finally submit the legally required “in‑custody” death notification report.【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_313c00e9",
+    "event_id": "DC1",
+    "question": "What training does Border Patrol receive on de-escalation?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_0232c1d0",
+    "event_id": "DC1",
+    "question": "What is the agency's policy on body cameras for agents?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "CBP says it does not set its own rule on body‑camera use; instead, it “defers to the investigating agencies” when asked whether agents were wearing body cameras【source】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_a94ee3d9",
+    "event_id": "DC1",
+    "question": "Why did the agency send a self-Q&A to Congress instead of a report?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The agency had been unresponsive to the House and Senate committees’ questions about the shooting, so instead of the legally‑required “in‑custody” death notification it drafted its own list of questions and answers and sent that to Congress.  By sending a self‑Q&A, CBP could defer to the investigating agencies and decline to answer its own queries rather than provide the mandated report on time【1†L1-L7】【1†L8-L12】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_1dc2f0ec",
+    "event_id": "DC1",
+    "question": "What is the agency's response to questions about de-escalation and use of force training?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_a1926054",
+    "event_id": "DC1",
+    "question": "What is CBP's de-escalation policy?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "CBP’s de‑escalation policy is embedded in its Use‑of‑Force Policy.  It directs that agents use “de‑escalation tactics and techniques” to lessen the chance that force will be needed—or to reduce the amount of force used—so as to increase the likelihood of voluntary compliance.  Authorized officers must employ these tactics whenever it is safe and feasible and does not compromise law‑enforcement priorities【1†L1-L4】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_43b72d0c",
+    "event_id": "DC1",
+    "question": "What happened during the CBP officer confrontation?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_b2c44884",
+    "event_id": "DC1",
+    "question": "What led to the shooting of Alex Jeffrey Pretti?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_c3924538",
+    "event_id": "DC1",
+    "question": "Who was shot by the CBP officers?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_e52afd14",
+    "event_id": "DC1",
+    "question": "Were any BPAs wearing BWCs?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The context does not state whether any Border Patrol Agents (BPAs) were wearing body‑worn cameras; it notes that “CBP defers to the investigating agencies” for that detail.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_41b7619e",
+    "event_id": "DC1",
+    "question": "Did the AI being targeted have a final order of removal?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The source indicates that CBP does not confirm whether the AI being targeted had a final order of removal; instead, it says CBP “defers to DHS and the investigating agencies for further detail of the operation.”【source】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_b998fae1",
+    "event_id": "DC1",
+    "question": "What is the status of the investigation into the incident?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The investigation is still in its early, “preliminary review” stage. U.S. Customs and Border Protection’s Office of Professional Responsibility (OPR) Investigative Operations Directorate (IOD) has released initial findings based on body‑camera footage and documentation, but notes that the review may be updated and clarified as additional details become available【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_53123fb8",
+    "event_id": "DC1",
+    "question": "Who was involved in the incident?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The incident involved a Customs and Border Protection Officer who pushed two female civilians, the two female civilians themselves, and Alex Jeffrey Pretti – a U.S. citizen who was later shot after being mistaken for having a gun. United States Border Patrol agents were also present and involved in the enforcement action.【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_67ff0322",
+    "event_id": "DC1",
+    "question": "What was the outcome of the incident?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The incident resulted in an in‑custody death: Alex Jeffrey Pretti was mistakenly shot by a CBP officer and later died after being placed in an ambulance and transported for medical care【source】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_43cc60c3",
+    "event_id": "DC1",
+    "question": "What is the role of the Department of Homeland Security Office of Inspector General in this incident?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_e3056bc3",
+    "event_id": "DC1",
+    "question": "What happened on January 24, 2026, in Minneapolis?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "On Saturday, January 24 2026, United States Border Patrol agents and Customs and Border Protection officers conducting an “Operation Metro Surge” enforcement action near the intersection of Nicollet Ave. and 26th St. in Minneapolis encountered several civilians who were yelling and blowing whistles. After verbal warnings to stay on the sidewalks, the agents’ encounter resulted in the shooting of Alex Jeffrey Pretti, a U.S. citizen, who was later placed in an MFD ambulance at about 9:14 a.m. and transported for medical care【source】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_d2782a2c",
+    "event_id": "DC1",
+    "question": "Will the official autopsy findings be released?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_65069eec",
+    "event_id": "DC1",
+    "question": "What is the Trump administration's stance on law enforcement data?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The Trump administration rolled back a Biden‑era executive order that required law‑enforcement agencies to report use‑of‑force data to Congress. By rescinding that order, it freed ICE from the obligation to provide Congress with information on its agents’ use of force, effectively ending the mandated documentation of such incidents【1†L1-L4】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_5e58389d",
+    "event_id": "DC1",
+    "question": "How does the Biden executive order impact ICE's use of force reporting?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The Biden executive order had required ICE to submit use‑of‑force data to Congress. When President Trump rescinded that order, ICE was released from the obligation to provide Congress with information on its agents’ use of force 【1†L1-L3】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_33049f0d",
+    "event_id": "DC1",
+    "question": "What is the current state of transparency and accountability in federal law enforcement?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Federal law‑enforcement transparency has been weakened: while Customs and Border Protection must still file use‑of‑force reports, ICE is no longer required to do so after the Trump administration rescinded a Biden executive order that had mandated such data be sent to Congress 【1】. This rollback limits congressional oversight and hampers the release of information about incidents such as the fatal shooting of Renee Good, reducing accountability for ICE agents.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_09399136",
+    "event_id": "DC1",
+    "question": "What is the current status of the Congressional inquiry into ICE's use of force?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_183f3411",
+    "event_id": "DC1",
+    "question": "Why is Rep. Bennie Thompson calling for legislation on use of force incidents?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC1_b68c7b38",
+    "event_id": "DC1",
+    "question": "What is Rep. Bennie Thompson's stance on DHS's use of force reporting?",
+    "required_documents": [
+      "DC1__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_75104f0d",
+    "event_id": "DC2",
+    "question": "What information will be released about the shooting of Renee Good?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Federal prosecutors in Minnesota must turn over a “slew of records” about the January 7 shooting of Renee Good, including Immigration and Customs Enforcement officer Jonathan Ross’s personnel file, to a magistrate judge by May 1. The judge will review those documents and decide which portions should be made public, as they could shed light on how Good was killed【1†L1-L5】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_0d3baa5f",
+    "event_id": "DC2",
+    "question": "What is the significance of the court order in this case?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The magistrate’s order compels federal prosecutors to turn over Jonathan Ross’s personnel file and other records, giving the defense in the Muñoz‑Guatemala case the material it needs to assess its client’s rights and to determine what, if any, misconduct may have contributed to the earlier killing of Renee Good. By forcing disclosure, the order could also provide the public with insight into the circumstances of Good’s shooting, making it a pivotal step for both legal defense and transparency 【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_150e42d8",
+    "event_id": "DC2",
+    "question": "What is the significance of the magistrate judge's order?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The magistrate judge’s order compels federal prosecutors to turn over a wide range of ICE officer Jonathan Ross’s records—including his personnel file—so the defense can review them and a judge can decide which documents should be made public.  The released information could illuminate the circumstances of Renee Good’s death and is viewed as crucial both for protecting the defendant’s rights and for public understanding of the shooting【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_d2378258",
+    "event_id": "DC2",
+    "question": "Who is Jonathan Ross and what is his role in the case?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Jonathan Ross is an Immigration and Customs Enforcement (ICE) officer who shot and killed observer Renee Good during a January 7 confrontation in Minneapolis. His personnel file and other records are being ordered for release because they may illuminate the Good shooting and are also relevant to a separate case involving Roberto Carlos Muñoz‑Guatemala, whom Ross had previously attempted to apprehend【1†L1-L7】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_d95c13d3",
+    "event_id": "DC2",
+    "question": "Why was the information about the shooting released?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The information was ordered released after the defense for Roberto Carlos Muñoz‑Guatemala asked the court to see the records, arguing that they were needed to protect his client’s rights and to help the public understand what happened in the shooting of Renee Good. A Minnesota magistrate judge granted the motion and gave prosecutors until May 1 to turn over Ross’s personnel file and related documents for review【1†L1-L9】【1†L10-L14】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_676499ff",
+    "event_id": "DC2",
+    "question": "What information was ordered to be released about the Renee Good shooting?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "A Minnesota magistrate judge ordered federal prosecutors to turn over a “slew of records” related to the shooting, including Immigration and Customs Enforcement officer Jonathan Ross’s personnel file and other documents that could illuminate how Good was killed【1】. The materials must be provided by May 1 for the judge to decide which files should be released.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_a2f2f12f",
+    "event_id": "DC2",
+    "question": "What is post-conviction discovery?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_f4410d14",
+    "event_id": "DC2",
+    "question": "Can a new trial be granted based on new evidence?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_fbd428af",
+    "event_id": "DC2",
+    "question": "What is the relevance of the Good case to Muñoz-Guatemala's sentence?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The attorney argues that the facts surrounding the Good case—specifically the reckless actions of Ross that led to Good’s death—could be used as newly‑discovered evidence to justify either a new trial for Muñoz‑Guatemala or a reduced sentence. In other words, the Good case is presented as a potential mitigating factor that might lessen the punishment imposed on Muñoz‑Guatemala【1†L1-L4】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_29659ac5",
+    "event_id": "DC2",
+    "question": "What will happen to the materials after the magistrate judge reviews them?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "After the magistrate judge reviews the materials, he will redact any portions that are not relevant or are privileged and then turn the remaining documents over to Muñoz‑Guatemala’s defense team. The defense can then examine the material and use it to seek a new trial or to present mitigating factors for a reduced sentence【source】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_b9c8e9c7",
+    "event_id": "DC2",
+    "question": "Can the defense team use the materials to request a new trial?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Yes. Once the magistrate judge reviews and redacts the materials, they are handed to Muñoz‑Guatemala’s defense team, which may use them “to mount a bid for a new trial” or as mitigating evidence for a reduced sentence【source】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_0a3bd23b",
+    "event_id": "DC2",
+    "question": "What are the potential consequences for the government if they are forced to comply with the order?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "If the government is compelled to comply with the order, it could lead them to dismiss the case entirely. A defense attorney noted that “there’s a strong chance that the government will dismiss this case if they’re forced to go forward with complying with the order”【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_ad77af12",
+    "event_id": "DC2",
+    "question": "What is the current status of the case?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The case has now progressed to the discovery phase, with officials indicating that it is finally moving forward after a lengthy delay【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_bdb541b2",
+    "event_id": "DC2",
+    "question": "Why did DHS and ICE close ranks?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC2_c089efe6",
+    "event_id": "DC2",
+    "question": "What does Balint mean by 'full transparency and accountability'?",
+    "required_documents": [
+      "DC2__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Balint is calling for the government to openly disclose all information about the case and to be held responsible for how it handled it. He wants the authorities to protect Renee Good’s family and to demonstrate that they are answerable to the public, rather than shielding only those in power【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_fdc5f8a9",
+    "event_id": "DC3",
+    "question": "What legislation is Rep. Delia Ramirez introducing to limit DHS's use of force?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Rep. Delia Ramirez is introducing a bill that would curb the Department of Homeland Security’s use of force – a “bare‑minimum” measure she says would limit DHS agents’ force, tie the agency’s funding to the appropriations process and ultimately help dismantle the department’s abusive practices【1†L4-L9】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b1f9c17b",
+    "event_id": "DC3",
+    "question": "What is the current use of force policy by ICE agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1fd43570",
+    "event_id": "DC3",
+    "question": "What is the Trump administration's justification for its actions in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The administration says its actions in Minnesota are meant to protect law‑enforcement officers – arguing that the response is about shielding police from transparency and accountability rather than safeguarding citizens’ constitutional rights【1†L4-L7】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_9ccf637f",
+    "event_id": "DC3",
+    "question": "What is the purpose of the DHS Use of Force Oversight Act?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The DHS Use of Force Oversight Act is a bill introduced by Rep. Delia Ramirez that would restrict and oversee the use of force by Department of Homeland Security agents, aiming to curb the agency’s alleged abuses.  The legislation proposes using the appropriations process to hold or condition DHS funding and, ultimately, to limit the department’s unchecked use of force【1†L1-L7】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_5fb97a9d",
+    "event_id": "DC3",
+    "question": "How does the bill address deescalation in ICE interactions?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_f42fc6bb",
+    "event_id": "DC3",
+    "question": "How does Rep. Delia Ramirez describe the bill she is introducing?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Rep. Delia Ramirez says the legislation she’s introducing is only the “bare minimum” needed to curb the Department of Homeland Security’s abuses – a basic, minimal measure that Democrats can use through the appropriations process to hold back funding and ultimately dismantle the agency【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1c657feb",
+    "event_id": "DC3",
+    "question": "What is the Trump administration's ideology regarding immigration?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The Trump administration is portrayed as holding an exclusionary, hard‑line immigration ideology that treats anyone who disagrees with Donald Trump as “not real Americans” and therefore undeserving of constitutional rights, regardless of citizenship. 【Source】​Serwer notes that the violence by federal agents reflects “an ideological worldview…that those of us who do not agree with Donald Trump are not real Americans and are not entitled to the rights that are due us in the Constitution.”【Source】​",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_114a21b7",
+    "event_id": "DC3",
+    "question": "How has the deployment of ICE agents led to violence?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The Trump administration’s decision to send ICE agents to the Minneapolis area has been linked to a surge in violent incidents.  According to the report, the agents have used force not only against immigrants but also against observers and activists, a pattern described as stemming from an ideological view that those who disagree with Donald Trump “are not real Americans” and therefore lack constitutional protections【1†L1-L5】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_8700ad3d",
+    "event_id": "DC3",
+    "question": "What are the implications of an ideological worldview on democracy?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "An ideological worldview that labels dissenters as “not real Americans” encourages federal agents to use violence against observers, activists and immigrants, thereby denying them constitutional rights.  According to the source, such a mindset “means a democracy cannot exist when it has an armed uniformed federal agency … who believes that its job is to brutalize 50 percent of the country”【1】.  In short, the worldview erodes democratic norms by legitimizing repression and stripping large segments of the population of their democratic protections.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_c264d02f",
+    "event_id": "DC3",
+    "question": "What is the current situation with ICE agents in Minneapolis?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "ICE agents have been deployed in large numbers in Minneapolis, to the point that they are “overwhelming” the city’s own police force, according to Sen. Amy Klobuchar. Their presence has been marked by heavily‑armed officers tackling, dragging, shoving and intimidating observers, activists and immigrants, with multiple video reports of violent encounters.【Summary】【Sen. Amy Klobuchar】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_fb3e274e",
+    "event_id": "DC3",
+    "question": "How are ICE agents interacting with the public?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "ICE agents are confronting people with force, often tackling, dragging, shoving and intimidating them while brandishing heavy weapons and masks【2】. Their encounters include scanning faces, physically removing individuals from vehicles, and even carrying a woman who said she was autistic and had a brain injury【3†4†5】. These actions have been described as overwhelming the local police force【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_8b974903",
+    "event_id": "DC3",
+    "question": "What is the response of local politicians to the ICE deployment?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Minnesota Sen. Amy Klobuchar condemned the federal operation, noting that “there are like 600 sworn‑in officers in Minneapolis, and 550 or so in St. Paul. The ICE agents are literally overwhelming our own police force.”【1†L1-L3】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_7a6584b2",
+    "event_id": "DC3",
+    "question": "What is the background of Renee Good, the mother of three who was fatally shot by an ICE officer?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_ed262b68",
+    "event_id": "DC3",
+    "question": "What is the reaction of people in Minneapolis to the presence of ICE agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "People who saw ICE agents in their neighborhood went out to confront them, but the agents stopped and surrounded their cars, yelled at them and threatened arrest, leaving residents feeling intimidated and harassed【1†L9-L13】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b7123717",
+    "event_id": "DC3",
+    "question": "What happened when the couple encountered ICE agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "When the couple stepped outside, ICE agents in a nearby parking‑lot “caravan” pulled them over, surrounded their car and began yelling and threatening them with arrest. After the stop the agents kept following the couple, and one officer even went to the woman’s window, scanned her license plate, took photographs and greeted her by name (“Hello, Judith”).【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_cdf0e2d9",
+    "event_id": "DC3",
+    "question": "How did the ICE agents interact with the couple?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The ICE agents pulled the Levys over, surrounded their car and began yelling at them, even threatening arrest. One officer then walked up to Judy’s window, scanned her license‑plate, photographed her and addressed her by name, saying, “Hello, Judith.”【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_78d1895f",
+    "event_id": "DC3",
+    "question": "What tools did the ICE agents use to identify the couple?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The ICE officer used a license‑plate scanner to read the couple’s plate and then photographed them through the window. Those tools—plate‑reading equipment and a camera—allowed the agents to identify the Levys.【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1b888e68",
+    "event_id": "DC3",
+    "question": "Why are Somali Americans being targeted by ICE agents in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_871f85d1",
+    "event_id": "DC3",
+    "question": "How are federal agents accessing private information in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Federal ICE agents in Minneapolis are using facial‑scanning technology to capture people’s images and then query government databases for immigration‑violation records. By matching the scans to these databases, they are able to retrieve private personal information on both immigrants and U.S. citizens【1†L1-L5】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_6460c7e5",
+    "event_id": "DC3",
+    "question": "What tools are ICE agents using to identify people in Minneapolis?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "ICE agents in Minneapolis are reportedly using facial‑scanning technology to capture images of individuals and then cross‑checking those scans against their immigration database to determine whether the persons are wanted for civil immigration violations. 【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_bc7c6890",
+    "event_id": "DC3",
+    "question": "How do ICE agents use facial scanners to identify immigrants and citizens?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "ICE agents in Minneapolis employ facial‑scanning technology to capture a person’s face and then cross‑reference it with ICE’s immigration‑violation database. The scans are used both to flag immigrants who may be wanted for civil immigration violations and to identify ordinary citizens or by‑standers who happen to be in the area 【1†L4-L8】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_d0d9a2c9",
+    "event_id": "DC3",
+    "question": "What technologies are federal agents using in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Federal ICE agents in Minneapolis are reported to be using facial‑scanning technology to match individuals’ faces against immigration databases, both for immigrants and for U.S. citizens. This tool allows agents to identify people without displaying badges or other identifying information.【1†L4-L9】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_87884faf",
+    "event_id": "DC3",
+    "question": "What are the allegations of ICE surveillance in Minneapolis?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "ICE agents in Minneapolis are alleged to be using facial‑scanning technology to match people—both immigrants and U.S. citizens—against ICE databases in order to identify immigration violations.  Critics say the agents can access private data without identification, using masked, unbadge­ed personnel, which they view as an intimidation tactic and a lack of accountability【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_49f569ae",
+    "event_id": "DC3",
+    "question": "What is the role of Gov. Tim Walz in the federal agents' presence in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_947ee581",
+    "event_id": "DC3",
+    "question": "What are residents in Minneapolis doing in response to the shooting of Renee Good?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Residents have organized large vigils and protests – including a 10,000‑person vigil and a 20,000‑person demonstration – to mourn Renee Good’s death. At the same time many neighbors have set up informal “neighborhood‑watch” style efforts, stepping out of their homes when they hear the whistle signal used by federal agents and using their constitutional right to observe law‑enforcement activity【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_fe0bc740",
+    "event_id": "DC3",
+    "question": "How are people in Minneapolis using their constitutional rights to observe law enforcement?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "People in Minneapolis are exercising their constitutional right to observe law‑enforcement activity by watching from their homes and stepping outside when they hear the “whistling” signal that federal agents use.  Residents – described as “normie Target moms” – are coming out of their houses to watch the masked, armed agents as they move through neighborhoods, using their right to observe rather than to confront the agents【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_ce79f929",
+    "event_id": "DC3",
+    "question": "What is the nature of the protests in Minneapolis in response to the ICE agent presence?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The response in Minneapolis has been a mix of vigils and “protests,” but most of the activity is not the confrontational street battles seen after George Floyd. Residents have gathered for large vigils (e.g., a 10,000‑person vigil and a 20,000‑person gathering) and are organizing neighborhood‑watch‑style efforts, while masked federal agents move through the city in caravans. Thus, the protests are largely peaceful demonstrations and community monitoring rather than direct clashes with ICE agents【1†L1-L9】【1†L10-L14】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_6010a6e9",
+    "event_id": "DC3",
+    "question": "How are residents exercising their constitutional rights?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Residents are forming neighborhood‑watch groups and staging protests to monitor ICE actions and voice their opposition. Across Minnesota they are gathering peacefully, observing the enforcement operations and invoking their constitutional rights to assemble and express dissent 【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_d3126282",
+    "event_id": "DC3",
+    "question": "How do residents in Minnesota respond to ICE enforcement actions?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Residents across Minnesota react to ICE raids by organizing neighborhood‑watch style monitoring and holding protests, using their constitutional right to observe and voice opposition. They gather in both the Twin Cities and smaller towns, meeting peacefully to watch the actions and publicly oppose the agents’ presence 【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_d151b728",
+    "event_id": "DC3",
+    "question": "What is the community response to ICE enforcement in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Residents across Minnesota are mobilizing in response to ICE actions by forming neighborhood‑watch style groups, holding protests and gathering to peacefully observe and voice opposition, invoking their constitutional rights. The response is statewide—not limited to the Twin Cities—and neighbors are coming out in small towns as well as the core cities to try to keep their communities safe while publicly opposing the enforcement actions【1†L1-L4】【2†L1-L4】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_14f37d72",
+    "event_id": "DC3",
+    "question": "What are the consequences of ICE agent violence in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "ICE agent violence—such as pepper‑spraying, tasering, breaking windows and pulling observers from cars—has provoked a statewide community backlash in Minnesota. Residents have organized neighborhood‑watch groups and staged protests, mobilizing neighbors, coworkers and friends to “peacefully observe and use their constitutional rights” in response to the enforcement actions【1†L1-L8】【1†L9-L13】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_fa22edd6",
+    "event_id": "DC3",
+    "question": "What are the constitutional rights of residents in Minnesota?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_810138be",
+    "event_id": "DC3",
+    "question": "What is the scope of ICE enforcement actions in the state?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "ICE enforcement actions are taking place throughout Minnesota, not only in the Twin Cities of Minneapolis and St. Paul but also in smaller communities such as St. Cloud and other towns across the state【1†L4-L9】. The scope is described as “so broad and unprecedented,” with enforcement occurring “all over the state.”",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_837384d4",
+    "event_id": "DC3",
+    "question": "Why are Democrats concerned about the backlash against the 2020 Black rights protest?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_7f6c5ca6",
+    "event_id": "DC3",
+    "question": "How do federal agents view certain groups?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_ff159ed5",
+    "event_id": "DC3",
+    "question": "What are some common ways that communities in Minneapolis respond to ICE enforcement actions?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Communities in Minneapolis typically mobilize quickly when ICE shows up — they alert their networks through Signal and other messaging apps, then gather at the site, honking horns, blowing whistles, yelling and recording the encounter. Most residents come to express opposition without physically blocking officers, using the coordinated communication and visible protest tactics to pressure ICE agents.【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_6466245e",
+    "event_id": "DC3",
+    "question": "What is the impact of federal agents' ideology on citizens?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_0ebc5f0c",
+    "event_id": "DC3",
+    "question": "How do ICE agents use technology to track and detain individuals?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_c9f36ad2",
+    "event_id": "DC3",
+    "question": "What are some examples of excessive force used by ICE agents against protesters?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The report describes ICE agents physically pushing the Minneapolis City Council president “as hard as they could,” brandishing pepper spray and using it “randomly,” and an officer running around “putting his Taser to people’s chests or arms” and threatening them【1】. These actions are cited as examples of excessive force against protesters.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_ed3d0088",
+    "event_id": "DC3",
+    "question": "How are citizens in Minneapolis resisting ICE enforcement?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b0348c58",
+    "event_id": "DC3",
+    "question": "How have police in Minneapolis and St. Paul responded to ICE enforcement actions?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Police in both Minneapolis and St. Paul have largely stayed out of ICE operations. Although the cities have “separation ordinances” that prohibit city agencies—including the police—from cooperating with federal immigration enforcement, the police have “steered clear of showing up to those scenes” and have avoided confrontations with ICE agents【1†L1-L4】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b055b893",
+    "event_id": "DC3",
+    "question": "What is the role of local law enforcement in this situation?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Local law enforcement in Minneapolis and St. Paul is barred from assisting ICE by city “separation ordinances,” which prohibit police and other city agencies from cooperating with federal immigration enforcement. As a result, the police have largely stayed out of ICE operations, steering clear of confrontations with federal agents【JC: “They have… blocks the city agencies and officials from cooperating… And the police, for the most part, have steered clear of showing up to those scenes.”】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_3c76c2bf",
+    "event_id": "DC3",
+    "question": "What is the scale of ICE enforcement in Minneapolis?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_0d10bc7d",
+    "event_id": "DC3",
+    "question": "What efforts have city officials taken to push back on DHS in Minneapolis?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "City officials in Minneapolis have adopted a “separation ordinance” that legally bars city agencies—including the police—from cooperating with federal immigration enforcement actions by DHS/ICE【JC: So Minneapolis and St. Paul have both had separation ordinances for a while that blocks the city agencies and officials from cooperating with federal immigration enforcement.】. This ordinance is intended to limit local involvement in DHS activities and push back against federal immigration raids.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_aa630db1",
+    "event_id": "DC3",
+    "question": "What accountability metrics exist for ICE agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1b0e5665",
+    "event_id": "DC3",
+    "question": "What are the implications of the administration's push for law enforcement protection over citizen rights?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_346e4d54",
+    "event_id": "DC3",
+    "question": "How does the bill address use of force incidents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_28e72f27",
+    "event_id": "DC3",
+    "question": "What training do ICE agents receive?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_9e911812",
+    "event_id": "DC3",
+    "question": "What specific rights are being targeted by the administration's policies?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_147922ee",
+    "event_id": "DC3",
+    "question": "How does this affect the concept of transparency and accountability in the US?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_f02c75b7",
+    "event_id": "DC3",
+    "question": "How does DHS justify use of force incidents on social media?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "DHS often turns to its own social‑media channels to spin a narrative that the person targeted was a “domestic terrorist,” using that label to rationalize the agent’s actions【1†L9-L12】. This framing serves as the agency’s public justification for the use‑of‑force incidents.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_a68700c7",
+    "event_id": "DC3",
+    "question": "What systems are needed to prevent ICE from using excessive force?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Preventing ICE from using excessive force requires establishing clear, enforceable use‑of‑force policies backed by measurable accountability metrics and oversight mechanisms.  Such systems would track agent actions, prohibit prohibited tactics (e.g., shooting at moving vehicles), and ensure independent review rather than reliance on ad‑hoc social‑media justifications【DR】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_9cc9f13e",
+    "event_id": "DC3",
+    "question": "What are the current accountability metrics for ICE use of force?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The ICE use‑of‑force policy currently has **no formal accountability metrics**; incidents are not systematically measured or reported, and enforcement of any existing guidelines is inconsistent 【DR】. While there are basic procedural rules (e.g., agents should not place themselves in front of a moving vehicle or fire at one without a weapon), there is no established system for tracking or evaluating compliance.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_5e98fa9a",
+    "event_id": "DC3",
+    "question": "What are the specific protocols for engaging with individuals in use of force situations?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The only concrete protocols mentioned are that an ICE agent should not position themselves in front of a moving vehicle and should not fire at a moving vehicle, especially when the driver is known not to be armed【DR】. No other detailed engagement rules are provided in the context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_5c094bff",
+    "event_id": "DC3",
+    "question": "What is the current use of force policy for ICE agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '39958b0b8eb3507ecf1dcf59eb828465'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_fcf4f23f",
+    "event_id": "DC3",
+    "question": "How can Congress ensure accountability in ICE enforcement?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_bb104ba9",
+    "event_id": "DC3",
+    "question": "What is the connection between healthcare cuts and ICE funding?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_7813f608",
+    "event_id": "DC3",
+    "question": "What is the speaker's argument for dismantling DHS?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The speaker argues that the Department of Homeland Security was created after 9/11 specifically to give a single agency broad latitude to act “in the name of protecting us from domestic terrorism.” Because that structure lets ICE and other components operate with sweeping authority—effectively labeling victims of ICE enforcement as “domestic terrorists”—the speaker believes the department should be dismantled.【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_93a7ac5f",
+    "event_id": "DC3",
+    "question": "How does Rep. Ocasio-Cortez propose to address ICE accountability?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Rep. Ocasio‑Cortez says Congress should use the appropriations process to stop any further funding for ICE unless the agency adopts concrete accountability measures, effectively defunding it. She adds that the ultimate goal is to dismantle the Department of Homeland Security, which houses ICE, to curb its unchecked power【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_de95e90b",
+    "event_id": "DC3",
+    "question": "What is the speaker's stance on ICE and DHS?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The speaker wants to eliminate funding for ICE and ultimately dismantle the Department of Homeland Security, arguing that both agencies should be defunded and broken up. 【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b17972ab",
+    "event_id": "DC3",
+    "question": "What are the implications of abolishing ICE?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_cc2262a7",
+    "event_id": "DC3",
+    "question": "Why does the speaker want to defund ICE?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_211f15ed",
+    "event_id": "DC3",
+    "question": "How has the Department of Homeland Security's actions affected cities across the country?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The speaker says the Department of Homeland Security has acted lawlessly and without accountability, violating the Constitution and sowing “chaos and fear and potential death” wherever it operates. According to the testimony, this impact is being felt in cities across the country—from Chicago and New Orleans to Louisville, Kentucky and Portland, Oregon【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_818d35f7",
+    "event_id": "DC3",
+    "question": "What is the speaker's stance on reforming the Department of Homeland Security?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The speaker calls for sweeping changes to the Department of Homeland Security, saying they want to use the appropriations process to withhold its funding, pursue “real reforms long‑term,” and ultimately work toward dismantling the agency. They describe DHS as lawless and unaccountable and argue that reform—including defunding, abolishing ICE and even impeaching officials like Kristi Noem—is necessary to protect the Constitution【source】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_44d9cd08",
+    "event_id": "DC3",
+    "question": "Why is the Department of Homeland Security operating unaccountably?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The speaker claims the Department of Homeland Security is operating unaccountably because it has “demonstrated lawlessness,” is “violating the Constitution,” and is “creating chaos and fear … in every single city that they walk into.” These actions, they argue, show DHS acting without accountability and with disregard for constitutional limits.【1】",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_51e40cfa",
+    "event_id": "DC3",
+    "question": "How does the speaker think Democratic colleagues are resistant to reforming the Department of Homeland Security?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_89b95a97",
+    "event_id": "DC3",
+    "question": "What is the Department of Homeland Security's track record of lawlessness?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The Department of Homeland Security has been described as having a record of “lawlessness,” operating without accountability, violating the Constitution, and sowing chaos, fear and even potential death in cities across the country【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b0c7f088",
+    "event_id": "DC3",
+    "question": "What is the Department of Homeland Security doing wrong?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The Department of Homeland Security is being accused of operating without accountability and misusing its resources by diverting funds meant for FEMA and the Coast Guard to ICE enforcement. It is said to be sending untrained ICE agents into cities, creating chaos and fear, while awarding contracts to Donald Trump’s campaign donors for profit at the expense of humane treatment of detainees【1】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_532d2ba1",
+    "event_id": "DC3",
+    "question": "How is the Department of Homeland Security misusing resources?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The Department of Homeland Security is diverting funds and support that should go to FEMA and the Coast Guard and instead channeling them to ICE enforcement, even sending untrained ICE agents into cities and creating chaos [1]. It is also awarding contracts to Donald Trump’s campaign donors, enriching them while neglecting core homeland‑security functions [1].",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_7c434541",
+    "event_id": "DC3",
+    "question": "What are the consequences of the Department of Homeland Security's actions?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_23924406",
+    "event_id": "DC3",
+    "question": "What is the role of Donald Trump's campaign in the shift of public opinion?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Donald Trump’s campaign deliberately framed immigrants as scapegoats, using anti‑immigrant rhetoric to win political support. Historians note that this strategy sparked a recent swing in public opinion against immigrants in the run‑up to the 2024 election, and the backlash to that campaign has continued to shape attitudes toward immigration policy【AG】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b406a9a7",
+    "event_id": "DC3",
+    "question": "What is the current public opinion on immigration?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "The latest polling shows that public sentiment has moved in a more anti‑ICE direction – a majority of Americans now say they favor abolishing ICE rather than keeping it in place【1†L1-L4】. This shift follows recent administration actions and a reaction to the Trump‑led anti‑immigrant campaign described in the report【1†L5-L9】.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_a6f51f37",
+    "event_id": "DC3",
+    "question": "Is ICE a paramilitary force?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context.",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_e1236eda",
+    "event_id": "DC3",
+    "question": "What is the role of ICE in the country?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "Insufficient context",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_82703881",
+    "event_id": "DC3",
+    "question": "How has the administration's actions affected public opinion?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 500]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_6ba872a3",
+    "event_id": "DC3",
+    "question": "How does ICE relate to Donald Trump's support?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c57aac00e1f31e212ed9ff0dcccbb627'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1b388420",
+    "event_id": "DC3",
+    "question": "Why did the Biden administration avoid immigration issues?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '6e231d1fcd9e8354da79887932defc30'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_03280490",
+    "event_id": "DC3",
+    "question": "What is the ideological worldview of ICE?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '56abae52d5f06c40b0f0990f2e2eb432'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_705a5663",
+    "event_id": "DC3",
+    "question": "What was the opportunity for Democrats to stake out new ground?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'b4295c4d0b0ad020652b28566af88f24'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_b0deba62",
+    "event_id": "DC3",
+    "question": "Why are federal agents engaging in violence against observers and activists?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'fda1db71babcc90dd4ff0001862d4146'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_69273eb6",
+    "event_id": "DC3",
+    "question": "What is the relationship between ICE's actions and the concept of 'blue states'?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'f1fc6e173acc644303ee1a37e6a2662f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_2f0869f7",
+    "event_id": "DC3",
+    "question": "How did the Trump campaign capitalize on immigration issues?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '0625cb2bef020115d8f3222376b2cd7e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1d753a30",
+    "event_id": "DC3",
+    "question": "How has the Department of Homeland Security's budget been affected?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'ec9e5d323aff8b0a76aa3b68ffdf8a11'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_f46e1fea",
+    "event_id": "DC3",
+    "question": "What immigration policy shifts are needed for a more humane policy?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3d571d5b82ec46015980f773f692c93f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_33776876",
+    "event_id": "DC3",
+    "question": "How did the Biden administration's approach to immigration issues impact Democrats?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '46c8087130ae2a41195ad4550198ab24'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1b2a0e06",
+    "event_id": "DC3",
+    "question": "What role do radical ideas play in shaping immigration policy?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '5e4dc409a61e0158845d705e4ea55431'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_17e3eff4",
+    "event_id": "DC3",
+    "question": "What is the relationship between immigration and national security?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '99ab191257ed56032ccdb93aade99a09'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_562b6526",
+    "event_id": "DC3",
+    "question": "What are the effects of the Trump administration's de-naturalization campaigns?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3b15e9417b86d762a76a8b13caca613b'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_d6129699",
+    "event_id": "DC3",
+    "question": "What is the Trump administration's approach to immigration?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '4f485674f612280a16c35a1d4782a16e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_601884d2",
+    "event_id": "DC3",
+    "question": "How does the Trump administration view American citizens who oppose their ideology?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '569dc42d07750e54382ab47654ba4942'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_38ed7b84",
+    "event_id": "DC3",
+    "question": "What is the history of the federal government's control over immigration?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'b36c761fb2e8331ba62312373a09db68'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_9a02ec15",
+    "event_id": "DC3",
+    "question": "What types of abuses have been reported against migrants by immigration agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '916d347993722f10664a6f222e565125'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_91b881f1",
+    "event_id": "DC3",
+    "question": "What is the impact of anti-immigrant sentiment on American society?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '90d29c2b60b6cc72aeac3512b89ed16a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_0aa79bc7",
+    "event_id": "DC3",
+    "question": "How does the Trump administration's ICE enforcement policies impact communities?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'd015230b3e81a0751620b671bf423655'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_3bd1e2a3",
+    "event_id": "DC3",
+    "question": "How does the author compare the current agency to the past?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '9ea2312fb021cb0acf42eb6becc30f1e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_00fa8052",
+    "event_id": "DC3",
+    "question": "What is the need for reform in the immigration agency?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c5bced757d94b047f5233d4205d5b75f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_33c65848",
+    "event_id": "DC3",
+    "question": "What is the current state of the immigration agency?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '495ae0502f7b5b2b4d4f0a02723ea30f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_731d536d",
+    "event_id": "DC3",
+    "question": "What is the role of ICE in enforcing immigration laws?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'a05d3b1a8411870f8dd8086a87418a23'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_0dad35d2",
+    "event_id": "DC3",
+    "question": "What are the consequences of ICE enforcement policies?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '1550023b707fe25d387ec51342fa8d09'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_ea5a22d3",
+    "event_id": "DC3",
+    "question": "How can the government prevent abuse of power by immigration agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c648211777f3fa4381036b4149a5db3f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_02a425d4",
+    "event_id": "DC3",
+    "question": "How does Trump's ideology compare to Stephen Miller's?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c3c57a0fca69cb09b1d3e73026328650'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_9c7021c3",
+    "event_id": "DC3",
+    "question": "What is the role of oversight in preventing abuse of power?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'db4cfd712fbb2226032a3a290785a509'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_d4f6e0a1",
+    "event_id": "DC3",
+    "question": "What is the role of ICE agents in violating American values?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '695e4103eda0c5289bca86666ee8084e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_9b80fab0",
+    "event_id": "DC3",
+    "question": "What are the implications of Trump's actions on constitutional rights?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'e2a2f33ca9bad8592b93326396157e04'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_54b11b5d",
+    "event_id": "DC3",
+    "question": "What are the consequences of giving immigration agents too much power?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '0fa4503f346d5621d6cd404bcde3eb32'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_64c15754",
+    "event_id": "DC3",
+    "question": "How does the Department of Homeland Security's bureaucratic nature contribute to immigration abuses?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'eed4bd184586fb182e29d42cb262f841'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1cac3eaf",
+    "event_id": "DC3",
+    "question": "What is the institutional imperative of the Department of Homeland Security in enforcing immigration laws?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '807cf752b1d4e41ff50af7659d5a6252'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_69e7a4ca",
+    "event_id": "DC3",
+    "question": "How do low-level agents' discretionary authority lead to abuses in the deportation process?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c51ba92577f2e426b3468a362f59697d'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_dfb1f278",
+    "event_id": "DC3",
+    "question": "What led to the increased aggression of immigration agents?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '78c5fd74ab37a82ee7299a17de05cc33'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_5909ead0",
+    "event_id": "DC3",
+    "question": "How has the immigration bureaucracy been reorganized and expanded?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'aab0b061dcc3531229b1d51cfeb26e75'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_90f94fb2",
+    "event_id": "DC3",
+    "question": "What are the consequences of a one-way ratchet of increased immigration enforcement?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'a0e54c413933de2d22cb7d66efad5772'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_3c3f714c",
+    "event_id": "DC3",
+    "question": "What are the short-term and long-term effects of sustained advocacy for immigration reform?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '28ba4b4d4173ae135feca949d9971252'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_291fbf5e",
+    "event_id": "DC3",
+    "question": "How do Democrats respond to pressure from immigrants and advocates?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '4d4d9036c8b8192ede40517e4e5c9b23'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_9beaa0cf",
+    "event_id": "DC3",
+    "question": "How do elected officials impact immigration reform?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'e290bd6e387b6036bce7b172b1fd8251'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_2032608f",
+    "event_id": "DC3",
+    "question": "What role does sustained pressure play in immigration reform?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '5cf3e40d81cfc959d44d4551b8aea53e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_1a12233b",
+    "event_id": "DC3",
+    "question": "What are the implications of the Obama administration's immigration policy shift?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '9f0a9246e29f2478073c3c07f8c16323'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_ec50bbfa",
+    "event_id": "DC3",
+    "question": "What changes did the Obama administration make to immigration policy?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '6e39662676530605a5c976136ccf1b30'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_af489f9a",
+    "event_id": "DC3",
+    "question": "What are the contradictions in the American idea?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'e0d2bb7426ad4103dd6ed1710ebd2743'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_3fe9710c",
+    "event_id": "DC3",
+    "question": "How does the Declaration of Independence relate to the concept of citizenship?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'f1fb1e115a13574a8cb9c308b2b4d726'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_f184308d",
+    "event_id": "DC3",
+    "question": "What are the two mutually exclusive definitions of citizenship in the American idea?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '16389b6dba9885031667152382fc1202'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_4bf12240",
+    "event_id": "DC3",
+    "question": "How do these conflicting definitions lead to reactionary revolutions and backlashes?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '947e2c51bb07b97673a224107c63e264'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_e24a0e6c",
+    "event_id": "DC3",
+    "question": "What is the significance of Bernice King's statement about fighting for democracy in every generation?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'dbf6483b94cecc35d253af397dfc9877'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_481689d7",
+    "event_id": "DC3",
+    "question": "How can public opinion be used to drive transformative changes in immigration policy?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '492d295c15c5604955a24204a950ff4f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_46d2c4cf",
+    "event_id": "DC3",
+    "question": "Can the Democratic Party achieve significant change without Republican support?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '7b4a94399126f1516472884957c6bd3b'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_d5f1d1fd",
+    "event_id": "DC3",
+    "question": "What are the challenges of achieving significant change in immigration policy?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '16d7a37a09733e2da0a275193b4d8870'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_78f6d504",
+    "event_id": "DC3",
+    "question": "Can a single party achieve significant change in a two-party system?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'f3090f5138d7f725f158dc1acbb8b83d'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_3fc7bf59",
+    "event_id": "DC3",
+    "question": "What role do Republicans play in immigration reform?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '7645a32385263832a9b78f18861cd401'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_98db6ed3",
+    "event_id": "DC3",
+    "question": "What is the role of the Republican coalition in shaping immigration policy?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '406a9c6a18623b04533d6c248de4c475'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_173cc7a2",
+    "event_id": "DC3",
+    "question": "What can individuals do to resist authoritarianism?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'fd10616b4dc446175a4f2d0c54814b6a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_c1d1ca40",
+    "event_id": "DC3",
+    "question": "How can public opinion influence policy changes?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'df1a352ca580bb370b96243fed133737'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_8ce0677c",
+    "event_id": "DC3",
+    "question": "What role do people play in shaping the course of events in a democratic society?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '7e2a211d23468578c2b01950d62ffb4e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_7ba78d0a",
+    "event_id": "DC3",
+    "question": "Who produced this episode?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'fc3d184f2102d641c8773e43c78e3d4d'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_60824bd7",
+    "event_id": "DC3",
+    "question": "Who is the executive producer of The Intercept Briefing?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3e58ee56a2b9843e590c9440bef1c000'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC3_5188f7d2",
+    "event_id": "DC3",
+    "question": "Who mixed the show?",
+    "required_documents": [
+      "DC3__Left__News.json"
+    ],
+    "required_doc_types": [
+      "News"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '7a5add1895293a653ef4867d3a915245'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_6917fc2d",
+    "event_id": "DC4",
+    "question": "How many babies and toddlers are being held in ICE detention?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'd835bb0fe5cc757ac07c9343f3c54611'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_034dc9d4",
+    "event_id": "DC4",
+    "question": "What is the increase in children under the age of three being held in ICE detention since Donald Trump became president again?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'd2d3583d4d33715f69a068472dced509'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_9d81fe73",
+    "event_id": "DC4",
+    "question": "What was the situation like for the couple who fled Russia and ended up in a detention center in the US?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '41e1f6765545cd55f1c5ac65d08a911f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_a3b09a97",
+    "event_id": "DC4",
+    "question": "How many children have been detained by the administration?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '23fea31fe028ff4b305b4a268b2e1073'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_7581864c",
+    "event_id": "DC4",
+    "question": "What is the story of a family detained in a US prison?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '04cdd339c9c2cb5380d5c83cfcaa9c04'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_9133975d",
+    "event_id": "DC4",
+    "question": "What is the role of the Marshall Project in this reporting?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '829831056edd391bfff5836b38a1695f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_d783b3dd",
+    "event_id": "DC4",
+    "question": "What are the inhumane conditions in immigration detention centers?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'ac7def6a477fd04e511a2b67f98a8d7f'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_9116b4c5",
+    "event_id": "DC4",
+    "question": "Why is the detention of children in immigration facilities a concern?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'b0d5e814357b0f4cb18e4359a6aa7622'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_47b5ce46",
+    "event_id": "DC4",
+    "question": "What is the history of private prison contracts in the US?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'cd8d8b558f9870060711a87ac13eb170'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_d3c78931",
+    "event_id": "DC4",
+    "question": "What is the current situation with child detention in immigration facilities?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'a3fe3f0ef2ae306c988e4c5bb00cf733'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_cc911e6a",
+    "event_id": "DC4",
+    "question": "How do Republicans contribute to the funding of these centers?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'a7f7515802f8d65611477a3b1757ba12'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_4766d68e",
+    "event_id": "DC4",
+    "question": "What is the best-case scenario for holding Republicans accountable for their actions?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '88c7747c8c3db23a6364965bf67e1941'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_ab733211",
+    "event_id": "DC4",
+    "question": "What are the Republicans' plans for ICE funding?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '80105a517a569204e9c4323b772b0144'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_ccfde82d",
+    "event_id": "DC4",
+    "question": "How does the administration plan to make detention conditions so miserable?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '059a0046af0454655e84fd2dc14fa842'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC4_b9bb4964",
+    "event_id": "DC4",
+    "question": "What are the implications of expanding the detention system?",
+    "required_documents": [
+      "DC4__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '2b1c9642b2b09a06fe4af0219b56b077'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_17e4432d",
+    "event_id": "DC6",
+    "question": "What is the current situation with immigration protests in Minnesota?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '730af474df09a87065ab1915cb1d5548'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_eceba547",
+    "event_id": "DC6",
+    "question": "Why is President Trump threatening to invoke the Insurrection Act?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '94c3f116b64f121839c29c7a90b56615'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_9dd6d25e",
+    "event_id": "DC6",
+    "question": "What role is the National Guard playing in the situation?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '329f4b313ed9c32958ee562cff887529'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_4627e984",
+    "event_id": "DC6",
+    "question": "What is the Trump administration's response to immigration protests in Minnesota?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3d47801f82d28e5036b6b40c67974809'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_acc857ed",
+    "event_id": "DC6",
+    "question": "How many arrests have been made by the DHS in Operation Metro Surge?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '0ba67d76f6582e481b42ac68ff34381d'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_c8d812b5",
+    "event_id": "DC6",
+    "question": "What crimes have been associated with the arrested individuals?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '8a5d875c322a875be224ce0949be5034'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_eea8b060",
+    "event_id": "DC6",
+    "question": "What is the White House's response to immigration protests in Minnesota?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'e32bae64b8da1b107a8115463fc5d736'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_251ada67",
+    "event_id": "DC6",
+    "question": "How many arrests have been made in the immigration crackdown in Minnesota?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '8c3b03008eb0d233bcd58f67d7a1f222'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_ae913f83",
+    "event_id": "DC6",
+    "question": "Why is the president targeting Somali immigrants in Minnesota?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'b190ad1e8d38e5462c82c4717197235a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_c10591c5",
+    "event_id": "DC6",
+    "question": "What is the Insurrection Act and how would it affect Minnesota?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '61526f16ae1aa01fbf117858ab913a1c'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_616ca4f8",
+    "event_id": "DC6",
+    "question": "What is the role of the Department of Homeland Security in the immigration protests in Minnesota?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '8fd0ca471e13f34a18d981575dc90e5c'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_c2cd132d",
+    "event_id": "DC6",
+    "question": "What is the Insurrection Act and how can it be invoked?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'fc81112a2f5741180892f028bacffc65'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_b27253ef",
+    "event_id": "DC6",
+    "question": "How has the president used the Insurrection Act in the past?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'e4642c6cde2a9e3571194747947cb235'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_173118ba",
+    "event_id": "DC6",
+    "question": "What are the implications of the president deploying the military to suppress domestic protests?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '5bf05d281a02d41de7abf307c3821314'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_bf29a355",
+    "event_id": "DC6",
+    "question": "What are the implications of invoking the Insurrection Act?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'f3ad3647a89bf12b66dbcd19029f1d42'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_aeacaf2b",
+    "event_id": "DC6",
+    "question": "How does the recent Supreme Court decision affect the president's power?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c7dc4e204a0aff62a92628132486072d'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_11d442c7",
+    "event_id": "DC6",
+    "question": "What are the current numbers on public approval of Trump's immigration handling?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'ed0ee20fcc4f323c1ea0ab1c356fce63'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_4ea93c97",
+    "event_id": "DC6",
+    "question": "What are the concerns of 2024 voters regarding immigration policies?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '459a36089522ed6bc482291a72974c1a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_20a725df",
+    "event_id": "DC6",
+    "question": "Do voters believe it's fair to deport illegal immigrants?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3b12fe3cb58dee1e848bae4e5bc9537b'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_6784f2c3",
+    "event_id": "DC6",
+    "question": "What are the specific issues with the government's immigration policies that voters are concerned about?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c26db433bee559634c55a12cc734af22'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_72f55be0",
+    "event_id": "DC6",
+    "question": "What are the concerns of the public regarding the government's immigration policy?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'c50e9d7df2b4f77ebe68832f8d14ba6b'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_18c9718d",
+    "event_id": "DC6",
+    "question": "How is the treatment of illegal immigrants affecting U.S. citizens?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'cf70f84351f8e6396d445567f43b4254'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC6_95a42609",
+    "event_id": "DC6",
+    "question": "What is the impact of the government's immigration policy on public perception?",
+    "required_documents": [
+      "DC6__Left__BroadcastOrInterview.json"
+    ],
+    "required_doc_types": [
+      "BroadcastOrInterview"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '89d2537e446142141ef5d45813fcec3d'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_697944d6",
+    "event_id": "DC7",
+    "question": "What is the latest incident of federal agents' violence against protesters?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '2b897d33ae09ae10b61823484c4a0255'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_ced73440",
+    "event_id": "DC7",
+    "question": "How has the Trump administration responded to criticism of its handling of protests?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '885a7a7e8cdd896e8e6c6f13a22ab630'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_c753033d",
+    "event_id": "DC7",
+    "question": "How does paramilitary gear affect federal agents' perception of protesters?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '1a42675d6bd32754292dc24e8b601e76'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_1b80ec75",
+    "event_id": "DC7",
+    "question": "Can paramilitary gear lead to increased violence against protesters?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '4610ad65ce147b3bb90cca4116a7ce2a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_488ff470",
+    "event_id": "DC7",
+    "question": "What is the impact of paramilitary gear on federal agents' behavior?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'df288215a393c7291a14b7684bd75515'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_745d4cae",
+    "event_id": "DC7",
+    "question": "What is the purpose of paramilitary gear in urban areas?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'f06b672ff472293b7e8ddb7a0f7b1319'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_1bc30146",
+    "event_id": "DC7",
+    "question": "How does the use of paramilitary gear affect federal agents' perception of protesters?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '58f8a645386fe67e217a7818634d703a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_533d9bfc",
+    "event_id": "DC7",
+    "question": "What is the purpose of the Trump administration's use of paramilitary gear?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '6ba0c87b7c9ff134b2e06f5939266129'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_33938935",
+    "event_id": "DC7",
+    "question": "Why do federal agents wear paramilitary gear?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '11692e7406bd9a45e655d23ee2bc4047'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_e71f2f89",
+    "event_id": "DC7",
+    "question": "What is the significance of ICE's use of camouflage in urban landscapes?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3095ba1c527eb44e332ab00c20851d08'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_2f011893",
+    "event_id": "DC7",
+    "question": "How does the use of paramilitary gear affect the perception of protesters and immigrants?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'e7b8226fc304170061f7906aa003a86e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_b8b016fa",
+    "event_id": "DC7",
+    "question": "What is the purpose of federal agents' use of paramilitary gear?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '60f39566423ea60243735d33c2b0ee1a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_56d222cb",
+    "event_id": "DC7",
+    "question": "What is the relationship between federal agents' theatrics and their competence?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '6829c420522b8e0179c4a82949102103'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_eb073492",
+    "event_id": "DC7",
+    "question": "How does the administration use paramilitary gear to terrorize immigrant communities?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '235f25624d34c3061724be338bff9558'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_e3954428",
+    "event_id": "DC7",
+    "question": "What is the purpose of ICE officers' intimidating presence?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '4cade35543d4a24371b665452b6afe66'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC7_fd5925d2",
+    "event_id": "DC7",
+    "question": "How does the use of paramilitary gear affect immigrant communities?",
+    "required_documents": [
+      "DC7__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'f9587642f92b0b6dd5557652289d1a18'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_4437846e",
+    "event_id": "DC8",
+    "question": "What rhetoric does the Trump administration use in ICE recruitment ads?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '110e943d313ff71c971073246b82e435'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_1fd98edd",
+    "event_id": "DC8",
+    "question": "What is the tone of the article regarding ICE's recruitment efforts?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '50deab01ae85d751773008177a3c437c'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_6bb0e4b2",
+    "event_id": "DC8",
+    "question": "How are ICE's recruitment ads targeting specific groups?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'ee8e9d41121ff0714b6b132a1c7f8e4b'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_3561e198",
+    "event_id": "DC8",
+    "question": "How does the Great Replacement conspiracy theory relate to ICE recruitment?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '23b23941a267f05b43150e7f9d389f43'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_9c88c87c",
+    "event_id": "DC8",
+    "question": "Who are the white women the administration has depicted as victims of undocumented immigrants?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'ab25a874a818dd7da5512c18ede28052'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_c5da163e",
+    "event_id": "DC8",
+    "question": "What is the purpose of ICE's recruitment ads?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '37e68c680ec5107ff7a1497c10b5e517'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_1c7914e1",
+    "event_id": "DC8",
+    "question": "What is the Great Replacement conspiracy theory?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3d004134e3ee3c596f072c168f80f522'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_7fdeac82",
+    "event_id": "DC8",
+    "question": "How does the Trump administration's ICE recruitment ads mobilize state-sponsored violence?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '505c6f4462c2974383ce59231b44ea56'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_d3764d82",
+    "event_id": "DC8",
+    "question": "What role do women play in the white supremacist ideology?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '65bb32038168580f9c0916006b299b45'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_b05ed5b1",
+    "event_id": "DC8",
+    "question": "What is the Trump administration's role in promoting violence against women?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '01eb3b0464c44f05d78f1c0632382903'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC8_cc7c6ced",
+    "event_id": "DC8",
+    "question": "How do ICE recruitment ads contribute to state-sponsored violence?",
+    "required_documents": [
+      "DC8__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '315a5a3b45f1cd24cafb8d6c95f3872e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_6e7a8f15",
+    "event_id": "DC9",
+    "question": "What happened to Liam Ramos?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '7dc8940ed0ef2277e729e15c9b951118'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_7f20de09",
+    "event_id": "DC9",
+    "question": "Why was a 5-year-old boy detained by ICE?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'da1c6640e8052b11b0d3832fa13f8044'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_ec0be4bc",
+    "event_id": "DC9",
+    "question": "What is the policy behind using children as 'bait' in immigration raids?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'dde4d71d2ee3e26ff077fa4217f8ec00'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_3f83123a",
+    "event_id": "DC9",
+    "question": "What is the story of Liam Ramos and why is it significant?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '4d08ac1059fe611287175215a3a2db2a'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_716b3613",
+    "event_id": "DC9",
+    "question": "How many children have been detained by ICE since President Trump's return to office?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '636eaf03a5bc4141da77bd434e61b344'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_1e6b1400",
+    "event_id": "DC9",
+    "question": "What is the impact of ICE raids on school populations?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3d512d19dd27026132ba604726a5b13b'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_c8c5c0c5",
+    "event_id": "DC9",
+    "question": "What is the current situation with the detention of children by ICE?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'ea16940f9abd6831685ffc1b77478527'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_af9ab850",
+    "event_id": "DC9",
+    "question": "How are the people of Minneapolis resisting the ICE raids?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': 'a120e062a0affa3ee035ab3136934f07'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  },
+  {
+    "question_id": "QA_DC9_b9f7abd9",
+    "event_id": "DC9",
+    "question": "What can be done to address the use of children as 'bait' in immigration raids?",
+    "required_documents": [
+      "DC9__Left__Commentary.json"
+    ],
+    "required_doc_types": [
+      "Commentary"
+    ],
+    "required_political_perspectives": [
+      "Left"
+    ],
+    "retrieved_chunk_ids": [],
+    "rag_answer": "[ERROR: Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '6701e316f314e8783191423e6a2d591e'}]",
+    "qa_model": "gpt-oss-120b",
+    "qa_provider": "chatai",
+    "embed_model": "e5-mistral-7b-instruct"
+  }
+]

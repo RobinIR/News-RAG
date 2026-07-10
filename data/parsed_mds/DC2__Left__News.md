@@ -1,0 +1,35 @@
+Federal prosecutors in Minnesota are being forced to turn over critical information on the shooting of Renee Good by Immigration and Customs Enforcement officer Jonathan Ross in relation to a separate case involving Ross.
+
+Prosecutors have until May 1 to provide a slew of records, including Ross's personnel file, to a magistrate judge to review and determine which files should be released. The materials could shine light on the killing of Good, an observer who died after Ross shot her during a January 7 confrontation amid a monthslong immigration crackdown in Minneapolis.
+
+The order came in response to a motion from the defense attorneys for Roberto Carlos Muñoz-Guatemala, a man who Ross attempted to apprehend in a separate confrontation in June. After Ross broke a window in Muñoz-Guatemala's car and fired his Taser, Muñoz-Guatemala drove away and was later convicted of dragging Ross with his car.
+
+Muñoz-Guatemala's defense attorney Eric Newmark praised the ruling as key to defending the rights of his client, but also important for public understanding of what transpired in the shooting of Good.
+
+"My client is entitled to a full hearing and to review these documents to determine whether there's any basis for a new trial," Newmark told The Intercept. "Ultimately, we're seeking dismissal of the charges against my client. This information is important because it will help me provide a full and complete defense."
+
+Beyond mounting an argument for a new trial or a reduced sentence, Newmark said the information could provide crucial information on Good's death to Minnesotans hungry for answers.
+
+"As Minnesotans, we're frustrated with the apparent lack of a full investigation, the lack of prosecution, and the lack of federal cooperation with local authorities," Newmark said.
+
+In addition to Ross's personnel and training file, the order issued Thursday in Minnesota federal court by Judge Jeffrey M. Bryan commands prosecutors to turn over records of statements Ross made in the 60 minutes before and during his shooting of Good; records of statements by Ross and other federal officials; witness statements regarding the Good killing; medical records pertaining to Ross's fitness for duty; cell data that might have been extracted from Ross's phone; body-worn camera footage of the incident; and more.
+
+Muñoz-Guatemala's case rose to prominence in January when Ross's identity as the shooter of Renee Good came to light, in part because both incidents involved Ross confronting a civilian in a car. Ross, a deportation officer based in the ICE field office in St. Paul, was attempting to detain Muñoz-Guatemala during a traffic stop on June 17, when Muñoz-Guatemala attempted to drive away. In the process, he dragged Ross, who had his arm thrust into the window, according to court records.
+
+On December 12, a jury found Muñoz-Guatemala guilty of one count of assault on a federal officer. After Ross's killing of Good was revealed, Newmark, Muñoz-Guatemala's attorney, submitted a request for post-conviction discovery, arguing that the facts of the Good case could be grounds for a new trial or support a lesser sentence for his client.
+
+"Even if this Court ultimately determines that Defendant is not entitled to a new trial based on newly discovered evidence, he must still be sentenced," Newmark wrote. "Given the recklessness of Ross' decision to step in front of Good's vehicle, the violence he showed by continuing to shoot at a vehicle that was passing harmlessly by, and the extreme callousness he displayed after it should have been clear that he either killed Good or injured her terribly, it would be reasonable to assume he presented similar danger to Defendant in June of 2025. However, without the full investigative file, Defendant cannot make that conclusion."
+
+If prosecutors comply with the order, the materials will not immediately be made public. The materials will go first to a magistrate judge who will determine their relevance to the defense team's case and perform any necessary redactions before handing it over to the defense. At that point, Muñoz-Guatemala's team would be able to review the material and use it as needed to mount a bid for a new trial or to present as mitigating factors warranting a reduced sentence. Barring a protective order sealing the information, whatever materials submitted as mitigation by the defense could then become a matter of public record.
+
+"This judge is effectively doing the investigation that the United States has turned its back on," said Shauna Kieffer, a defense attorney in Minneapolis.
+
+But Kieffer, who is not party to the case, expressed reservations about premature celebration of the transparency the order could provide.
+
+"I think because this order is so thoughtful and it's legally sound, that I think there's a strong chance that the government will dismiss this case if they're forced to go forward with complying with the order," she said.
+
+In a statement to The Intercept, Rep. Becca Balint, D-Vt., joined the calls for transparency.
+
+"I am glad to see this case finally moving into discovery, but let's be honest - it should never have taken this long to get here," said Balint. "Renee Good's family has been forced to wait for answers while DHS and ICE closed ranks. That's not how justice works in a healthy democracy. Her family deserves full transparency and accountability, and Americans need to see our government protect them and not just those in power."
+
+Spokespersons for the Minnesota U.S. Attorney's office and the Hennepin County District Attorney's office did not immediately respond to a request for comment.

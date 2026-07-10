@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "source": "DC4__Left__BroadcastOrInterview.html",
+    "political_leaning": "Left",
+    "news_type": "Broadcast/Interview",
+    "news_source": "MS Now",
+    "topic": "Deportation Campaign",
+    "published_date": "10 June 2025",
+    "title": "MS NOW EXCLUSIVE: Over 500 BABIES and TODDLERS have been detained by ICE under Trump's rule",
+    "source_link": "https://www.youtube.com/watch?v=7C9C-UbA0fE"
+  },
+  "chunks": [
+    {
+      "text": "on a disturbing trend that's happening\n\nat immigration detention centers all around\n\nour country impacting the youngest detainees.\n\nIn the first partnershipwith the Marshall Project,\n\nmy colleague Jacob Sobroff reports\n\non how 500 babies and toddlers have been\n\nheld in ICE detention since Donald Trump\n\nbecame president again last year.\n\nAccording to that reporting, quote,\n\nICE has dramatically increased detentions\n\nof children age three and under,\n\nholding 25 of them in custody on an average day\n\nbetween January of 2025 and March of this year.\n\nThat number is 10 times higher\n\nthan it was in the previous 12 months\n\nunder former president Joe Biden.\n\nBack then, on an average day,\n\nfewer than three babies\n\nand toddlers were held at facilities\n\nacross the country.\n\nThat age is a crucial timefor the human brain to\n\ndevelop\n\nand concern is growingover the lifelong damage\n\nbeing\n\ndone to those babies and toddlers.\n\nJacob spoke to a couple who fled Russia\n\nover their opposition to the war in Ukraine,\n\nworried about what spending months\n\nat the Delhi detention center has done\n\nto their one-year-old son,AMIR, HERE THEY ARE\n\nSPEAKING THROUGH TRANSLATORS.\n\nYOU LEFT RUSSIA BECAUSE YOU DIDN'T WANT TO GO TO PRISON,\n\nYET YOU GET TO THE UNITED STATES\n\nOF AMERICA AND YOU END UP IN A\n\nPLACE THAT TO YOU FEELS LIKE a prison,\n\nwhat was that like for you?\n\nWe came here to escape prison.\n\nWe wanted to be free.\n\nBut once we arrived in America,\n\nwe spent four months in detention,\n\nfour months in detention,118 days to be exact.\n\nIt's crazy to hold your sonlike this and look at this",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 0,
+      "end_line": 82,
+      "chunk_id": "2bc1bc1b0cb5ace7",
+      "title": "Immigration Detention Centers Concerns",
+      "summary": "The number of babies and toddlers held in ICE detention has increased dramatically since Donald Trump became president again, with 25 children under the age of three being held on average each day, a 10-fold increase from the previous 12 months under Joe Biden.",
+      "keywords": [
+        "immigration detention",
+        "ICE",
+        "children in detention",
+        "Donald Trump",
+        "Joe Biden"
+      ],
+      "entities": [
+        {
+          "name": "Donald Trump",
+          "type": "PERSON"
+        },
+        {
+          "name": "Joe Biden",
+          "type": "PERSON"
+        },
+        {
+          "name": "ICE",
+          "type": "ORG"
+        }
+      ],
+      "questions": [
+        "How many babies and toddlers are being held in ICE detention?",
+        "What is the increase in children under the age of three being held in ICE detention since Donald Trump became president again?",
+        "What was the situation like for the couple who fled Russia and ended up in a detention center in the US?"
+      ],
+      "key": "detention of children",
+      "related_keys": [
+        "immigration detention centers"
+      ],
+      "position_index": 0,
+      "previous_chunk_id": "",
+      "next_chunk_id": "75259d57eda8017d",
+      "token_count": 353
+    },
+    {
+      "text": "beautiful child\n\nin the face and think that for 118 days,\n\nthe three of you were locked up\n\nin a prison for families in the United States.\n\nI cannot imagine what it was like for you.\n\nIt was very hard not knowing when\n\nthey would let us go,\n\nwhere we would go or if they were\n\ngoing to deport us.\n\nEmma Snau and the Marshall Project\n\nreached out to DHS,\n\nbut the agency declined to answer\n\nspecific questions after we refused\n\nto provide identifying information\n\nabout our sources.\n\nDHS and ICE did, however,dismiss claims against Dili,\n\ncalling them, quote,media lies.\n\nJacob Soberoff is still with me\n\nand joining our coverage,\n\nformer DHS official and White House advisor,\n\nfounder of America's Promise,\n\nand senior fellow at Forward\n\nU .S., Andrea Flores.\n\nJacob, take us through the reporting.\n\nWell, I first want to say how grateful\n\nI am to both Kay Guerrero,\n\nmy colleague here at MSNOW and our partners\n\nat the Marshall Project.\n\nThis is the first in a series\n\nof reporting partnerships\n\nthat we're going to be doing\n\nwith the Marshall Project.\n\nAnd along with the Marshall Project,\n\nwe at MSNOW analyzed data\n\nfrom the deportation data project,\n\npublicly available data\n\nabout this largest mass deportation effort\n\nin American history and uncovered.\n\nIt was really plainly available\n\nfor anyone to see,\n\nbut it takes an in-depth analysis.\n\nYeah.\n\nlike only the Marshall Project can do,\n\nto see that 500 children,\n\nbabies and toddlers,have been detained by this\n\nadministration\n\nsince the very beginning.\n\nMany of them over the 20-day period\n\nunder statute,",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 84,
+      "end_line": 180,
+      "chunk_id": "75259d57eda8017d",
+      "title": "Detained Children's Story",
+      "summary": "A family of three, including a toddler, was detained in a US prison for 118 days, highlighting the administration's mass deportation efforts.",
+      "keywords": [
+        "detention of children",
+        "mass deportation",
+        "DHS",
+        "ICE"
+      ],
+      "entities": [
+        {
+          "name": "Donald Trump",
+          "type": "PERSON"
+        },
+        {
+          "name": "Joe Biden",
+          "type": "PERSON"
+        },
+        {
+          "name": "Emma Snau",
+          "type": "PERSON"
+        },
+        {
+          "name": "Jacob Soberoff",
+          "type": "PERSON"
+        },
+        {
+          "name": "Andrea Flores",
+          "type": "PERSON"
+        },
+        {
+          "name": "MSNOW",
+          "type": "ORG"
+        },
+        {
+          "name": "The Marshall Project",
+          "type": "ORG"
+        }
+      ],
+      "questions": [
+        "How many children have been detained by the administration?",
+        "What is the story of a family detained in a US prison?",
+        "What is the role of the Marshall Project in this reporting?"
+      ],
+      "key": "detention of children",
+      "related_keys": [
+        "detention of children"
+      ],
+      "position_index": 1,
+      "previous_chunk_id": "2bc1bc1b0cb5ace7",
+      "next_chunk_id": "245cfcb93115c572",
+      "token_count": 340
+    },
+    {
+      "text": "the Flores Settlement agreement\n\nthat is allowed under law.\n\nThe Biden administration didn't\n\ndetain any children\n\nin this age group for that amount of time,\n\nover 20 days.\n\nBut our reporting found that so many\n\nof these children have been held like Amir,\n\n118 days in the Dilley Detention Center in Texas,\n\nwhere I went with Congressman Joaquin\n\nCastro to see these conditions\n\nand the allegations of the situation\n\ninside thatfacility.\n\nWe have heard so many people talk about this,\n\nunsanitary conditions, improper food,\n\naccess to baby formula but not clean water to\n\ngo along with the baby formula.\n\nLittle Amir who you're looking\n\nat here I went to visit in Sacramento\n\nbasically could only\n\nFAMILY SEPARATION,THEY CALLED IT\n\nGOVERNMENT-SANCTIONED\n\nCHILD ABUSE AND TORTURE ACCORDING TO THE U .N.\n\nDEFINITION, THAT WAS PHYSICIANS FOR HUMAN RIGHTS.\n\nTHIS IS A DIFFERENT VERSIONOF THE SAME POLITICAL\n\nSTRATEGY\n\nTHAT REALLY IS JUST MASKINGCRUELTY TOWARDS CHILDREN.\n\nI THINK ANYBODY WHO IS A CHILD WELFARE EXPERT\n\nWOULD TELL YOU THAT.\n\nAND THESE KIDS, AND GO READ OUR STORY ON MSNOW,\n\nMS .NOW RIGHT NOW, WILL HAVE A LIFETIME OF\n\nTRAUMA BECAUSE OF WHAT THEY'RE EXPERIENCING\n\nRIGHT NOW UNDER THIS ADMINISTRATION ON THE\n\nSERVICE OF DONALD TRUMP'S POLITICAL GOALS?\n\nWELL, EVEN THE PEOPLE THAT VOTED FOR HIM,\n\nI LIKE TO THINK DIDN'T VOTE FOR THIS.\n\nI MEAN, THIS WAS ABOUT CRIMINALS.\n\nTHIS WAS ABOUT VIOLENCE.\n\nTHE VIDEOS THAT HE SHOWED AT HIS RALLIES\n\nBEFORE HE CAME OUT AND TALKED TO\n\nTHIS CASE, AND IT WASN'T THAT HARD TO FIND.\n\nALSU' AND AZAT, AMIR'S PARENTS,",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 182,
+      "end_line": 264,
+      "chunk_id": "245cfcb93115c572",
+      "title": "",
+      "summary": "",
+      "keywords": [],
+      "entities": [],
+      "questions": [],
+      "key": "",
+      "related_keys": [],
+      "position_index": 2,
+      "previous_chunk_id": "75259d57eda8017d",
+      "next_chunk_id": "6bbe90ce9003901e",
+      "token_count": 414
+    },
+    {
+      "text": "FLED Russia because they were\n\ngoing to be political prisoners\n\nfor opposing the war\n\nin Ukraine.\n\nWhen they showed up here,ostensibly allies of this\n\ncountry\n\nand political asylum seekers,\n\nthey were put into detention for four\n\nmonths and their child, according to them,\n\nwas mistreated by the not just\n\nby the United States government but by\n\nCoreCivic,which is important to\n\nunderline.\n\nA for-profit prison company detaining children\n\nand making money off of it.\n\nOf course, as you said,DHS and ICE and CoreCivic\n\nall say\n\nthat this is a family-friendly\n\nenvironment,that kids are treated well,\n\nthat these are up to standards,\n\nthat everybody's going to be okay\n\nonce they're inside there.\n\nBut the facts that were uncovered\n\nin this investigation showed\n\nthat just on the numbers alone,\n\nkids are being held longer\n\nthan they're supposed tounder the law in a facility\n\nlike this,\n\nwhether they are treated well or not.\n\nAndrea, what is WHAT IS THE BEST-CASE\n\nSCENARIO FOR HOW TO SHED LIGHT ON WHAT'S\n\nHAPPENING TO YOUNG KIDS AND FAMILIES?\n\nWELL, I THINK\n\nI THINK THAT CONGRESSMAN LOAQUIN CASTRO\n\nHAS BEEN LEADING THE WAY IN EXPOSING WHAT'S\n\nHAPPENING AT A FACILITY LIKE THE DILLY\n\nFAMILY DETENTION CENTER,\n\nBUT I THINK THE DEMOCRATSIN THIS MIDTERM YEAR NEED\n\nTO BE FAR MORE\n\nDIRECT AND SAY THAT FAMILY detention is\n\nnot necessary to enforce immigration law.\n\nAnd they really need to be doing a more\n\nunified call to shut that facility down,\n\nbecause there is no legal reason\n\nthat a family needed to have been\n\nin detention for FOR OVER 100 DAYS.\n\nWE KNOW THAT THERE IS ESSENTIALLY",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 266,
+      "end_line": 358,
+      "chunk_id": "6bbe90ce9003901e",
+      "title": "",
+      "summary": "",
+      "keywords": [],
+      "entities": [],
+      "questions": [],
+      "key": "",
+      "related_keys": [],
+      "position_index": 3,
+      "previous_chunk_id": "245cfcb93115c572",
+      "next_chunk_id": "895181186868e014",
+      "token_count": 380
+    },
+    {
+      "text": "NO SAFE WAY TO DETAIN A CHILD,\n\nAND THIS IS REALLY JUST AWELL- RECORDED ABBERATION.\n\nAS JACOB SAID,IT'S NOT HARD TO FIND THESE\n\ncases\n\nand going back to what people voted for,\n\nwhat they didn't vote for.\n\nTo do mass deportations,it was always going to\n\nrequire mass detentions\n\nbecause it's part of the cycle to deport people.\n\nAnd so it's really going to get far worse\n\nbefore it gets better.\n\nSo if you do not succeedin shutting down some of\n\nthese facilities\n\nand also cutting some of these privatization,\n\nlooking at the contracts,\n\nreally exposing the corruption\n\nof these contracts.\n\nThis is a system that when I worked\n\nfor the Obama administration,\n\nthey got rid of private prison contracts\n\nin federal prisons but they left them\n\nin immigration detention centers.\n\nSo there is work to be doneif Democrats are going to\n\nregain power\n\nbut I think a first basic ask is\n\nto close dealing.\n\nWhat do you know from these interviews\n\nand your reporting about what else is going on.\n\nThe bottom line is when they're\n\ninside these facilities,\n\nit's a circumstance that I don't think\n\nanybody who is a parent of a child\n\nof any age would want to be in.\n\nThe allegations include lights being\n\non overnight.\n\nAl-Soo and Azad said they had to\n\nsteal food in order to feed baby Amir so\n\nthat he was nourished enough\n\nbecause the food that they were\n\ngetting was not appropriate,\n\nage appropriate for the child,\n\nthe bedding situation.\n\nYou know, you name it,they could tell you that it\n\nwasn't\n\nwhat the type of care nor custody\n\nthat they would want to put their child in.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 360,
+      "end_line": 450,
+      "chunk_id": "895181186868e014",
+      "title": "Detention of Children in Immigration Facilities",
+      "summary": "The speaker discusses the inhumane conditions in immigration detention centers, including the detention of children, and the need to close these facilities and cut privatization contracts. They also mention the Obama administration's decision to end private prison contracts in federal prisons but not in immigration detention centers.",
+      "keywords": [
+        "immigration detention centers",
+        "child detention",
+        "privatization contracts",
+        "Obama administration",
+        "immigration reform"
+      ],
+      "entities": [
+        {
+          "name": "Obama administration",
+          "type": "ORG"
+        },
+        {
+          "name": "Amir",
+          "type": "PERSON"
+        },
+        {
+          "name": "Al-Soo",
+          "type": "PERSON"
+        },
+        {
+          "name": "Azad",
+          "type": "PERSON"
+        }
+      ],
+      "questions": [
+        "What are the inhumane conditions in immigration detention centers?",
+        "Why is the detention of children in immigration facilities a concern?",
+        "What is the history of private prison contracts in the US?"
+      ],
+      "key": "child detention",
+      "related_keys": [
+        "detention of children"
+      ],
+      "position_index": 4,
+      "previous_chunk_id": "6bbe90ce9003901e",
+      "next_chunk_id": "c5304e88ad88a533",
+      "token_count": 358
+    },
+    {
+      "text": "And like I said,when I was sitting there\n\nacross\n\nfrom them in Sacramento,look at this beautiful boy.\n\nThe idea that a child, I mean,\n\nlet's just slow down and say it.\n\nThe fact that we have prisons and jails\n\nfor families in the United States\n\nof America is an insane thing to say.\n\nAnd these people are here to seek\n\npolitical asylum because they feel\n\nlike they will be thrown into a place like this,\n\nultimately.\n\nSo so this weekend on Saturday,\n\nwe're going to run almost the entire 17\n\nminute report on my show\n\nstarting at 10 a .m.\n\non the East Coast, because we feel\n\nlike it's so important for people to spend time\n\nwith us and sit in it really marinated.\n\nLook at what Joaquin Castro is doing\n\nby bringing his colleagues down there\n\nover and over again.\n\nHe has gone in to try to pull individual cases,\n\nkids out of this facility.\n\nBut there are still children\n\nas we sit here 25 on average a day\n\nthat are locked up in immigration custody\n\nand that that's still is going on.\n\nWe only have data up until March of this year.\n\nWe don't know what has happened since March,\n\nand that's why we're going to continue\n\nto dig on it.\n\nAndrea, I take your point about Democrats,\n\nbut Republicans are the ones who vote\n\nto continue to fund these centers.\n\nI mean, AND WHAT IS THE,I ASKED YOU ABOUT THE\n\nBEST-CASE SCENARIO.\n\nI MEAN, WHAT IS THE BEST-CASE\n\nSCENARIO FOR HOLDING REPUBLICANS\n\nACCOUNTABLE FOR SOMETHING MORE\n\nCRUEL THAN EVEN WHAT TRUMP DID\n\nIN THE FIRST TERM?\n\nWELL, REPUBLICANS SHOULDN'T BE IN THE HOUSE,\n\nshould not be funding the president's",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 452,
+      "end_line": 538,
+      "chunk_id": "c5304e88ad88a533",
+      "title": "Child Detention Criticism and Accountability",
+      "summary": "The speaker criticizes the detention of children in immigration facilities, highlighting the need for accountability and the importance of addressing this issue. They also discuss the role of Republicans in funding these centers and the need to hold them accountable.",
+      "keywords": [
+        "child detention",
+        "immigration facilities",
+        "accountability",
+        "Republicans",
+        "funding"
+      ],
+      "entities": [
+        {
+          "name": "Joaquin Castro",
+          "type": "PERSON"
+        }
+      ],
+      "questions": [
+        "What is the current situation with child detention in immigration facilities?",
+        "How do Republicans contribute to the funding of these centers?",
+        "What is the best-case scenario for holding Republicans accountable for their actions?"
+      ],
+      "key": "child detention",
+      "related_keys": [
+        "detention of children"
+      ],
+      "position_index": 5,
+      "previous_chunk_id": "895181186868e014",
+      "next_chunk_id": "47dc635d8d00da9d",
+      "token_count": 378
+    },
+    {
+      "text": "budget requests to give even, you know,\n\na huge historic sum\n\nfor the next two years to ICE\n\nto continue to run these contracts.\n\nBut they're going to.Senate Republicans did.\n\nThey put in no accountability features\n\nfor these family detention facilities,\n\nwhich isn't a surprise,because while we're talking\n\nabout detention,\n\nthis administration is doing\n\nsomething we've never seen\n\nin the immigration detention context,\n\nwhich is they call it a choice\n\nbecause their goal is not to make\n\nthe conditions livable\n\nor adhere to legal standards.\n\nTheir goal is to make them so miserable\n\nthat people self-deport.\n\nThey put that in every statement.\n\nThey say detention is a choice, you can leave.\n\nSo this is how they're really putting\n\nthe pressure on families.\n\nAnd so Republicans, once again,\n\nthis is a midterm election year.\n\nIt's why Democrats do need to\n\ncrank up that contrast\n\nbecause Republicans are about to to vote,\n\nto fund and expand this type\n\nof system into warehouses,into other facilities that\n\nare\n\neven less fit than Dilley to hold children.\n\nSo I keep saying this will get worse\n\nbecause there are unfettered resources\n\nthat the Republicans are giving to Trump\n\nfor mass deportations.\n\nAnd so I think voters really need to understand\n\nwhat that means going forward.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 540,
+      "end_line": 612,
+      "chunk_id": "47dc635d8d00da9d",
+      "title": "ICE Funding and Detention Practices",
+      "summary": "The speaker criticizes Senate Republicans for funding ICE without accountability features for family detention facilities, highlighting the administration's goal of making conditions so miserable that people self-deport. This is part of a larger strategy to expand the system into warehouses and other facilities.",
+      "keywords": [
+        "ICE funding",
+        "family detention",
+        "detention facilities",
+        "self-deportation",
+        "immigration detention"
+      ],
+      "entities": [
+        {
+          "name": "ICE",
+          "type": "ORG"
+        },
+        {
+          "name": "Trump",
+          "type": "PERSON"
+        }
+      ],
+      "questions": [
+        "What are the Republicans' plans for ICE funding?",
+        "How does the administration plan to make detention conditions so miserable?",
+        "What are the implications of expanding the detention system?"
+      ],
+      "key": "detention practices",
+      "related_keys": [
+        "detention of children"
+      ],
+      "position_index": 6,
+      "previous_chunk_id": "c5304e88ad88a533",
+      "next_chunk_id": "",
+      "token_count": 269
+    }
+  ]
+}

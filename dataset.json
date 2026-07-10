@@ -1,0 +1,71 @@
+{
+    "Deportation Campaign": [
+        {
+            "id": "DCL1",
+            "url": "https://theintercept.com/2026/01/27/cbp-congress-dhs-death-report-alex-pretti/",
+            "title": "Read the Report on Alex Pretti’s Killing — and the Bizarre Q&A CBP Gave Congress First",
+            "news_source": "The Intercept_",
+            "political_leaning": "Left",
+            "news_type": "News",
+            "published_date": "27 January 2026",
+            "topic": "Deportation Campaign",
+            "filename": "DC1__Left__News"
+        },
+        {
+            "id": "DCL2",
+            "url": "https://theintercept.com/2026/04/09/renee-good-killing-minneapolis-jonathan-ross-videos/",
+            "title": "Government Ordered to Turn Over Files on ICE Agent Who Killed Renee Good",
+            "news_source": "The Intercept_",
+            "political_leaning": "Left",
+            "news_type": "News",
+            "published_date": "09 April 2026",
+            "topic": "Deportation Campaign",
+            "filename": "DC2__Left__News"
+        },
+        {
+            "id": "DCL3",
+            "url": "https://theintercept.com/2026/01/16/trump-abolish-ice-renee-good-jonathan-ross/",
+            "title": "Trump’s War on America",
+            "news_source": "The Intercept_",
+            "political_leaning": "Left",
+            "news_type": "News",
+            "published_date": "16 January 2026",
+            "topic": "Deportation Campaign",
+            "filename": "DC3__Left__News"
+        },
+        {
+            "id": "DCL7",
+            "url": "https://www.motherjones.com/politics/2026/01/how-ice-dresses-cbp-minneapolis-military-theater-of-war/",
+            "title": "ICE’s Theater of War",
+            "news_source": "Mother Jones",
+            "political_leaning": "Left",
+            "news_type": "Commentary",
+            "published_date": "29 January 2025",
+            "topic": "Deportation Campaign",
+            "filename": "DC7__Left__Commentary"
+        },
+        {
+            "id": "DCL8",
+            "url": "https://www.motherjones.com/politics/2026/01/ice-violence-misogyny-renee-good-alex-pretti/",
+            "title": "ICE Violence Is Fueled by Misogyny and White Nationalism",
+            "news_source": "Mother Jones",
+            "political_leaning": "Left",
+            "news_type": "Commentary",
+            "published_date": "28 January 2026",
+            "topic": "Deportation Campaign",
+            "filename": "DC8__Left__Commentary"
+        },
+        {
+            "id": "DCL9",
+            "url": "https://www.motherjones.com/politics/2026/01/liam-ramos-ice-photos-detention/",
+            "title": "They Want to Tell You a Kid With a Spider-Man Backpack Is Evil",
+            "news_source": "Mother Jones",
+            "political_leaning": "Left",
+            "news_type": "Commentary",
+            "published_date": "23 January 2026",
+            "topic": "Deportation Campaign",
+            "filename": "DC9__Left__Commentary"
+        }
+
+    ]
+}

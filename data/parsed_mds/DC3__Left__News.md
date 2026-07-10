@@ -1,0 +1,399 @@
+Immigration and Customs Enforcement agent Jonathan Ross fatally shot Renee Good, a 37-year-old mother of three, in Minneapolis last week, unleashing a wave of anti-ICE protests and sentiment throughout Minnesota and the rest of the United States.
+
+On Wednesday evening, federal immigration agents shot and wounded a man in Minneapolis, adding to the tension in the Twin Cities. President Donald Trump threatened to send in troops to crush the unrest.
+
+"What should be very clear to all Americans now is that there is no way to wage war on 'illegal immigration' without also waging war on American citizens," says Adam Serwer, staff writer at The Atlantic.
+
+This week on The Intercept Briefing, host Jessica Washington examines how the Trump administration's brutal deportation agenda is unfolding in Minnesota, sparking national backlash and renewed demands to abolish ICE; the historical legacy of immigration enforcement in the U.S.; and the administration's racist vision of reshaping American society.
+
+First, Minnesota Public Radio reporter Jon Collins shares an update on the Trump administration's siege. "The national audience needs to understand this is not just unrest, this is not just protests. ... This is an invasion," says Collins. "The justification from this administration, the way that they're portraying what's happening here in Minnesota - it almost turns on its head how we think about our constitutional rights in this country. Instead of protecting the citizens from the government, what they're arguing for is protecting law enforcement from any transparency, from any accountability to the people."
+
+"The biggest organization of terror in this moment is the Department of Homeland Security," says Rep. Delia Ramirez, who shared exclusively with The Intercept that she is introducing legislation to limit the use of force by DHS agents.
+
+The Illinois congresswoman described the bill as the "bare minimum" to curb DHS's abuses, calling for Democrats to use the appropriations process to "hold" funding to the agency and ultimately dismantle it.
+
+"Every single Democrat and every single Republican should be able to sign on to this bill," says Ramirez. "Because it's basic, bare minimum, and not signing on is indicating that you're OK with what's happening on the streets."
+
+"What we're seeing today has a long history," says Adam Goodman, a historian at the University of Illinois Chicago. Federal immigration agencies' budgets depend "on apprehensions, detentions, and deportations." That "institutional imperative," he says, "is going to lead to all kinds of problems, including incredible discretionary authority ... and tremendous abuses."
+
+Serwer points out "the violence that you're seeing that federal agents are engaging in against observers, against activists, not just against immigrants, is a reflection of [an] ideological worldview. Which is that those of us who do not agree with Donald Trump are not real Americans and are not entitled to the rights that are due us in the Constitution, whether or not we have citizenship." He adds, "The truth is, a democracy cannot exist when it has an armed uniformed federal agency who believes that its job is to brutalize 50 percent of the country."
+
+Listen to the full conversation of The Intercept Briefing on Apple Podcasts, Spotify, or wherever you listen.
+
+Transcript
+
+ICE Invades the Twin Cities
+
+Jessica Washington: Welcome to The Intercept Briefing, I'm Jessica Washington.
+
+Since ICE agent Jonathan Ross fatally shot 37-year-old Renee Good last week, the Trump administration has deployed about a 1,000 more immigration agents to the Minneapolis area. That's on top of the roughly 2,000 federal agents already in the area to conduct the "largest immigration operation ever," according to Trump administration officials.
+
+Minnesota Sen. Amy Klobuchar: There are like 600 sworn-in officers in Minneapolis, and 550 or so in St. Paul. The ICE agents are literally overwhelming our own police force.
+
+JW: As the city becomes the latest target of the administration, yet again, we see a wave of videos on social media showing heavily armed masked immigration agents tackling, dragging, shoving, and intimidating people.
+
+Sound of tape from ICE arresting Jose Roberto Beto Ramirez: [Whistle sounds] Let them scan your face. ... Why did you hit him? No. [Screaming.]
+
+Sound of tape of federal immigration agents tackling Target employee:
+
+Unknown speaker: What's your name?
+
+Johnny Garcia: Johnny Garcia. Jonathan Aguilar Garcia. ... I'm a U.S. citizen.
+
+Sound on tape of ICE carrying a woman from her vehicle: I'm autistic, and I have a brain injury! Put me down! I was just trying to get to the doctor ...
+
+Sound on tape from Noah and Judy Levy's ICE encounter:
+
+Unknown agent: Hello, Judith.
+
+Judy Levy (SOT): Do not threaten me. ... God bless you.
+
+Judy Levy: And as more people started showing up and people were honking their horns and making a commotion, they started driving away. So we started following, and they led us to our house.
+
+JW: That last clip is of Noah and Judy Levy, a St. Paul couple who were observing Immigration and Customs Enforcement agents. The Levys were speaking to Minnesota Public Radio reporter Jon Collins. He joins me now to talk about the latest from the Twin Cities.
+
+Jon, welcome to The Intercept Briefing.
+
+Jon Collins: Thanks so much for having me,
+
+Jessica Washington: Jon, we just heard a clip of your interview with a couple from St. Paul, Minnesota, telling you about their encounter with immigration agents on the street the day before Renee Good was killed. Can you tell us more about that interaction?
+
+JC: We had heard many different accounts from observers that they were being intimidated by ICE and other federal agents. And so I tried to track down some of the people who had direct experiences with it, and these are some of the folks who were willing to talk on the record.
+
+They told me they went out. They heard there was a caravan of ICE agents staging in a vacant parking lot near their home. They went out with other neighbors. What typically happens happened - which is that the ICE agents stopped the observers, they surrounded the cars, they started yelling at them, they threatened them with arrest, that sort of thing. But the Levys, in this particular case, after this incident, after they were stopped, kept following. And one of the officers had come up to Judy's window and scanned her license plate, took pictures of her, of course, and then said, "Hello, Judith."
+
+So that's when they first realized that the feds were using some sort of tool to identify them, but they didn't know the extent of it because as they continued to follow this ICE caravan, the ICE caravan drove onto their street. And they have video showing ICE agents out in front of their house.
+
+At that time, they were advised by other observers to go to a safe place. But they were shocked that ICE agents were somehow able to access their private data in order to - what they saw as - intimidate them.
+
+JW: Have you investigated other stories that are similar? Are there other types of surveillance happening in Minneapolis that you've encountered?
+
+JC: There's certainly a lot going on especially since the surge here started, the ICE surge, started in December and that had fewer agents, but they've been sending more and more agents here. There's all sorts of allegations of different tools that ICE agents are using to identify people.
+
+Facial scanners is one, and that's both for immigrants, that they want to look in their database and see if they're wanted for any immigration violations - a civil violation, again, not a criminal violation. But also for citizens. So that will be observers, that will be bystanders.
+
+And what people are alleging is that ICE uses this information. And remember, ICE are masked agents, they're not identified, they don't typically almost ever have a badge or a number or anything really that holds them accountable - including what agency they're a part of.
+
+DHS, we know, the Department of Homeland Security, has many different federal agencies under its auspices. Not all of the folks on the street are ICE. And in fact, Border Patrol has showed up in force recently, and they have quite aggressive tactics even compared to ICE. So people have been reporting concerns about federal agents accessing their private information and using all these technologies for weeks now.
+
+And I should say, Homeland Security does not respond to requests for comments. They don't respond to media questions, and they will not deny or confirm or even acknowledge what tools agents might be using. It's really a black box, and it causes a lot of concern for privacy advocates.
+
+JW: Yeah, that's a really good point: The conflation of agents in the street and a lot of confusion and focus on ICE. I was hoping you could give us a little bit of background on why they're in Minnesota in the first place.
+
+JC: What people are saying is that Minnesota is the home of Gov. Tim Walz. He was the vice presidential candidate who ran against Donald Trump. And people are saying this really fits the pattern that we see across the country of retaliation, using the power of the federal government - in this case, it would be federal agents and immigration enforcement - to retaliate against political enemies.
+
+Minnesota, I should say, is kind of a blue state. It can be relatively close. We don't have any statewide elected Republican officials, and we haven't in many years. So in the Midwest, folks will say, we are a pocket of blue surrounded by red. People see some sort of action from the federal government as retaliation for not being loyal enough to the president, essentially.
+
+Then there have been things in the news about fraud that people see being used as a pretext to come to Minnesota to demonize Somali Americans who have been a longtime community here. That is alarming to a lot of people, because Somali Americans - the vast majority are U.S. citizens.
+
+So when ICE agents are driving around town, masked-up, in very small groups, and grabbing Somali Americans off the street, the vast majority of them, the people being hassled, are U.S. citizens. So people think that the pretext of immigration enforcement is just that it's a pretext. And what they really want to do is enforce some sort of political orthodoxy on the state of Minnesota and on the people here.
+
+JW: I want to get into the reaction from people in Minneapolis and in the Twin Cities in general. Thousands of people have taken to the streets, protesting against the presence of ICE agents after an officer fatally shot Renee Good, a mother of three, who was acting as a neighborhood observer.
+
+Jon, what have you been hearing from residents about how they're responding to the shooting and to ICE's, and as you've pointed out, larger federal agencies' presence within the city?
+
+JC: I think one thing a national and international audience needs to understand is what we're seeing here is not like what happened after George Floyd here and in other places around the country. Of course, there have been vigils after Renee Good was shot and killed by an ICE agent. Of course, there was a vigil of 10,000 people in the neighborhood, and there have been protests. There was 20,000 people a mile from here over the weekend.
+
+But most of what is happening is not what we think of as "protests." It's not clashes between protesters and federal agents. What is happening is we have groups of masked armed federal agents, not identifying themselves, roving around the cities in caravans - and then we have neighbors, some activists, but also many normal people.
+
+One person who's been working with these folks describes it as "normie Target moms." Essentially these are folks, just normal people who are coming out of their houses when they hear the whistling, which is the signal that folks use to alert the neighborhood that ICE is around. When they hear honking, they're coming out, they're trying to use their constitutional rights to observe law enforcement.
+
+Most of the instances where you see someone being pepper-sprayed, someone being tased, ICE agents breaking a window and pulling an observer out of a car - those are not protest situations. That is a response from the community that is trying to, they say, keep their neighbors as safe as possible at a time when we have thousands of these agents in our communities.
+
+I just want to say really quickly that this is not just in the core cities of Minneapolis and St. Paul, the Twin Cities. This is not just in the lefty neighborhoods in Minneapolis and St. Paul. This is happening all over the state. The enforcement is happening all over the state, and then the response is happening all over the state.
+
+When ICE agents conduct some sort of action in a place like St. Cloud, Minnesota, a small town, the neighbors are coming out in the same way that they're coming out in the core cities of Minneapolis and St. Paul, because these are the folks who work at their coffee shops, they work at their restaurants, they're co-workers, they're friends.
+
+So this enforcement action is so broad and unprecedented, and folks across the state are really trying to meet peacefully and observe and use their constitutional rights to express their opposition to what's being done to this state.
+
+JW: I think for many of us who watched that video of ICE agent Jonathan Ross shooting Renee Good, watched it from multiple different angles. It evokes a lot of fear. And I guess my question is, from what you're seeing, is the anger and the love for their neighbors - is that outweighing the fear in people right now?
+
+JC: What's shocking to me is, every time I talk to someone who say they were an observer, they got taken down in 20 below weather kept on the ground, handcuffed, dragged away, brought to detention, all these different circumstances - everyone I talk to says what they see as harassment and intimidation that they experience only makes them more resolved to go out and use their constitutional rights to observe what's happening and express opposition to it.
+
+JW: I want to talk about some of those violent incidents that you've documented. Federal agents in Minneapolis and throughout Minnesota have violently clashed with protesters throughout the week. What can you tell us about these interactions and how they've been playing out in the state?
+
+JC: It's all over the Twin Cities specifically, but all over the state. And typically what's happened is ICE agents will go around in a caravan. It's not clear that they have, for the most part, any actual enforcement plan, but they'll drive around.
+
+It just happened down the block here. Two people were detained by ICE at a bus stop, and observers show up because typically they're trailing these officers trying to keep tabs on what they're doing.
+
+They will let their networks know. They use Signal and other apps to communicate with other folks in the community, and they will start honking. They'll blow their whistles. And people from all over the city or all over the neighborhood will show up and express their opposition to it. So some people are recording, some people are yelling, but for the most part, people are not impeding law enforcement.
+
+But the clashes that we see are when, typically, ICE decides "OK, people are too close," or "We want to get out of here." Or many people have told me stories that they don't even know why an ICE agent was acting in a certain way. The Minneapolis City Council president was out on a scene the other day, and video captured ICE agents - for no reason - just pushing him as hard as they could. And they pull out pepper spray and randomly use that.
+
+The City Council president told me there's an officer just running around, putting his Taser to people's chests or to people's arms, threatening them. Not for any security reason, not from what we can tell, any reason connected to their job. But because there is no accountability for these ICE agents.
+
+They know they're not going to be disciplined. They're clear with a message from the administration - from the top down - that anything they do, including, the shooting of a mother of three in the face, is going to be defended by the administration. So there's a sense that they're acting without accountability and that, that is really inspired by a lot of the rhetoric that we hear coming out of this administration.
+
+JW: Where are city and state officials in all of this? What efforts have we seen from local representatives to push back on DHS in their state and in their cities?
+
+JC: So Minneapolis and St. Paul have both had separation ordinances for a while that blocks the city agencies and officials from cooperating with federal immigration enforcement. And that includes the police in both cities.
+
+They have found themselves, in the cities, in a very strange situation because you have essentially all these unaccountable masked, mostly anonymous, federal agents running around town - some who are using excessive force on citizens and on immigrants they're trying to detain. And the police, for the most part, have steered clear of showing up to those scenes.
+
+The police chief has said, if you see them, call 911, but police so far have not intervened on the side of citizens or protesters. That's why so many of the observers who are out there say, "It's our responsibility to put our bodies on the line to go out there, because the state's not going to come out and protect us. The local law enforcement that we pay is not gonna come out and protect us." So they say, "We need to protect us."
+
+And I should say much of the infrastructure for this movement of observers and ICE watchers came out of protests after George Floyd was killed in 2020. Many of the neighborhood groups that were formed in places like my neighborhood - the WhatsApp channels, the Signal channels - were ways that our neighbors communicated with one another to set up things like patrols when police were not patrolling our streets, to make sure that arsons did not happen in our neighborhoods.
+
+So these really evolved into ways that people organized the resistance to this current push by the administration here. And people are really of the opinion that the national audience needs to understand this is not just unrest, this is not just protests.
+
+An attorney I talked to just a few minutes ago said, "This is an invasion." And people need to understand the scale of it: 3,000 law enforcement agents - that's about 1 for every 1,000 residents.
+
+JW: Before we go, any final thoughts?
+
+JC: The justification from this administration, the way that they're portraying what's happening here in Minnesota - it almost turns on its head how we think about our constitutional rights in this country. Instead of protecting the citizens from the government, what they're arguing for is protecting law enforcement from any transparency, from any accountability to the people.
+
+We have ICE agents who they say they're afraid are being doxed, which is not a legal term, of course. But we have a principle in this country that officials, we should know who officials are. We're vesting them with authority; we're vesting them with power. Therefore, the trade-off is we say, OK, we should know who these people are. We should be able to hold them accountable when they abuse these fundamental rights that are happening. But this administration has turned the Constitution on its head.
+
+We see this in Renee Good's killing too, where they are saying that citizens, instead of being given these constitutional rights as just an assumption, that citizens need to earn their constitutional rights by acting appropriately, by respecting law enforcement, by not yelling at law enforcement.
+
+And that is just the opposite of what our traditions here are in the United States. I want the national audience to understand that that's what's happening here. It's not just clashes between protesters and ICE; it's an attack on basic rights that we've taken for granted.
+
+JW: Thank you so much for that update, Jon.
+
+JC: Thanks for having me.
+
+Rep. Delia Ramirez on Her Efforts to Stop DHS Violence
+
+JW: Wednesday evening protests erupted in Minneapolis after ICE shot a man, hitting him in the leg. President Donald Trump threatened to invoke the insurrection Act and send troops into the city to crush protests.
+
+Next, I speak to Democratic congresswoman of Illinois, Delia Ramirez, who is introducing a bill that will limit the use of force by Department of Homeland Security agents. This is our conversation.
+
+JW: Can you walk me through the bill that you're introducing and why?
+
+Delia Ramirez: The bill that I'm introducing, Jessica, is called "The DHS Use of Force Oversight Act." And it's a bill that actually codifies that the Department of Homeland Security must have a use of force policy that really also focuses on deescalation.
+
+What you and I have been seeing around the country - not just last Wednesday - since the Trump administration took power is this brute, savage attack of our communities and this undermining of rule of law by ICE agents.
+
+Because in reality, there isn't any real use of force policy that is being followed by this administration. After what happened on Wednesday, so many of us knew that a use of force policy needed to be codified from this body as quickly as possible, which is what this bill does, but it's not just creating a policy. It also clearly and consistently specifies that there has to be deescalation as the preferred method of engagement.
+
+And I think the second piece of it, Jessica, that I think is so important, is that it also establishes a review committee to ensure that agents are in fact being trained. You and I both know - we have no idea where these agents are coming from. Have they been with the agency for 10 years? Did they get hired last week at one of their little gatherings that they do or via online? They're not really doing background checks. So this actually establishes a review committee, making sure that agents are in fact being trained and following the techniques that promote public safety over violence and harm.
+
+And then the third part of it: It requires DHS publish a report every six months, including the data of every use of force incident for transparency and accountability. We know that even under the Biden administration in 2023, the GA under-reported many incidents within the administration then. So for us, it's really important that we're doing it every six months and that that report is being published for us to be able to see what in fact is happening on the ground.
+
+JW: What does the agency currently say about use of force and what agents are allowed to do and what accountability metrics do exist?
+
+DR: I would say that most of us would argue that there's no accountability metrics right now. That what ends up happening is, an agent harasses, beats, shoots, and kills an individual - whether it's Silverio Villegas-Gonzalez in Chicago, or Renee in Minnesota - and then immediately what you're seeing in terms of use of force policy is whatever Donald Trump puts on Twitter. Or whatever lie DHS is putting on their own social media platforms, which is some BS argument identifying a victim as a domestic terrorist and then justifying whatever the agent did.
+
+We know that there are some protocols, specifically protocols like an agent does not get in front of a moving vehicle. An agent is not supposed to shoot at a moving vehicle, especially if it knows the person driving does not have a weapon. There's a lot of that. But when you actually talk about how they're supposed to engage, there's not really a use of force policy being enforced.
+
+We know that in 2023, under [Alejandro] Mayorkas, the administration itself had begun discretionary accounts to establish some use of force policy. But also we know that when we leave it to the administration, this administration, whether it is the president's administration or the Department of Homeland Security under Kristi Noe - whatever's internal changes immediately as needed for them. Which is exactly why for us, we need to codify what that actually looks like by Congress, and then we have to have the systems in place to ensure that they're following protocol and then getting the reports when in fact they're violating it, so that we can ultimately hold them accountable.
+
+JW: You know the abolish ICE movement has started to pick up some steam, is it enough to restrain ICE from using excessive force, or is more needed?
+
+DR: Look, this bill here, "The DHS use of Force Oversight Act" bill, in my opinion, is the bare minimum. It's basically stating that like every other law enforcement entity, there must be a use of force policy that is not just in the books but trained, implemented, and used for accountability in the future. The bill itself has a number of details, right? Use only the amount of force that is objectively reasonable. We can argue back and forth what that means. It clearly and consistently specifies that deescalation is preferred, and they should really move and create the tactics for deescalation. It requires law enforcement officers to complete initial required training, which we know agents are not doing now. Prohibition of chokeholds, and the list goes on with this policy.
+
+So when I say that to you, what I mean is, this is not controversial. This is what every other enforcement agency is using, and ICE or CBP, since they're entering our cities, should not be excluded from it. And I mean that every single Democrat and every single Republican should be able to sign on to this bill because it's basic - bare minimum. And not signing on is indicating that you're OK with what's happening on the streets.
+
+Now let's separate from a very specific policy reform that I'm looking at through this bill. I still think that we need to hold the administration accountable. I still think that members of Congress need to use the appropriation process right now to ensure that not one more dollar goes to this agency without significant concrete policies.
+
+You know that for me, ultimately, what I want to see is defund ICE. Ultimately, what I really want is to start dismantling the Department of Homeland Security. It has not been around that long. It's been 20 something years that they've been around. It was formed after 9/11, and ICE enforcement was happening under other purviews, and so was other entities like the Coast Guard. And then TSA, of course, as we know, was created after that as well.
+
+This agency was designed, created intentionally in this particular way so that it gives them the massive latitude necessary to do whatever they want in the name of protecting us from domestic terrorism. Which is why strategically you hear Kristi Noem, the president, Tricia [McLaughlin], the assistant secretary, all calling victims - victims attacked and harmed by ICE - domestic terrorists. Because as long as they can call them domestic terrorists, they think that they can have impunity, qualified immunity, and kill and then lie about it.
+
+So what that means is, I want to use the appropriation process to hold money from DHS. I want to see real reforms long-term. I want to work on dismantling DHS. We need to impeach Kristi Noem, and then we need to hold her accountable as well.
+
+JW: Why do you think that your Democratic colleagues are so resistant - in many ways - to tackling this issue in a broader way? We've obviously seen resistance to abolish ICE, to defunding DHS. What do you think that resistance is based in?
+
+DR: Jessica, I think sometimes the resistance is based on fear, and this moment shows us that our constituents are demanding moral courage and moral clarity. If our responsibility is to represent our constituents, - whether it's in Chicago, in New Orleans, in Louisville, Kentucky or if it's in Portland, Oregon, and the list goes on - it's to represent them, to fight for every single resource they need to thrive, and to protect them and uphold the Constitution.
+
+Department of Homeland Security has demonstrated lawlessness. They're operating unaccountable. They're violating the Constitution. And they are creating chaos and fear and potential death in every single city that they walk into.
+
+And so my colleagues have struggled with the fear, of what does that mean? Does this mean open borders? What does this mean? Are constituents going to vote me out because I'm being critical of an agency that was created after 9/11? Am I not demonstrating that I'm defending them from terrorism? Well, the biggest organization of terror in this moment is the Department of Homeland Security.
+
+We are not where we were in 2018. The movement is not where it was in 2018. Thirty-five people have died under the Department of Homeland Security since Donald Trump became president again last year. A U.S. citizen was shot in the face three times, and they're threatening to kill all over the country and then lie about it.
+
+When 46 percent of consistent polls of U.S. citizens are talking about abolishing - not even defund, abolishing - it really forces members of Congress to ask themselves, "What are we doing about this agency that is lawless and creating fear and killing people around the country in the name of protecting us from the threats to the homeland?" And so I really think that this is a moment of real moral reckoning for my colleagues, whether they're Democrats or Republicans.
+
+This agency isn't operating FEMA the way it needs to. It's not providing the resource and supports the Coast Guard needs in the way it needs to. It's actually taking their money and moving them to ICE enforcement. They're sending these ICE agents untrained, sending them to create the kind of havoc, the kind of chaos into cities that people are worried and fearful of leaving their home for.
+
+And at the same time, they're giving all these contracts to Donald Trump's campaign donors so that they can become filthy rich at the expense of imprisoning and letting human beings die in prison.
+
+So, yes, things may have felt different, and maybe they were in some ways, but some of us knew that this agency - in its inception - was created to do what it's doing now. It is the biggest threat to the homeland, and we need to dismantle it immediately.
+
+JW: Those were all of my questions, but is there anything that I didn't ask you that you wanted to say?
+
+DR: You heard me talk a lot about the Department of Homeland Security, how it was created. I think more and more of us are going to start talking about what this means. Of course, we need to fund TSA; of course we need to fund the Coast Guard. FEMA needs resources. And we've seen what happens when negligent leaders like Kristi Noem are at the helm of DHS.
+
+There are ways to fund these important programs, but they can't be funded under an agency that steals the money from these programs and puts them to put these criminals on the street, these thugs on the street to kill our constituents and American citizens. So where there's a will, we create the solutions, but we have to have the will to do that.
+
+[Break]
+
+How Trump Is Unleashing His Partisan Militia on Immigrants and His Ideological Enemies
+
+Rep. Alexandria Ocasio-Cortez: The cuts to your health care are what's paying for this.
+
+JW: That's Rep. Alexandria Ocasio-Cortez speaking to reporters earlier this week.
+
+AOC: So understand how these dots connect. You get screwed over to pay a bunch of thugs in the street that are shooting mothers in the face.
+
+JW: Back in 2018, the then-House candidate won the New York City Democratic primary on a progressive platform that included calling for abolishing ICE. In response to Trump's first term policies - such as family separation - the movement gained modest momentum among Democrats. But it was largely seen as too risky and too radical to completely eliminate the agency.
+
+Now though the calls to abolish ICE are back - perhaps stronger than ever as the Trump administration's violent immigration raids terrorize communities across the country.
+
+Could backlash to Trump's deportation agenda actually lead to real change? Joining me now to break it all down are two guests.
+
+Adam Goodman is the author of "The Deportation Machine: America's Long History of Expelling Immigrants." He's a historian at the University of Illinois Chicago.
+
+Welcome to the show, Adam Goodman.
+
+Adam Goodman: Thank you, Jessica.
+
+JW: Also joining us is the author of "The Cruelty is the Point" and staff writer at the Atlantic, Adam Serwer.
+
+Welcome to the show Adam Serwer.
+
+Adam Serwer: Thank you so much for having me.
+
+JW: According to polling from The Economist and YouGov, more Americans support abolishing ICE than keeping it. Adam Goodman, I want to start with you. What do you make of this shift?
+
+AG: One of the things that's really interesting about public opinion polling on immigration is that it's held pretty consistent over time of U.S. citizens and people in the country being in favor of immigrants. It was a relatively recent shift in the lead up to the 2024 election against immigrants and against ongoing immigration, in part because of the campaign that Donald Trump launched to scapegoat immigrants - use them for his own political gain. And what we've seen since Trump has come into office in the past year is that public opinion polling has shifted again, and response to the cruelty and response to the really draconian actions that the administration has taken against not only immigrants, but also citizens and permanent residents and many others.
+
+JW: Adam Serwer, I want to turn to you. Does this type of polling change the political calculus for Democrats when it comes to either reining in or abolishing ICE altogether?
+
+AS: [Sighs.] That question is difficult to answer because you'd have to ask the Democratic Party, but the reality is that this is a paramilitary armed force that is essentially a partisan militia that is being deployed as an armed force, that is at war with the parts of the country that did not support Donald Trump as much as he deems necessary.
+
+So we talk about ICE in the context of immigration, but I think as we've seen over the past few weeks, ever since these deployments started, this is really a war against the "blue" parts of the country. And I hesitate to describe them that way because that's really un-nuanced. The fact is, the country does not look like an electoral map in terms of, every community has both types of people in it.
+
+But fundamentally this is not really about immigration. And it's not just about immigration in the sense of who is a citizen and who is not. These people have a definition of American that excludes people who do not agree with them ideologically. And so the violence that you're seeing that federal agents are engaging in against observers, against activists, not just against immigrants, is a reflection of that ideological worldview. Which is that those of us who do not agree with Donald Trump are not real Americans and are not entitled to the rights that are due us in the Constitution, whether or not we have citizenship.
+
+JW: I want to push on this a little bit more. As you've said, there's essentially a war on blue states, and it's more complicated than that. But why do you think we're not seeing Democrats push really hard against that, against not just this war on immigrants, but as you pointed out, this war on states where they're in power?
+
+AS: Not just states, cities. They sent ICE, federal agents to Memphis. I hesitate to say ICE because people say ICE when they both mean ICE and the Border Patrol. These are essentially people who are used to the subjects that they're dealing with treating them as non-persons. So it's not really a surprise that they're also treating citizens as non-persons because we have given them license to treat immigrants, essentially as non-persons with no rights they need to respect. And so now that they're treating Americans who are perceived as liberal that way.
+
+I think Democrats are apprehensive because the backlash against the 2020 Black rights protest was so profound in the "anti-woke" backlash, which I believe was really driven by anti-integration sentiment in white-collar workplaces - in particular, in the public-facing jobs like the media.
+
+They are concerned with the agenda-setting power of the American right and the reactionary elements within the media industry to define the terms of debate. So if they go against ICE, which has not existed for very long - most Americans have been alive longer than ICE has existed - they're concerned that they're going to be dealing with another "abolish the police" backlash. But the truth is, a democracy cannot exist when it has an armed uniformed federal agency who believes that its job is to brutalize 50 percent of the country.
+
+AG: What we're seeing now is also a result of the Democrats' inaction and actually decision to avoid immigration, in part as a result of the polling. To go back to your first question, the polling that the Biden administration followed and that other administrations before Biden on the Democratic side followed, was that immigration was a toxic issue, it wasn't going to help them come election time. And kind of they ignored it - hoped it would go away. The Trump campaign and the administration has capitalized on that since.
+
+But I think there's actually an opportunity here for Democrats to stake out some new ground. I mean, if there was ever a chance for Democrats to stake out new ground, it was 2016 and then again 2024, to distinguish themselves from the Trump administration. They did that to an extent on the campaign trail. But after assuming power, Joe Biden kept at arm's length when it came to immigration. And that was a missed opportunity, I think, for all kinds of reasons - political, certainly, but also moral and ethical.
+
+One thing I'll just add, a brief anecdote, is that I had a chance to speak with a group of about 20 congressional Democrats in 2020. And this was the height of the protest for Black Lives Matter after the killing of George Floyd and the Abolish ICE, abolish the police movement.
+
+And I mentioned just the word "abolition" or "abolish," and was quickly shut down by the group. And I think that's actually both understandable on the one hand from an elected official who sees that there's no political possibility there, but a real miscalculation and that we've seen how far things have moved to the restriction side of the ledger.
+
+We've seen what's politically possible now. And how what was seen as extremist in the past is now a centrist opinion when it comes to immigration. So if we're ever going to move back in the direction of a more humane immigration policy in this country, I think that we need more radical ideas on the table - regardless of whether or not they come to fruition.
+
+AS: Yeah, I think it's important to remember the immigration situation when Joe Biden took office was that there was a surge in migration at the border because of the post-Covid economic recovery, which in the United States was the strongest in the Western world. And so you had a big demand for labor, and you had a lot of people who, for other geopolitical reasons, wanted to come here and work.
+
+That created an anti-immigrant sentiment that, along with, what they call thermostatic public opinion, that provided an opportunity for the Trump administration. I'm not a campaign adviser, I can't give political advice in that sense. But I think what should be very clear to all Americans now is that there is no way to wage war on "illegal immigration" without also waging war on American citizens.
+
+And they understood that from the beginning. And that's precisely why they wanted this war in the first place, because they wanted to reshape the country in a very narrow right-wing image of what an American is - which is a white Christian conservative, with a few token minorities who will provide an alibi for the racial nature of their redefinition of American citizenship.
+
+But the truth is that they consider anyone who is ideologically opposed to them an enemy, and that that person can be subject to violence - political violence at the hands of armed agents of the state. And you could see that in the way that they're talking about Renee Good in the aftermath of her shooting by a federal agent saying, she was an agitator, or she was an activist, or she was protesting.
+
+What that means is if you express the wrong ideological views or you act on the wrong political views, the state has a right to execute you. Now that is not freedom under any definition. They simply do not care whether or not you are an immigrant or not. Their mandate is to terrorize communities that they see as insufficiently pro-Trump.
+
+JW: You know, George Floyd was murdered by a police officer just miles from where an ICE agent fatally shot Renee Good. "Defund the police" was widely maligned by established Democrats as a political grenade. It was never adopted by mainstream or establishment Democrats. Do we think the "Abolish ICE" movement will hit some of those same political roadblocks, or do you think there's more appetite for limiting funding to ICE than there is from relocating funding from police departments?
+
+AS: I think there is, and I think because there's a middle road here, right? It's possible to have a democracy with policing. It's possible to have a democracy with immigration enforcement. What you cannot have is an armed - federally armed - taxpayer-funded partisan militia that is at war with half the population because they're insufficiently conservative.
+
+You cannot have a democracy with an agency - a rogue agency - like that. And I think that's what American history says. Like in some sense, it feels a little bit like we're going through Redemption after the Civil War, except the federal government is in the place of the Southern white supremacist governments with their aligned paramilitaries.
+
+If you're a Democrat, maybe you don't have to say the word "abolish," but you do have to say that this is not working because these people are violating the fundamental constitutional rights of American citizens, and they can't continue to do that because that absolutely breaks the consent of the government.
+
+AG: You know, the Department of Homeland Security and ICE have only existed for a little over two decades, and prior to the Department of Homeland Security, the immigration bureaucracy was called the Immigration and Naturalization Service.
+
+That rhetorical shift matters a great deal. And it also points to the fact that part of the immigration bureaucracy has typically, and up until very recently, been meant to provide services to immigrants and to people who are seeking to come to the country. And today, we've seen a dramatic shift of the whole bureaucracy being directed at enforcement efforts.
+
+The Trump administration has broken with kind of any past tradition when it comes to how the bureaucracy's typically operated. And I think that we're seeing kind of the effects of that. So you have people on the service side of things who are now running de-naturalization campaigns and have quotas that they're supposed to meet each month in sending potential cases for de-naturalization to the Department of Homeland Security.
+
+And so I think that it's possible that we could see a kind of a reapportioning of the budget of the Department of Home Security, but I don't think it's going to happen under this administration, certainly.
+
+And the other thing is that as immigration has become really intricately tied to questions of national security, at least that's what the administration and what politicians often say and that's been true since September 11, 2001. But even prior to that, it becomes difficult to disentangle enforcement efforts with this fearmongering about the immigrant other posing a national security threat. And politically, I think politicians find that a difficult tightrope to walk.
+
+JW: Yeah. I want to dig in a little bit more on the history. Can you walk us through how the Department of Homeland Security got to be this massive behemoth, expensive behemoth that it is today on par, not fully on par, but close to the Department of Defense in terms of the amount of spending that we're putting into this? I'm curious how we got here.
+
+AG: The federal government came to take control over immigration in the late 19th century in 1891. And for a long time, it was under the Department of Labor. Immigration was seen primarily as a question of labor. In 1940 at the start of the Second World War, it moved from the Department of Labor to the Department of Justice. Then after September 11, 2001, it moved to the newly created Department of Homeland Security.
+
+And really, historically, the agency had been underfunded and had been strapped for cash. It was difficult for enforcement efforts to really achieve what their mandate stated. And there was also an incredible amount of corruption, of extortion, of smuggling, and physical, psychological, sexual abuse that agents perpetrated against migrants.
+
+In the late 1970s - which I referred to as the dawn of the age of mass expulsion - around 900,000 people a year were apprehended and deported, from the late 1970s up until the 21st century. And these abuses were very common. People were being beaten, children were being separated from their parents. And family separation was a thing that has a long history as well. Agents sexually abused, raped women who were in their custody. Agents shot migrants. Agents killed migrants.
+
+What we're seeing today has a long history, but there's also some striking differences today, and I think in part because of September 11 and the turn toward the national security state. And in part because Donald Trump has used this as the most successful way for him to accumulate power and to maintain power is the scapegoating of immigrants. And I think that's something that has resonated with people and it's worth asking why. Why has it resonated with people?
+
+And I think because people have real issues, they have real problems that they're facing, and instead of actually creating a more sustainable social welfare state to address those problems, the administration finds it much easier to point the finger at immigrants and others.
+
+AS: There was a huge backlash to the brutality of immigrant authorities in the 1930s. That led to some reforms. I think the issue here is, to be honest, is that the country went crazy when Barack Obama got elected president.
+
+It's not a coincidence that Donald Trump started polling as the front-runner in 2011 when he became the country's biggest birther. Because birtherism was a redefinition of American citizenship that excluded the Black president, whose mere presence was a psychological wound for a lot of white people in America.
+
+Donald Trump has basically ridden this madness to a point in which he is shredding the constitutional rights of American citizens in the name of cleansing the country of those that they don't consider American. And he is perhaps less ideological than Stephen Miller, but he is aware of what Stephen Miller's ideology is. You know, Trump joked about how Stephen Miller, he's only gonna be happy when everybody in the country looks like him. And Miller's like, yeah, that's right. And we know what that means! And I think there's an inability to accept that because it's so at odds with Americans' definitions of themselves.
+
+But if you look at what's happening, if you look at like these masked agents who are brutalizing people and killing people, and you don't recognize that as a violation of everything you claim to stand for as an American, then there's a real problem.
+
+And I think, just to go back to what Adam was saying about abuses by immigration agents. When you give people power this kind of power, and they are not accountable for that power - they can hide their identity, the federal government is not providing any oversight over their actions - then you get abuse. That is just human nature. When you are not accountable for abusing your power, you will abuse your power to degrees that are intolerable for those who are being abused because there's no reason for you to stop. Especially because, to some extent, the people who are doing this are self-selective for having a high tolerance for inflicting pain on other people.
+
+The entire premise of the American government is supposed to be opposition to arbitrary power, arbitrary tyranny. But that's all we're seeing in our streets right now, and it's up to the people to say, "This is not what we're about. We're not gonna tolerate this." And to some extent, it's up to the people's representatives, especially in the opposition and the Democratic Party, to say, "We're not gonna tolerate this anymore."
+
+AG: One of the things that comes to mind listening to Adam is that I got interested in the topic of the history of deportation and trying to understand it actually in the early years of the Obama presidency, trying to make sense of like, how could someone who came into office preaching hope and change also be apprehending and deporting a lot of people?
+
+And it points to the fact that there's a bipartisan history here, and it's not to equate the present administration with past administrations. There's a stark difference. But Democrats and Republicans alike, have overseen mass deportation campaigns throughout U.S. history.
+
+It speaks to the fact in part of the bureaucratic nature of the Department of Homeland Security, and prior to that, the Immigration and Naturalization Service. If you create an agency within the federal government tasked with enforcing immigration laws whose budget depends on apprehensions, detentions, and deportations, they're going to try to carry out that task and they have an institutional imperative to do so. That's going to lead to all kinds of problems, including incredible discretionary authority, as Adam noted, for low-level agents on the street or on the border, and tremendous abuses as a result of people not held to account.
+
+We've seen that that's incredibly problematic and also very difficult to change. So it's not just the capitalist imperatives, the racist rhetoric and laws and implementation of the laws, but it's also the bureaucratic imperatives that have historically driven the deportation machine.
+
+AS: Yeah, as Adam said, the reorganization of the immigration or deportation bureaucracy was done under the Bush administration. But prior to that, it had been substantially expanded by Democratic presidents. And Obama believed that if he was aggressive on deportations that Republicans would come to the table and do an immigration deal. But of course, that didn't happen. And so instead, you just have a one-way ratchet, where the immigration state gets more and more aggressive, and the people who are hired to enforce those immigration laws become more and more hardened by their mandate, which is solving the problem with the only lever they have, which is force and violence.
+
+I do think there's probably - the downturn in migration is also in part because we have shown the world that we are becoming a different type of country, that we are becoming a tyrannical country in which the basic human rights of immigrants and even citizens are not going to be respected by men with badges and guns.
+
+AG: It's worth noting that Obama during his presidency, during his two terms, changed in response to pressure from immigrants and advocates and allies. And I think, people who organize on the ground, immigrants themselves first and foremost, and then those working alongside them recognize that they might not be happy with either party, but there is a difference between the two, and Democrats are certainly more susceptible to pressure from below and to moving on this particular issue. And I think that presents political possibilities for future administrations.
+
+JW: As you've both written about extensively, law enforcement agencies spreading racial terror throughout the United States isn't a new phenomenon, and yet it feels like we constantly go through these cycles of people caring and the energy fizzling out without a bunch of meaningful systemic change. And the cycles of racial violence in the U.S. are obviously particularly notable as we approach Martin Luther King Jr. Day. What would it take to sustain a movement that meaningfully addressed that violence, and do electeds right now have the stomach for it?
+
+AS: I think these resurgences are built into the contradictions of the American idea, right? You have a Declaration of Independence that says, "We find these truths self-evident that all men are created equal." But by the way, the British king is fomenting slave uprisings and leaving us victim to Indian savages. That's in the Declaration of Independence. Nobody reads past the first paragraph, so we always forget the rest of it.
+
+And then you have this other definition of citizenship rooted in the Reconstruction Amendments, which is that we are all Americans, regardless of where you come from, regardless of what your ethnic origin is - all really are created equal.
+
+And so as a result this back and forth that you're seeing is a conflict between these two iterations of the American idea. And I'm not sure that there's ever going to be a final disposition of this conflict, but the reason that it keeps happening is because these are two mutually contradictory ideas of what it means to be an American. Either an American is a white Western Christian, or anybody can be an American. Those two ideas cannot coexist. It can be 80 percent one, and 20 percent the other, but they're always going to be in conflict. And as long as there are people who adhere to the idea that to be an American is to be white, we're going to have these reactionary revolutions and backlashes over and over. Particularly against advances in civil rights and equality and things like Black people becoming leaders of the country.
+
+JW: And Adam Goodman, I want to get you in on this too. I interviewed Bernice King a few years back, and she repeated obviously her parents famous line about having to fight for democracy in every generation, to fight against evil in every generation.
+
+But I'm not that old. It can feel a little exhausting how quick the cycles are going. And I guess, how do you see, if not a forever racial harmony, but a real addressing of the violence that we're experiencing? I want to get your thoughts.
+
+AG: History shows that anyone struggling for equity, justice, really a different world, needs to play the long game.
+
+When it comes to immigration, these battles have taken place in response to horrible things, whether it's apprehensions, mass raids across the United States, and people trying to defend themselves, their families, and their communities. There's been a lot of defensive actions taken, but also there's been a lot of proactive, offensive actions taken by immigrants and advocates and recognizing that perhaps there'll be some short-term victories, but real change will only happen over the course of longer periods of time and sustained struggle and really keeping the pressure up on elected officials and keeping this issue front and center so that when a moment does emerge, when change, perhaps surprising, perhaps unexpected or thought impossible, presents itself, we can capitalize.
+
+I think it's very difficult to say exactly when that'll be, but certainly we see historically that when there have been moments of dramatic change and victories won, and there are many examples of that - it's important to remember that, especially, during this dark time, it's been a result of that sustained pressure and struggle over long periods of time. And not just pressure from below, but also people in power taking action and taking advantage of their positions and their privilege to push forward a new vision for the country.
+
+AS: My pessimistic offering here is that I think the kind of change that Adam is talking about really requires a fracturing of the Republican coalition as it currently exists. The Democratic Party cannot, by force, do it on its own.
+
+You look at things like Reconstruction or the mid-century civil rights movement - it cannot just be Democrats and liberals saying, "No, recording an ICE agent is not a death penalty offense." You need Republicans, to some extent, and obviously not the hard-core MAGA because they're never going to do that, but to some extent, their rank-and-file Republican voters to have a moment of recognition and to realize that this is not the country that they want to live in.
+
+I don't know if that's going to happen. I don't know if it's going to happen tomorrow. I don't know if it's going to happen in four years or five years. But I do think it's not something that in a two-party system, one party can do on its own. Now, maybe, maybe in a landslide election with a tremendous amount of the veto points built into the system with a majority that's large enough to overcome those veto points - maybe. But I don't actually think that's in the offering given the division of the country at the moment in terms of the two parties' coalitions, especially given that Donald Trump won a plurality of the popular vote in the last election.
+
+So to some extent, you need some of the people on the other side to wake up and realize that they don't want to live in a show-me-your-papers country.
+
+AG: One thing that's important to remember is that it's really helpful to have a common enemy when you're organizing. Donald Trump has both implemented the harshest most draconian policies in our lifetimes when it comes to immigration. But he's also brought more people out into the streets, and more people now care about this issue than, I think, have in the recent past, at the very least. And there's political possibility in that.
+
+And the question of after Trump leaves office, what happens and how to keep that pressure up is one I don't have the answer to. But I think we saw that happen in 2020, after Biden came to office and things went back to normal, back to the status quo. Which, certainly, I think immigrants weren't happy about. They wanted broader-scale changes when it comes to the system in which they need to live and navigate.
+
+But there is a real question of what's going to happen moving forward. And I agree with Adam that it's not going to be one in which one party can just push through these transformative changes. It's going to happen when there's a realignment. And perhaps there will come a breaking point because of public opinion, because of something horrible that happens like we've seen recently, and perhaps some Republicans and others, whether it's voters or elected officials, will peel off.
+
+JW: We're running out of time, but I just wanted to give you both a chance to give any final thoughts before we close out. And Adam Serwer, I'll start with you, and then Adam Goodman, if you could close us out.
+
+AS: Look, I would just emphasize again that as scary as these men are, as scary as this situation is, the people even in authoritarian regimes are the determinant of where things go. If enough people rise up against this, if enough people say this is unacceptable, you can change it. The fact that they have all the guns and the authority to use force and a pliant Supreme Court that will bless whatever the president wants to do - no matter how nakedly authoritarian or unconstitutional - the ultimate arbiter of what happens here is the people. You are not helpless. It is actually up to you.
+
+And they know that. And in part, that's why they're trying so hard to demoralize people. And I would just say that people should not be demoralized by the administration's propaganda efforts to make everything seem like they can do whatever they want and they're all powerful and everybody else is helpless. No, ultimately the American public decides what happens here whether through action or complacency.
+
+AG: I couldn't put it better myself. What other option do we have but to fight, but to continue to organize and to struggle? Hope is about bringing about a different world.
+
+JW: We're going to leave it there. But thank you both so much for joining me on the Intercept Briefing. This was a really important conversation. I'm glad you had it with me.
+
+AS: Thank you for having us
+
+AG: Thank you.
+
+JW: That does it for this episode.
+
+This episode was produced by Laura Flynn. Sumi Aggarwal is our executive producer. Ben Muessig is our editor-in-chief. Maia Hibbett is our Managing Editor. Chelsey B. Coombs is our social and video producer. Desiree Adib is our booking producer. Fei Liu is our product and design manager. Nara Shin is our copy editor. Will Stanton mixed our show. Legal review by David Bralow.
+
+Slip Stream provided our theme music.
+
+If you want to support our work, you can go to theintercept.com/join. Your donation, no matter the amount, makes a real difference. If you haven't already, please subscribe to The Intercept Briefing wherever you listen to podcasts. And leave us a rating or a review, it helps other listeners to find us.
+
+If you want to send us a message, email us at podcasts@theintercept.com.
+
+Until next time, I'm Jessica Washington.

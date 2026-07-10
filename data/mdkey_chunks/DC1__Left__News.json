@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "source": "DC1__Left__News.html",
+    "political_leaning": "Left",
+    "news_type": "News",
+    "news_source": "The Intercept_",
+    "topic": "Deportation Campaign",
+    "published_date": "27 January 2026",
+    "title": "Read the Report on Alex Pretti’s Killing — and the Bizarre Q&A CBP Gave Congress First",
+    "source_link": "https://theintercept.com/2026/01/27/cbp-congress-dhs-death-report-alex-pretti/"
+  },
+  "chunks": [
+    {
+      "text": "Under pressure from members of Congress to produce a mandated report on the fatal shooting of 37-year-old Alex Pretti in Minneapolis on Saturday, United States Customs and Border Protection instead sent Congress its responses to a list of questions - which the agency had drafted itself.\n\nAccording to a congressional source who provided The Intercept with the communications on the condition of anonymity because they were not authorized to speak publicly, the immigration enforcement agency had not been responsive to questions from House and Senate committees with jurisdiction over DHS about Pretti's shooting. The agency is legally required to send an \"in-custody\" death notification to several committees and members from the victim's home state within 72 hours. The agency eventually sent the report, which The Intercept is publishing, on Tuesday after the deadline.\n\nBut first, it sent a self-Q&amp;A, which can be read in full below. In it, the agency repeatedly declines to answer its own questions.\n\nOne question drafted by CBP asks whether agents were wearing body cameras, to which the agency responds that \"CBP defers to the investigating agencies.\" In another question, the agency asks itself if the immigrant being targeted had \"a final order of removal.\" CBP responds that it has to defer to \"DHS and investigating agencies for further detail of the operation.\"\n\nThe agency also asks itself what training Border Patrol agents receive on de-escalation and use of force and offers a vague answer to its own question. \"Authorized Officers/Agents shall employ de-escalation tactics and techniques, when safe and feasible, that do not compromise law enforcement priorities,\" CBP responds.\n\nThe full questionnaire:\n\n- Are/were witnesses being detained, what is their status?\n\n· CBP defers to the investigating agencies on witnesses. Other agitators were detained on scene.\n\n- Was the suspect's gun loaded? Was a round in the chamber? Was he concealed carrying? Did he have ID on him? Was he the only armed individual on the scene (other than LEOs)? Was he legally carrying?\n\n· CBP can confirm that the subject's gun was loaded, 2 additional magazines on we found on the subject. No identification was found on the subject at the time of the incident. (Pending additional details).\n\n- What happens next? Are the involved Agents on leave? Where are these agents from (what sector)?\n\n· An agent involved in a deadly use of force incident are immediately placed on administrative leave with pay or regular days off for 3 consecutive days. CBP will follow up with more information on this case as it develops.\n\n- What training does BP receive on deescalation?",
+      "section_title": "",
+      "content_types": [
+        "paragraph",
+        "list"
+      ],
+      "start_line": 0,
+      "end_line": 24,
+      "chunk_id": "95e0334b46100b1f",
+      "title": "CBP's Response to Congressional Inquiry",
+      "summary": "The US Customs and Border Protection agency sent a self-Q&A to Congress regarding the fatal shooting of Alex Pretti, despite being legally required to send a report within 72 hours.",
+      "keywords": [
+        "US Customs and Border Protection",
+        "CBP",
+        "Alex Pretti",
+        "alex-pretti",
+        "Congressional Inquiry",
+        "use-of-force",
+        "cbp-response-to-congressional-inquiry",
+        "de-escalation-training",
+        "Immigration Enforcement"
+      ],
+      "entities": [
+        {
+          "name": "Alex Pretti",
+          "type": "PERSON"
+        },
+        {
+          "name": "United States Customs and Border Protection",
+          "type": "ORG"
+        },
+        {
+          "name": "Congress",
+          "type": "ORG"
+        },
+        {
+          "name": "US Customs and Border Protection",
+          "type": "ORG"
+        }
+      ],
+      "questions": [
+        "What is the US Customs and Border Protection agency's response to the fatal shooting of Alex Pretti?",
+        "What training does Border Patrol receive on de-escalation?",
+        "What is the agency's policy on body cameras for agents?",
+        "Why did the agency send a self-Q&A to Congress instead of a report?",
+        "What is the agency's response to questions about de-escalation and use of force training?"
+      ],
+      "key": "cbp-response-to-congressional-inquiry",
+      "related_keys": [
+        "cbp-response-to-congressional-inquiry"
+      ],
+      "position_index": 0,
+      "previous_chunk_id": "",
+      "next_chunk_id": "7f535df41e0ce607",
+      "token_count": 527
+    },
+    {
+      "text": "· De-escalation is part of CBP's Use of Force Policy and agent are trained on it. Below is from the CBP Use of Force Policy (https://www.cbp.gov/sites/default/files/2024-09/exhibit\\_09\\_-\\_cbp\\_use\\_of\\_force\\_policy\\_final\\_jan\\_2021.pdf)\n\nD. De-Escalation\n\n1. De-escalation tactics and techniques seek to minimize the likelihood of the need to use force, or minimize force used during an incident, to increase the probability of voluntary compliance.\n\n2. Authorized Officers/Agents shall employ de-escalation tactics and techniques, when safe and feasible, that do not compromise law enforcement priorities.\n\nOCA will work with the Office of Training and Development as well as USBP to provide you a brief in the coming weeks specific to de-escalation training.\n\n- Were any BPAs wearing BWCs? were they on?\n\n· CBP defers to the investigating agencies.\n\n- Did the AI being targeted have a final order of removal?\n\n· CBP defers to DHS and the investigating agencies for further detail of the operation.\n\nThe required death-in-custody notice provides some additional details. It offers no evidence to support speculation from administration officials that Pretti's gun accidentally went off, triggering the shooting, or that Pretti had planned to massacre immigration officials.\n\nAccording to the report, the incident began after a Customs and Border Protection Officer (CBPO) was \"confronted by two female civilians blowing whistles\" who were ordered to move out of the roadway. The officer pushed the two women, according to the report, when one of the women went to Pretti for help.\n\n\"The CBPO pushed them both away and one of the females ran to a male, later identified as 37-year-old Alex Jeffrey Pretti, a US citizen,\" reads the notice. \"The CBPO attempted to move the woman and Pretti out of the roadway. The woman and Pretti did not move. The CBPO deployed his oleoresin capsicum (OC) spray towards both Pretti and the woman.\"\n\nAccording to the notice to Congress, CBP personnel attempted to take Pretti into custody, at which point \"a struggle ensued.\" The report says that a Border Patrol agent (BPA) yelled \"He's got a gun!\" About five seconds later, according to the report, two agents began shooting at Pretti, and afterward, a separate agent told them he had Pretti's gun.\n\nThe sequence of events described by CBP contradicts the statements put out by the Department of Homeland Security from over the weekend. On Saturday, DHS claimed that it \"looks like a situation where an individual wanted to do maximum damage and massacre law enforcement.\" White House aide Stephen Miller wrote on X on Saturday that Pretti was a \"would-be assassin,\" and a \"domestic terrorist.\"\n\nThe full death-in-custody report on his killing:",
+      "section_title": "",
+      "content_types": [
+        "paragraph",
+        "list"
+      ],
+      "start_line": 26,
+      "end_line": 54,
+      "chunk_id": "7f535df41e0ce607",
+      "title": "CBP's De-escalation Policy and Training",
+      "summary": "CBP's use of force policy includes de-escalation tactics and techniques, but the agency defers to investigating agencies for details on specific incidents.",
+      "keywords": [
+        "cbp-use-of-force-policy",
+        "Alex Jeffrey Pretti",
+        "use-of-force-training",
+        "de-escalation-tactics",
+        "oleoresin capsicum (OC) spray",
+        "CBP officer confrontation",
+        "Customs and Border Protection"
+      ],
+      "entities": [
+        {
+          "name": "Alex Pretti",
+          "type": "PERSON"
+        },
+        {
+          "name": "CBP",
+          "type": "ORG"
+        },
+        {
+          "name": "DHS",
+          "type": "ORG"
+        },
+        {
+          "name": "Alex Jeffrey Pretti",
+          "type": "PERSON"
+        },
+        {
+          "name": "Customs and Border Protection",
+          "type": "ORG"
+        }
+      ],
+      "questions": [
+        "What is CBP's de-escalation policy?",
+        "What happened during the CBP officer confrontation?",
+        "What led to the shooting of Alex Jeffrey Pretti?",
+        "Who was shot by the CBP officers?",
+        "Were any BPAs wearing BWCs?",
+        "Did the AI being targeted have a final order of removal?"
+      ],
+      "key": "cbp-response-to-congressional-inquiry",
+      "related_keys": [
+        "cbp-response-to-congressional-inquiry"
+      ],
+      "position_index": 1,
+      "previous_chunk_id": "95e0334b46100b1f",
+      "next_chunk_id": "4ff5fcf6e9073ead",
+      "token_count": 600
+    },
+    {
+      "text": "The following statement pertains to an in-custody death that occurred on Saturday, January 24, 2026, in Minneapolis, MN. This information is based on a preliminary review by U.S. Customs and Border Protection (CBP) Office of Professional Responsibility (OPR) Investigative Operations Directorate (IOD) and may be updated and clarified as additional details become available. It is being provided to Committee staff concurrently with CBP senior leadership to ensure timely reporting.\n\nCBP OPR IOD established the following information and timeline based on a preliminary review of body worn camera footage and CBP documentation.\n\nOn January 24, 2026, United States Border Patrol (USBP) Border Patrol Agents (BPAs) and Customs and Border Protection Officers (CBPOs) supporting Operation Metro Surge were conducting enforcement actions near the intersection of Nicollet Ave. and 26th St. in Minneapolis, MN. Several civilians were in the area yelling and blowing whistles. BPAs and CBPOs made several verbal requests for the civilians to stay on the sidewalks and out of the roadway.\n\nAt approximately 9:14 a.m., MFD EMTs placed Pretti in an MFD EMS ambulance and he was subsequently transported to Hennepin County Medical Center (HCMC). At approximately 9:32 a.m., HCMC medical personnel pronounced Pretti deceased.\n\nCBP OPR IOD was advised that an autopsy would be conducted by medical personnel from the Hennepin County Medical Examiner's Office. CBP OPR IOD will request the official findings upon completion.\n\nHomeland Security Investigations is investigating the incident and CBP OPR IOD is reviewing it. The Department of Homeland Security Office of Inspector General was notified.\n\nA spokesperson for CBP said that death-in-custody notices reflect standard lawful procedure. \"They provide an initial outline of an event that took place and do not convey any definitive conclusion or investigative findings,\" the spokesperson wrote in a statement to The Intercept. \"They are factual reports - not analytical judgments - and are provided to inform Congress and to promote transparency.\"\n\nThe report comes at a time when members of Congress, including Republicans, appear increasingly agitated with the lack of transparency from DHS. Both the House and Senate Homeland Security Committees have called for the heads of Immigration and Customs Enforcement and CBP to testify before their committees.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 56,
+      "end_line": 76,
+      "chunk_id": "4ff5fcf6e9073ead",
+      "title": "CBP Response to Congressional Inquiry",
+      "summary": "A Customs and Border Protection Officer (CBPO) pushed two female civilians, leading to a struggle and subsequent shooting of Alex Jeffrey Pretti, a US citizen, after he was mistaken for having a gun. CBP OPR IOD established the following information and timeline based on a preliminary review of body worn camera footage and CBP documentation.",
+      "keywords": [
+        "january-24-2026",
+        "CBP",
+        "DHS",
+        "operation-metro-surge",
+        "autopsy",
+        "transparency",
+        "cbp-response-to-congressional-inquiry",
+        "minneapolis",
+        "investigation",
+        "alex-jeffrey-pretti"
+      ],
+      "entities": [
+        {
+          "name": "Alex Jeffrey Pretti",
+          "type": "PERSON"
+        },
+        {
+          "name": "U.S. Customs and Border Protection",
+          "type": "ORG"
+        },
+        {
+          "name": "Minneapolis",
+          "type": "LOC"
+        },
+        {
+          "name": "January 24, 2026",
+          "type": "EVENT"
+        },
+        {
+          "name": "Hennepin County Medical Center",
+          "type": "ORG"
+        },
+        {
+          "name": "Hennepin County Medical Examiner's Office",
+          "type": "ORG"
+        },
+        {
+          "name": "Homeland Security Investigations",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Homeland Security Office of Inspector General",
+          "type": "ORG"
+        }
+      ],
+      "questions": [
+        "What is the status of the investigation into the incident?",
+        "Who was involved in the incident?",
+        "What was the outcome of the incident?",
+        "What is the role of the Department of Homeland Security Office of Inspector General in this incident?",
+        "What happened on January 24, 2026, in Minneapolis?",
+        "Will the official autopsy findings be released?"
+      ],
+      "key": "cbp-response-to-congressional-inquiry",
+      "related_keys": [
+        "cbp-response-to-congressional-inquiry"
+      ],
+      "position_index": 2,
+      "previous_chunk_id": "7f535df41e0ce607",
+      "next_chunk_id": "4a813b867be82788",
+      "token_count": 479
+    },
+    {
+      "text": "At approximately 9:00 a.m., a CBPO was confronted by two female civilians blowing whistles. The CBPO ordered the female civilians to move out of the roadway, and the female civilians did not move. The CBPO pushed them both away and one of the females ran to a male, later identified as 37-year-old Alex Jeffrey Pretti, a US citizen. The CBPO attempted to move the woman and Pretti out of the roadway. The woman and Pretti did not move. The CBPO deployed his oleoresin capsicum (OC) spray towards both Pretti and the woman.\n\nCBP personnel attempted to take Pretti into custody. Pretti resisted CBP personnel's efforts and a struggle ensued. During the struggle, a BPA yelled, \"He's got a gun!\" multiple times. Approximately five seconds later, a BPA discharged his CBP-issued Glock 19 and a CBPO also discharged his CBP-issued Glock 47 at Pretti. After the shooting, a BPA advised he had possession of Pretti's firearm. The BPA subsequently cleared and secured Pretti's firearm in his vehicle.\n\nAt approximately 9:02 a.m., CBP personnel cut Pretti's clothing and provided medical aid to him by placing chest seals on his wounds. At approximately 9:05 a.m., Minneapolis Fire Department Emergency Medical Services (MFD EMS) emergency medical technicians (EMTs) arrived and assumed primary medical care for Pretti.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 62,
+      "end_line": 66,
+      "chunk_id": "4a813b867be82788",
+      "title": "",
+      "summary": "",
+      "keywords": [],
+      "entities": [],
+      "questions": [],
+      "key": "",
+      "related_keys": [],
+      "position_index": 3,
+      "previous_chunk_id": "4ff5fcf6e9073ead",
+      "next_chunk_id": "662106d2e8562609",
+      "token_count": 302
+    },
+    {
+      "text": "While CBP is legally required to provide reports on use of force, ICE is not held to the same standard. Last January, President Donald Trump rescinded a Biden executive order on law enforcement data, releasing ICE from its obligation to provide Congress with information on use of force by their agents. The decision will likely stand in the way of the release of new information about ICE agent Jonathan Ross's fatal shooting of Renee Good in Minneapolis earlier this month.\n\n\"We've all seen a staggering number of videos showing federal agents assaulting peaceful protesters and law-abiding immigrants and that's because under Donald Trump, violence is a feature, not a bug, of DHS enforcement,\" wrote Sen. Chris Murphy, D-Conn., in a statement to the Intercept. \"The Trump administration is not documenting these abuses because they know the American people don't support the brutality and fear that ICE and CBP are inflicting on communities. But if Congress fails to restrain DHS' campaign of intimidation now, the horror we are seeing unfold in Minneapolis will become the norm across the country.\"\n\nEarlier this month, Rep. Delia Ramirez, D-Ill., and Rep. Seth Magaziner, D-R.I., introduced legislation to limit the use of force by Department of Homeland Security agents and require DHS to track use of force and provide a notice within 24 hours if a DHS agent kills or hospitalizes a person.\n\n\"The tragic killings of Alex Pretti and Renee Good are just the latest examples of what can happen to any of us when Federal law enforcement isn't restrained and won't be held accountable,\" wrote Homeland Security Ranking Member Rep. Bennie Thompson, D-Miss, in a statement to The Intercept. \"Since DHS refuses to report on use of force incidents we have no other choice than to force them to with legislation to reign in their violent and deadly tactics and ensure there is transparency.\"\n\nUpdate: January 27, 2026, 8:53 p.m. ET\n\nThis story has been updated to include a statement a CBP spokesperson sent after publication.",
+      "section_title": "",
+      "content_types": [
+        "paragraph"
+      ],
+      "start_line": 78,
+      "end_line": 88,
+      "chunk_id": "662106d2e8562609",
+      "title": "ICE Use of Force Exemptions",
+      "summary": "The Trump administration rescinded a Biden executive order on law enforcement data, releasing ICE from its obligation to provide Congress with information on use of force by their agents. This decision may hinder the release of new information about ICE agent Jonathan Ross's fatal shooting of Renee Good in Minneapolis.",
+      "keywords": [
+        "ICE use of force exemptions",
+        "Trump administration",
+        "Biden executive order",
+        "law enforcement data",
+        "DHS",
+        "use of force",
+        "accountability",
+        "transparency",
+        "Congressional inquiry",
+        "legislation"
+      ],
+      "entities": [
+        {
+          "name": "Donald Trump",
+          "type": "PERSON"
+        },
+        {
+          "name": "Renee Good",
+          "type": "PERSON"
+        },
+        {
+          "name": "Jonathan Ross",
+          "type": "PERSON"
+        },
+        {
+          "name": "ICE",
+          "type": "ORG"
+        },
+        {
+          "name": "CBP",
+          "type": "ORG"
+        },
+        {
+          "name": "DHS",
+          "type": "ORG"
+        },
+        {
+          "name": "Congress",
+          "type": "ORG"
+        },
+        {
+          "name": "Rep. Bennie Thompson",
+          "type": "PERSON"
+        }
+      ],
+      "questions": [
+        "What is the Trump administration's stance on law enforcement data?",
+        "How does the Biden executive order impact ICE's use of force reporting?",
+        "What is the current state of transparency and accountability in federal law enforcement?",
+        "What is the current status of the Congressional inquiry into ICE's use of force?",
+        "Why is Rep. Bennie Thompson calling for legislation on use of force incidents?",
+        "What is Rep. Bennie Thompson's stance on DHS's use of force reporting?"
+      ],
+      "key": "cbp-response-to-congressional-inquiry",
+      "related_keys": [
+        "cbp-response-to-congressional-inquiry"
+      ],
+      "position_index": 4,
+      "previous_chunk_id": "4a813b867be82788",
+      "next_chunk_id": "",
+      "token_count": 410
+    }
+  ]
+}

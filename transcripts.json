@@ -1,0 +1,28 @@
+{
+    "Deportation Campaign": [
+        {
+            "id": "DCL4",
+            "url": "https://www.youtube.com/watch?v=7C9C-UbA0fE",
+            "title": "MS NOW EXCLUSIVE: Over 500 BABIES and TODDLERS have been detained by ICE under Trump's rule",
+            "news_source": "MS Now",
+            "political_leaning": "Left",
+            "news_type": "Broadcast/Interview",
+            "published_date": "10 June 2025",
+            "topic": "Deportation Campaign",
+            "filename": "DC4__Left__BroadcastOrInterview"
+        },
+        {
+            "id": "DCL6",
+            "url": "https://www.youtube.com/watch?v=uw2lF9WYmbE",
+            "title": "Support for Trump's immigration policies SINKS amid ICE operations & protests in Minneapolis",
+            "news_source": "MS Now",
+            "political_leaning": "Left",
+            "news_type": "Broadcast/Interview",
+            "published_date": "18 January 2026",
+            "topic": "Deportation Campaign",
+            "filename": "DC6__Left__BroadcastOrInterview"
+            
+        }
+
+    ]
+}

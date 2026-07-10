@@ -1,0 +1,78 @@
+[
+    {
+        "question_id": "QA_DC1_fa46150d",
+        "question_type": "Attribution",
+        "reasoning_type": "MultiHop",
+        "event_id": "DC",
+        "question": "What concerns are raised about the treatment of civilians during immigration enforcement activities?",
+        "required_documents": [
+            "DC1__Left__News.html",
+            "DC4__Left__BroadcastOrInterview.html",
+            "DC7__Left__Commentary.html"
+        ],
+        "required_doc_types": [
+            "News",
+            "BroadcastOrInterview",
+            "Commentary"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 2,
+        "answer": "There are several concerns, including the fatal shooting of a civilian during an enforcement operation, the prolonged detention of families and very young children in immigration facilities, and the use of militarized tactics, intimidation, and force against communities during enforcement actions."
+    },
+    {
+        "question_id": "QA_DC2_ma45690",
+        "question_type": "Attribution",
+        "reasoning_type": "SingleHop",
+        "event_id": "DC",
+        "question": "What document did CBP initially send to Congress instead of the legally required in-custody death report after Alex Pretti's shooting?",
+        "required_documents": [
+            "DC1__Left__News.html"
+        ],
+        "required_doc_types": [
+            "News"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 1,
+        "answer": "CBP first sent Congress a self-generated question-and-answer document, in which it repeatedly deferred answering many of its own questions, before later submitting the required in-custody death report."
+    },
+    {
+        "question_id": "QA_DC3_fq45690t",
+        "question_type": "Attribution",
+        "reasoning_type": "SingleHop",
+        "event_id": "DC",
+        "question": "According to the broadcast, approximately how many babies and toddlers were detained by ICE after Donald Trump returned to office, and how did this compare with the previous administration?",
+        "required_documents": [
+           "DC4__Left__BroadcastOrInterview.html"
+        ],
+        "required_doc_types": [
+            "BroadcastOrInterview"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 1,
+        "answer": "More than 500 babies and toddlers were detained. Between January 2025 and March of that year, about 25 children aged three and under were detained on an average day, roughly ten times the average under the Biden administration, when fewer than three were detained daily.",
+    },
+    {
+        "question_id": "QA_DC4_da45690f",
+        "question_type": "Attribution",
+        "reasoning_type": "SingleHop",
+        "event_id": "DC1",
+        "question": "What document did CBP initially send to Congress instead of the legally required in-custody death report after Alex Pretti's shooting?",
+        "required_documents": [
+            "DC1__Left__News.html"
+        ],
+        "required_doc_types": [
+            "News"
+        ],
+        "required_political_perspectives": [
+            "Left"
+        ],
+        "minimun_hops": 1,
+        "answer": "CBP first sent Congress a self-generated question-and-answer document, in which it repeatedly deferred answering many of its own questions, before later submitting the required in-custody death report."
+    },
+]
